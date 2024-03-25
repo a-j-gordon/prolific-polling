@@ -1,0 +1,281 @@
+Ethnicity,Gender,Age,Party2019,N,ethnicity,gender,age,party2019
+Asian,Female,18-24,Conservatives,0.000846459,1,1,1,1
+Asian,Female,18-24,Labour,0.003668008,1,1,1,2
+Asian,Female,18-24,Liberal Democrats,0.000564306,1,1,1,3
+Asian,Female,18-24,SNP,0.000282153,1,1,1,4
+Asian,Female,18-24,Greens,0.000225716,1,1,1,5
+Asian,Female,18-24,Brexit Party,0,1,1,1,6
+Asian,Female,18-24,Other,5.64375842468258e-05,1,1,1,7
+Black,Female,18-24,Conservatives,0.000486802,2,1,1,1
+Black,Female,18-24,Labour,0.002109448,2,1,1,2
+Black,Female,18-24,Liberal Democrats,0.000324529,2,1,1,3
+Black,Female,18-24,SNP,0.000162273,2,1,1,4
+Black,Female,18-24,Greens,0.000129805,2,1,1,5
+Black,Female,18-24,Brexit Party,0,2,1,1,6
+Black,Female,18-24,Other,3.24511764055509e-05,2,1,1,7
+Mixed,Female,18-24,Conservatives,0.000340781,3,1,1,1
+Mixed,Female,18-24,Labour,0.001476728,3,1,1,2
+Mixed,Female,18-24,Liberal Democrats,0.000227193,3,1,1,3
+Mixed,Female,18-24,SNP,0.000113588,3,1,1,4
+Mixed,Female,18-24,Greens,9.08702465175256e-05,3,1,1,5
+Mixed,Female,18-24,Brexit Party,0,3,1,1,6
+Mixed,Female,18-24,Other,2.27175616293814e-05,3,1,1,7
+Other,Female,18-24,Conservatives,0.000272141,4,1,1,1
+Other,Female,18-24,Labour,0.001179297,4,1,1,2
+Other,Female,18-24,Liberal Democrats,0.000181428,4,1,1,3
+Other,Female,18-24,SNP,9.07138134229085e-05,4,1,1,4
+Other,Female,18-24,Greens,7.25675744473353e-05,4,1,1,5
+Other,Female,18-24,Brexit Party,0,4,1,1,6
+Other,Female,18-24,Other,1.81462389755732e-05,4,1,1,7
+White,Female,18-24,Conservatives,0.005584575,5,1,1,1
+White,Female,18-24,Labour,0.024199817,5,1,1,2
+White,Female,18-24,Liberal Democrats,0.003723056,5,1,1,3
+White,Female,18-24,SNP,0.001861519,5,1,1,4
+White,Female,18-24,Greens,0.001489226,5,1,1,5
+White,Female,18-24,Brexit Party,0,5,1,1,6
+White,Female,18-24,Other,0.000372311,5,1,1,7
+Asian,Male,18-24,Conservatives,0.001877197,1,2,1,1
+Asian,Male,18-24,Labour,0.003083974,1,2,1,2
+Asian,Male,18-24,Liberal Democrats,0.000804518,1,2,1,3
+Asian,Male,18-24,SNP,0.000469299,1,2,1,4
+Asian,Male,18-24,Greens,0.000268178,1,2,1,5
+Asian,Male,18-24,Brexit Party,0.000134081,1,2,1,6
+Asian,Male,18-24,Other,0.000134081,1,2,1,7
+Black,Male,18-24,Conservatives,0.000905643,2,2,1,1
+Black,Male,18-24,Labour,0.001487835,2,2,1,2
+Black,Male,18-24,Liberal Democrats,0.000388128,2,2,1,3
+Black,Male,18-24,SNP,0.000226411,2,2,1,4
+Black,Male,18-24,Greens,0.00012937,2,2,1,5
+Black,Male,18-24,Brexit Party,6.46937753516125e-05,2,2,1,6
+Black,Male,18-24,Other,6.46937753516125e-05,2,2,1,7
+Mixed,Male,18-24,Conservatives,0.00082369,3,2,1,1
+Mixed,Male,18-24,Labour,0.001353216,3,2,1,2
+Mixed,Male,18-24,Liberal Democrats,0.000353017,3,2,1,3
+Mixed,Male,18-24,SNP,0.000205918,3,2,1,4
+Mixed,Male,18-24,Greens,0.000117672,3,2,1,5
+Mixed,Male,18-24,Brexit Party,5.88362250309533e-05,3,2,1,6
+Mixed,Male,18-24,Other,5.88362250309533e-05,3,2,1,7
+Other,Male,18-24,Conservatives,0.000512127,4,2,1,1
+Other,Male,18-24,Labour,0.000841332,4,2,1,2
+Other,Male,18-24,Liberal Democrats,0.000219476,4,2,1,3
+Other,Male,18-24,SNP,0.000128032,4,2,1,4
+Other,Male,18-24,Greens,7.31585439158885e-05,4,2,1,5
+Other,Male,18-24,Brexit Party,3.6587962685423e-05,4,2,1,6
+Other,Male,18-24,Other,3.6587962685423e-05,4,2,1,7
+White,Male,18-24,Conservatives,0.010710922,5,2,1,1
+White,Male,18-24,Labour,0.017596533,5,2,1,2
+White,Male,18-24,Liberal Democrats,0.00459039,5,2,1,3
+White,Male,18-24,SNP,0.002677735,5,2,1,4
+White,Male,18-24,Greens,0.001530124,5,2,1,5
+White,Male,18-24,Brexit Party,0.000765062,5,2,1,6
+White,Male,18-24,Other,0.000765062,5,2,1,7
+Asian,Female,25-49,Conservatives,0.007246885,1,1,2,1
+Asian,Female,25-49,Labour,0.010190921,1,1,2,2
+Asian,Female,25-49,Liberal Democrats,0.002717573,1,1,2,3
+Asian,Female,25-49,SNP,0.001132332,1,1,2,4
+Asian,Female,25-49,Greens,0.000679389,1,1,2,5
+Asian,Female,25-49,Brexit Party,0.000226463,1,1,2,6
+Asian,Female,25-49,Other,0.000226463,1,1,2,7
+Black,Female,25-49,Conservatives,0.002882401,2,1,2,1
+Black,Female,25-49,Labour,0.004053373,2,1,2,2
+Black,Female,25-49,Liberal Democrats,0.001080901,2,1,2,3
+Black,Female,25-49,SNP,0.000450371,2,1,2,4
+Black,Female,25-49,Greens,0.000270229,2,1,2,5
+Black,Female,25-49,Brexit Party,9.00706995894831e-05,2,1,2,6
+Black,Female,25-49,Other,9.00706995894831e-05,2,1,2,7
+Mixed,Female,25-49,Conservatives,0.001666673,3,1,2,1
+Mixed,Female,25-49,Labour,0.002343768,3,1,2,2
+Mixed,Female,25-49,Liberal Democrats,0.000625002,3,1,2,3
+Mixed,Female,25-49,SNP,0.000260426,3,1,2,4
+Mixed,Female,25-49,Greens,0.000156259,3,1,2,5
+Mixed,Female,25-49,Brexit Party,5.20922205074644e-05,3,1,2,6
+Mixed,Female,25-49,Other,5.20922205074644e-05,3,1,2,7
+Other,Female,25-49,Conservatives,0.001615606,4,1,2,1
+Other,Female,25-49,Labour,0.002271947,4,1,2,2
+Other,Female,25-49,Liberal Democrats,0.000605848,4,1,2,3
+Other,Female,25-49,SNP,0.000252431,4,1,2,4
+Other,Female,25-49,Greens,0.000151462,4,1,2,5
+Other,Female,25-49,Brexit Party,5.04931266513794e-05,4,1,2,6
+Other,Female,25-49,Other,5.04931266513794e-05,4,1,2,7
+White,Female,25-49,Conservatives,0.049298291,5,1,2,1
+White,Female,25-49,Labour,0.069325725,5,1,2,2
+White,Female,25-49,Liberal Democrats,0.018486863,5,1,2,3
+White,Female,25-49,SNP,0.007702852,5,1,2,4
+White,Female,25-49,Greens,0.004621711,5,1,2,5
+White,Female,25-49,Brexit Party,0.00154057,5,1,2,6
+White,Female,25-49,Other,0.00154057,5,1,2,7
+Asian,Male,25-49,Conservatives,0.00726298,1,2,2,1
+Asian,Male,25-49,Labour,0.008300549,1,2,2,2
+Asian,Male,25-49,Liberal Democrats,0.002905189,1,2,2,3
+Asian,Male,25-49,SNP,0.001037569,1,2,2,4
+Asian,Male,25-49,Greens,0.000622534,1,2,2,5
+Asian,Male,25-49,Brexit Party,0.000415034,1,2,2,6
+Asian,Male,25-49,Other,0.000415034,1,2,2,7
+Black,Male,25-49,Conservatives,0.002734033,2,2,2,1
+Black,Male,25-49,Labour,0.003124612,2,2,2,2
+Black,Male,25-49,Liberal Democrats,0.001093624,2,2,2,3
+Black,Male,25-49,SNP,0.000390579,2,2,2,4
+Black,Male,25-49,Greens,0.000234354,2,2,2,5
+Black,Male,25-49,Brexit Party,0.000156225,2,2,2,6
+Black,Male,25-49,Other,0.000156225,2,2,2,7
+Mixed,Male,25-49,Conservatives,0.001605177,3,2,2,1
+Mixed,Male,25-49,Labour,0.001834491,3,2,2,2
+Mixed,Male,25-49,Liberal Democrats,0.000642071,3,2,2,3
+Mixed,Male,25-49,SNP,0.000229314,3,2,2,4
+Mixed,Male,25-49,Greens,0.000137592,3,2,2,5
+Mixed,Male,25-49,Brexit Party,9.17219378104404e-05,3,2,2,6
+Mixed,Male,25-49,Other,9.17219378104404e-05,3,2,2,7
+Other,Male,25-49,Conservatives,0.001831571,4,2,2,1
+Other,Male,25-49,Labour,0.002093214,4,2,2,2
+Other,Male,25-49,Liberal Democrats,0.000732628,4,2,2,3
+Other,Male,25-49,SNP,0.00026166,4,2,2,4
+Other,Male,25-49,Greens,0.000156989,4,2,2,5
+Other,Male,25-49,Brexit Party,0.000104654,4,2,2,6
+Other,Male,25-49,Other,0.000104654,4,2,2,7
+White,Male,25-49,Conservatives,0.052136439,5,2,2,1
+White,Male,25-49,Labour,0.059584497,5,2,2,2
+White,Male,25-49,Liberal Democrats,0.020854583,5,2,2,3
+White,Male,25-49,SNP,0.007448058,5,2,2,4
+White,Male,25-49,Greens,0.004468842,5,2,2,5
+White,Male,25-49,Brexit Party,0.002979216,5,2,2,6
+White,Male,25-49,Other,0.002979216,5,2,2,7
+Asian,Female,50-64,Conservatives,0.003667105,1,1,3,1
+Asian,Female,50-64,Labour,0.002053584,1,1,3,2
+Asian,Female,50-64,Liberal Democrats,0.00088011,1,1,3,3
+Asian,Female,50-64,SNP,0.000293364,1,1,3,4
+Asian,Female,50-64,Greens,0.000220032,1,1,3,5
+Asian,Female,50-64,Brexit Party,0.000146682,1,1,3,6
+Asian,Female,50-64,Other,7.33497399204204e-05,1,1,3,7
+Black,Female,50-64,Conservatives,0.002318721,2,1,3,1
+Black,Female,50-64,Labour,0.001298482,2,1,3,2
+Black,Female,50-64,Liberal Democrats,0.000556485,2,1,3,3
+Black,Female,50-64,SNP,0.000185495,2,1,3,4
+Black,Female,50-64,Greens,0.000139121,2,1,3,5
+Black,Female,50-64,Brexit Party,9.27474436529297e-05,2,1,3,6
+Black,Female,50-64,Other,4.63737218264648e-05,2,1,3,7
+Mixed,Female,50-64,Conservatives,0.000774796,3,1,3,1
+Mixed,Female,50-64,Labour,0.000433893,3,1,3,2
+Mixed,Female,50-64,Liberal Democrats,0.000185947,3,1,3,3
+Mixed,Female,50-64,SNP,6.1982268378251e-05,3,1,3,4
+Mixed,Female,50-64,Greens,4.6495392011167e-05,3,1,3,5
+Mixed,Female,50-64,Brexit Party,3.09911341891255e-05,3,1,3,6
+Mixed,Female,50-64,Other,1.55042578220415e-05,3,1,3,7
+Other,Female,50-64,Conservatives,0.000935331,4,1,3,1
+Other,Female,50-64,Labour,0.00052379,4,1,3,2
+Other,Female,50-64,Liberal Democrats,0.000224481,4,1,3,3
+Other,Female,50-64,SNP,7.48271635918033e-05,4,1,3,4
+Other,Female,50-64,Greens,5.61247180575918e-05,4,1,3,5
+Other,Female,50-64,Brexit Party,3.74048910684229e-05,4,1,3,6
+Other,Female,50-64,Other,1.87024455342115e-05,4,1,3,7
+White,Female,50-64,Conservatives,0.050781311,5,1,3,1
+White,Female,50-64,Labour,0.028437538,5,1,3,2
+White,Female,50-64,Liberal Democrats,0.012187511,5,1,3,3
+White,Female,50-64,SNP,0.004062498,5,1,3,4
+White,Female,50-64,Greens,0.003046882,5,1,3,5
+White,Female,50-64,Brexit Party,0.002031249,5,1,3,6
+White,Female,50-64,Other,0.001015633,5,1,3,7
+Asian,Male,50-64,Conservatives,0.00367225,1,2,3,1
+Asian,Male,50-64,Labour,0.001800128,1,2,3,2
+Asian,Male,50-64,Liberal Democrats,0.00086405,1,2,3,3
+Asian,Male,50-64,SNP,0.000216017,1,2,3,4
+Asian,Male,50-64,Greens,0.000216017,1,2,3,5
+Asian,Male,50-64,Brexit Party,0.000288011,1,2,3,6
+Asian,Male,50-64,Other,0.000216017,1,2,3,7
+Black,Male,50-64,Conservatives,0.002099263,2,2,3,1
+Black,Male,50-64,Labour,0.001029052,2,2,3,2
+Black,Male,50-64,Liberal Democrats,0.000493946,2,2,3,3
+Black,Male,50-64,SNP,0.000123478,2,2,3,4
+Black,Male,50-64,Greens,0.000123478,2,2,3,5
+Black,Male,50-64,Brexit Party,0.000164655,2,2,3,6
+Black,Male,50-64,Other,0.000123478,2,2,3,7
+Mixed,Male,50-64,Conservatives,0.000788857,3,2,3,1
+Mixed,Male,50-64,Labour,0.000386703,3,2,3,2
+Mixed,Male,50-64,Liberal Democrats,0.000185617,3,2,3,3
+Mixed,Male,50-64,SNP,4.64084847363797e-05,3,2,3,4
+Mixed,Male,50-64,Greens,4.64084847363797e-05,3,2,3,5
+Mixed,Male,50-64,Brexit Party,6.18779796485063e-05,3,2,3,6
+Mixed,Male,50-64,Other,4.64084847363797e-05,3,2,3,7
+Other,Male,50-64,Conservatives,0.001028635,4,2,3,1
+Other,Male,50-64,Labour,0.000504236,4,2,3,2
+Other,Male,50-64,Liberal Democrats,0.000242037,4,2,3,3
+Other,Male,50-64,SNP,6.05048447068681e-05,4,2,3,4
+Other,Male,50-64,Greens,6.05048447068681e-05,4,2,3,5
+Other,Male,50-64,Brexit Party,8.06847139124624e-05,4,2,3,6
+Other,Male,50-64,Other,6.05048447068681e-05,4,2,3,7
+White,Male,50-64,Conservatives,0.050203604,5,2,3,1
+White,Male,50-64,Labour,0.024609603,5,2,3,2
+White,Male,50-64,Liberal Democrats,0.011812611,5,2,3,3
+White,Male,50-64,SNP,0.002953161,5,2,3,4
+White,Male,50-64,Greens,0.002953161,5,2,3,5
+White,Male,50-64,Brexit Party,0.003937543,5,2,3,6
+White,Male,50-64,Other,0.002953161,5,2,3,7
+Asian,Female,65+,Conservatives,0.00313624,1,1,4,1
+Asian,Female,65+,Labour,0.000882074,1,1,4,2
+Asian,Female,65+,Liberal Democrats,0.000490035,1,1,4,3
+Asian,Female,65+,SNP,9.80140245050357e-05,1,1,4,4
+Asian,Female,65+,Greens,9.80140245050357e-05,1,1,4,5
+Asian,Female,65+,Brexit Party,9.80140245050357e-05,1,1,4,6
+Asian,Female,65+,Other,9.80140245050357e-05,1,1,4,7
+Black,Female,65+,Conservatives,0.003418619,2,1,4,1
+Black,Female,65+,Labour,0.00096149,2,1,4,2
+Black,Female,65+,Liberal Democrats,0.000534167,2,1,4,3
+Black,Female,65+,SNP,0.000106826,2,1,4,4
+Black,Female,65+,Greens,0.000106826,2,1,4,5
+Black,Female,65+,Brexit Party,0.000106826,2,1,4,6
+Black,Female,65+,Other,0.000106826,2,1,4,7
+Mixed,Female,65+,Conservatives,0.006123521,3,1,4,1
+Mixed,Female,65+,Labour,0.001722241,3,1,4,2
+Mixed,Female,65+,Liberal Democrats,0.000956797,3,1,4,3
+Mixed,Female,65+,SNP,0.000191352,3,1,4,4
+Mixed,Female,65+,Greens,0.000191352,3,1,4,5
+Mixed,Female,65+,Brexit Party,0.000191352,3,1,4,6
+Mixed,Female,65+,Other,0.000191352,3,1,4,7
+Other,Female,65+,Conservatives,0.002816317,4,1,4,1
+Other,Female,65+,Labour,0.00079209,4,1,4,2
+Other,Female,65+,Liberal Democrats,0.000440046,4,1,4,3
+Other,Female,65+,SNP,8.8002306449547e-05,4,1,4,4
+Other,Female,65+,Greens,8.8002306449547e-05,4,1,4,5
+Other,Female,65+,Brexit Party,8.8002306449547e-05,4,1,4,6
+Other,Female,65+,Other,8.8002306449547e-05,4,1,4,7
+White,Female,65+,Conservatives,0.075414552,5,1,4,1
+White,Female,65+,Labour,0.021210346,5,1,4,2
+White,Female,65+,Liberal Democrats,0.011783514,5,1,4,3
+White,Female,65+,SNP,0.002356699,5,1,4,4
+White,Female,65+,Greens,0.002356699,5,1,4,5
+White,Female,65+,Brexit Party,0.002356699,5,1,4,6
+White,Female,65+,Other,0.002356699,5,1,4,7
+Asian,Male,65+,Conservatives,0.002615214,1,2,4,1
+Asian,Male,65+,Labour,0.00061294,1,2,4,2
+Asian,Male,65+,Liberal Democrats,0.000449484,1,2,4,3
+Asian,Male,65+,SNP,0.000122591,1,2,4,4
+Asian,Male,65+,Greens,4.08638006049546e-05,1,2,4,5
+Asian,Male,65+,Brexit Party,0.000122591,1,2,4,6
+Asian,Male,65+,Other,8.17276012099092e-05,1,2,4,7
+Black,Male,65+,Conservatives,0.009163486,2,2,4,1
+Black,Male,65+,Labour,0.002147687,2,2,4,2
+Black,Male,65+,Liberal Democrats,0.001574968,2,2,4,3
+Black,Male,65+,SNP,0.000429531,2,2,4,4
+Black,Male,65+,Greens,0.000143171,2,2,4,5
+Black,Male,65+,Brexit Party,0.000429531,2,2,4,6
+Black,Male,65+,Other,0.000286359,2,2,4,7
+Mixed,Male,65+,Conservatives,0.005944996,3,2,4,1
+Mixed,Male,65+,Labour,0.00139335,3,2,4,2
+Mixed,Male,65+,Liberal Democrats,0.001021804,3,2,4,3
+Mixed,Male,65+,SNP,0.000278677,3,2,4,4
+Mixed,Male,65+,Greens,9.28864952925892e-05,3,2,4,5
+Mixed,Male,65+,Brexit Party,0.000278677,3,2,4,6
+Mixed,Male,65+,Other,0.000185773,3,2,4,7
+Other,Male,65+,Conservatives,0.008566346,4,2,4,1
+Other,Male,65+,Labour,0.002007732,4,2,4,2
+Other,Male,65+,Liberal Democrats,0.001472331,4,2,4,3
+Other,Male,65+,SNP,0.000401546,4,2,4,4
+Other,Male,65+,Greens,0.000133855,4,2,4,5
+Other,Male,65+,Brexit Party,0.000401546,4,2,4,6
+Other,Male,65+,Other,0.000267692,4,2,4,7
+White,Male,65+,Conservatives,0.06397248,5,2,4,1
+White,Male,65+,Labour,0.014993556,5,2,4,2
+White,Male,65+,Liberal Democrats,0.010995265,5,2,4,3
+White,Male,65+,SNP,0.002998718,5,2,4,4
+White,Male,65+,Greens,0.000999573,5,2,4,5
+White,Male,65+,Brexit Party,0.002998718,5,2,4,6
+White,Male,65+,Other,0.001999145,5,2,4,7
