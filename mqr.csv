@@ -1,5 +1,5 @@
 question_id,question_text,response_options
-Registered,Are you currently registered to vote in the national (general) election?,"Yes:Not yet, but planning to register:No, and I wont be registering to vote"
+Registered,Are you currently registered to vote in the national (general) election?,"Yes:Not yet but planning to register:No and I wont be registering to vote"
 PartyUpcoming,Which party do you intend to vote for in the upcoming general election?,Conservatives:Labour:Liberal Democrats:Reform UK:Greens:SNP:Plaid Cymru:Other:I do not intend to vote
 ApprovalGovernment,Do you approve or disapprove of the current Government’s record to date?,Disapprove:Approve
 Lonley,How lonely have you felt on a typical day over the last two weeks?,Not at all lonely:Somewhat lonely:Moderately lonely:Very lonely:Extremely lonely
