@@ -1,0 +1,22 @@
+question_id,question_text,response_options
+Registered,Are you currently registered to vote in the national (general) election?,Yes:Not yet: but planning to register:No: and I won’t be registering to vote
+PartyUpcoming,Which party do you intend to vote for in the upcoming general election?,NA
+ApprovalGovernment,Do you approve or disapprove of the current Government’s record to date?,Disapprove:Approve
+Lonley,How lonely have you felt on a typical day over the last two weeks?,Not at all lonely:Somewhat lonely:Moderately lonely:Very lonely:Extremely lonely
+Sad,How sad or happy have you felt on a typical day over the last two weeks?,Mainly sad:Slightly sad:Neutral:Slightly happy:Mainly happy
+Anxious,How anxious have you felt on a typical day over the last two weeks?,Not at all anxious:Somewhat anxious:Moderately anxious:Very anxious:Extremely anxious
+Optimistic,How pessimistic or optimistic are you about the future of humanity over the next 25 years?,Very pessimistic:Slightly pessimistic:Neutral:Slightly optimistic: Very optimistic
+Discourse,How would you rate the tone of political discourse in the UK over the last two weeks?,Very negative:Slightly negative:Neutral:Slightly positive: Very positive
+PoliticalClimate,How divisive do you think the political climate has been over the past two weeks?,Not at all divisive:Somewhat divisive:Moderately divisive:Very divisive:Extremely divisive
+TrustMSM,How much do you trust the mainstream news media?,Not at all:Somewhat:Moderately:Very much so:Completely
+ReprsentedMSM,How often have you felt that your views are represented in mainstream media over the last two weeks?,Never:Rarely:Sometimes:Very often:Always
+AITools,How much do you use AI tools in your day-to-day work?,Never:Rarely:Sometimes:Very often:Always
+AIEndanger,How concerned are you that AI may endanger your work/livelihood?,Not at all:Somewhat:Moderately:Very:Extremely
+AIRegulation,Do you believe that AI is being regulated and safeguarded with the public interest at heart?,Not at all:Somewhat:Moderately:Very much so:Completely
+AITrust,How much do you trust in AI?,Not at all:Somewhat:Moderately:Very much so:Completely
+AIUnderstanding,How much do you understand about what AI is in its current state?,Not at all:Somewhat:Moderately:Very much so:Completely
+ConcernEnvironment,How concerned are you about the state of the environment and climate change?,Not at all:Somewhat:Moderately:Very:Extremely
+CarbonFootprint,Do you believe individuals have a responsibility to reduce their carbon footprint and environmental impact?,Not at all:Somewhat:Moderately:Very:Extremely
+GovernmentClimate,Do you believe the government is doing enough to combat climate change?,No effort at all:Some effort:Moderate effort: Considerable effore:Strong effort
+ImpactCostOfLiving,How much have you struggled with the cost of living over the last two weeks?,Never:Rarely:Sometimes:Very often:Always
+GovernmentCostOfLiving,Do you feel that the government is doing enough to combat the cost of living crisis?,No effort at all:Some effort:Moderate effort: Considerable effore:Strong effort
