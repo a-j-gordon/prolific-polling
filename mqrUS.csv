@@ -1,0 +1,8 @@
+question_id,question_text,response_options
+BestLeader,"Regardless of who you plan to vote for, which candidate do you think would be a better leader for the country over the next four years?",Donald Trump (Republican):Kamala Harris (Democrat):Not sure:Other Candidate
+CoreVote,"If you were to vote, who would you vote for in the 2024 presidential election?",Donald Trump (Republican):Kamala Harris (Democrat):Not sure:Other Candidate
+DTfavour,Do you have a favorable or unfavorable opinion of Donald Trump?,Very favorable:Somewhat favorable:Somewhat unfavorable:Very unfavorable
+KHfavour,Do you have a favorable or unfavorable opinion of Kamala Harris?,Very favorable:Somewhat favorable:Somewhat unfavorable:Very unfavorable
+VoteChange,How likely are you to change your mind about who to vote for before the election?,Extremely likely:Very likely:Somewhat likely:Not very likely:Not at all likely
+VoteLikelihood,How likely are you to vote in the upcoming presidential election?,Extremely likely:Very likely:Somewhat likely:Not very likely:Not at all likely
+VoteMotivation,How motivated are you to vote in the upcoming presidential election?,Extremely motivated:Very motivated:Somewhat motivated:Not very motivated:Not at all motivated
