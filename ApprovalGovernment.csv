@@ -1,1877 +1,2145 @@
-Date,Demographic.Level,Disapprove,Approve
-18.3.24,National,85,15
-18.3.24,Female,85,15
-18.3.24,Male,85,15
-18.3.24,18-24,89,11
-18.3.24,25-49,88,12
-18.3.24,50-64,84,16
-18.3.24,65+,80,20
-18.3.24,Asian,77,23
-18.3.24,Black,79,21
-18.3.24,Mixed,74,26
-18.3.24,Other Ethnicity,93,7
-18.3.24,White,86,14
-18.3.24,Brexit Party,82,18
-18.3.24,Conservatives,71,29
-18.3.24,Greens,99,1
-18.3.24,Labour,97,3
-18.3.24,Liberal Democrats,94,6
-18.3.24,Other Party,96,4
-18.3.24,SNP,98,2
-18.3.24,Female 18-24,92,8
-18.3.24,Female 25-49,88,12
-18.3.24,Female 50-64,82,18
-18.3.24,Female 65+,82,18
-18.3.24,Male 18-24,87,13
-18.3.24,Male 25-49,88,12
-18.3.24,Male 50-64,86,14
-18.3.24,Male 65+,78,22
-18.3.24,Female Asian,76,24
-18.3.24,Female Black,70,30
-18.3.24,Female Mixed,100,0
-18.3.24,Female Other,90,10
-18.3.24,Female White,86,14
-18.3.24,Male Asian,77,23
-18.3.24,Male Black,85,15
-18.3.24,Male Mixed,48,52
-18.3.24,Male Other,95,5
-18.3.24,Male White,87,13
-18.3.24,Female Brexit Party,100,0
-18.3.24,Female Conservatives,70,30
-18.3.24,Female Greens,98,2
-18.3.24,Female Labour,97,3
-18.3.24,Female Liberal Democrats,95,5
-18.3.24,Female Other,94,6
-18.3.24,Female SNP,97,3
-18.3.24,Male Brexit Party,73,27
-18.3.24,Male Conservatives,72,28
-18.3.24,Male Greens,100,0
-18.3.24,Male Labour,98,2
-18.3.24,Male Liberal Democrats,93,7
-18.3.24,Male Other,97,3
-18.3.24,Male SNP,100,0
-18.3.24,18-24 Asian,77,23
-18.3.24,18-24 Black,47,53
-18.3.24,18-24 Mixed,83,17
-18.3.24,18-24 Other,100,0
-18.3.24,18-24 White,95,5
-18.3.24,25-49 Asian,78,22
-18.3.24,25-49 Black,72,28
-18.3.24,25-49 Mixed,84,16
-18.3.24,25-49 Other,84,16
-18.3.24,25-49 White,91,9
-18.3.24,50-64 Asian,79,21
-18.3.24,50-64 Black,68,32
-18.3.24,50-64 Mixed,75,25
-18.3.24,50-64 Other,81,19
-18.3.24,50-64 White,85,15
-18.3.24,65+ Asian,68,32
-18.3.24,65+ Black,100,0
-18.3.24,65+ Mixed,67,33
-18.3.24,65+ Other,100,0
-18.3.24,65+ White,78,22
-18.3.24,18-24 Brexit Party,70,30
-18.3.24,18-24 Conservatives,67,33
-18.3.24,18-24 Greens,100,0
-18.3.24,18-24 Labour,94,6
-18.3.24,18-24 Liberal Democrats,100,0
-18.3.24,18-24 Other,100,0
-18.3.24,18-24 SNP,100,0
-18.3.24,25-49 Brexit Party,100,0
-18.3.24,25-49 Conservatives,71,29
-18.3.24,25-49 Greens,98,2
-18.3.24,25-49 Labour,98,2
-18.3.24,25-49 Liberal Democrats,90,10
-18.3.24,25-49 Other,100,0
-18.3.24,25-49 SNP,97,3
-18.3.24,50-64 Brexit Party,100,0
-18.3.24,50-64 Conservatives,71,29
-18.3.24,50-64 Greens,100,0
-18.3.24,50-64 Labour,97,3
-18.3.24,50-64 Liberal Democrats,95,5
-18.3.24,50-64 Other,83,17
-18.3.24,50-64 SNP,100,0
-18.3.24,65+ Brexit Party,52,48
-18.3.24,65+ Conservatives,71,29
-18.3.24,65+ Greens,100,0
-18.3.24,65+ Labour,100,0
-18.3.24,65+ Liberal Democrats,98,2
-18.3.24,65+ Other,100,0
-18.3.24,65+ SNP,100,0
-18.3.24,Asian Brexit Party,82,18
-18.3.24,Asian Conservatives,51,49
-18.3.24,Asian Greens,100,0
-18.3.24,Asian Labour,94,6
-18.3.24,Asian Liberal Democrats,83,17
-18.3.24,Asian Other,100,0
-18.3.24,Asian SNP,100,0
-18.3.24,Black Brexit Party,95,5
-18.3.24,Black Conservatives,72,28
-18.3.24,Black Greens,100,0
-18.3.24,Black Labour,73,27
-18.3.24,Black Liberal Democrats,100,0
-18.3.24,Black Other,100,0
-18.3.24,Black SNP,100,0
-18.3.24,Mixed Brexit Party,56,44
-18.3.24,Mixed Conservatives,49,51
-18.3.24,Mixed Greens,100,0
-18.3.24,Mixed Labour,100,0
-18.3.24,Mixed Liberal Democrats,100,0
-18.3.24,Mixed Other,100,0
-18.3.24,Mixed SNP,100,0
-18.3.24,Other Brexit Party,100,0
-18.3.24,Other Conservatives,89,11
-18.3.24,Other Greens,100,0
-18.3.24,Other Labour,96,4
-18.3.24,Other Liberal Democrats,100,0
-18.3.24,Other Ethnicity Other Party,100,0
-18.3.24,Other SNP,100,0
-18.3.24,White Brexit Party,82,18
-18.3.24,White Conservatives,73,27
-18.3.24,White Greens,99,1
-18.3.24,White Labour,99,1
-18.3.24,White Liberal Democrats,95,5
-18.3.24,White Other,94,6
-18.3.24,White SNP,98,2
-19.2.24,National,85,15
-19.2.24,Female,85,15
-19.2.24,Male,85,15
-19.2.24,18-24,90,10
-19.2.24,25-49,87,13
-19.2.24,50-64,86,14
-19.2.24,65+,80,20
-19.2.24,Asian,79,21
-19.2.24,Black,46,54
-19.2.24,Mixed,100,0
-19.2.24,Other Ethnicity,97,3
-19.2.24,White,87,13
-19.2.24,Brexit Party,91,9
-19.2.24,Conservatives,74,26
-19.2.24,Greens,89,11
-19.2.24,Labour,95,5
-19.2.24,Liberal Democrats,90,10
-19.2.24,Other Party,90,10
-19.2.24,SNP,94,6
-19.2.24,Female 18-24,90,10
-19.2.24,Female 25-49,87,13
-19.2.24,Female 50-64,84,16
-19.2.24,Female 65+,80,20
-19.2.24,Male 18-24,89,11
-19.2.24,Male 25-49,87,13
-19.2.24,Male 50-64,88,12
-19.2.24,Male 65+,79,21
-19.2.24,Female Asian,81,19
-19.2.24,Female Black,57,43
-19.2.24,Female Mixed,100,0
-19.2.24,Female Other,91,9
-19.2.24,Female White,86,14
-19.2.24,Male Asian,77,23
-19.2.24,Male Black,37,63
-19.2.24,Male Mixed,100,0
-19.2.24,Male Other,100,0
-19.2.24,Male White,88,12
-19.2.24,Female Brexit Party,90,10
-19.2.24,Female Conservatives,74,26
-19.2.24,Female Greens,93,7
-19.2.24,Female Labour,95,5
-19.2.24,Female Liberal Democrats,89,11
-19.2.24,Female Other,94,6
-19.2.24,Female SNP,91,9
-19.2.24,Male Brexit Party,91,9
-19.2.24,Male Conservatives,75,25
-19.2.24,Male Greens,85,15
-19.2.24,Male Labour,96,4
-19.2.24,Male Liberal Democrats,91,9
-19.2.24,Male Other,88,12
-19.2.24,Male SNP,97,3
-19.2.24,18-24 Asian,80,20
-19.2.24,18-24 Black,63,37
-19.2.24,18-24 Mixed,100,0
-19.2.24,18-24 Other,100,0
-19.2.24,18-24 White,92,8
-19.2.24,25-49 Asian,82,18
-19.2.24,25-49 Black,47,53
-19.2.24,25-49 Mixed,100,0
-19.2.24,25-49 Other,88,12
-19.2.24,25-49 White,89,11
-19.2.24,50-64 Asian,76,24
-19.2.24,50-64 Black,58,42
-19.2.24,50-64 Mixed,100,0
-19.2.24,50-64 Other,100,0
-19.2.24,50-64 White,87,13
-19.2.24,65+ Asian,71,29
-19.2.24,65+ Black,33,67
-19.2.24,65+ Mixed,100,0
-19.2.24,65+ Other,100,0
-19.2.24,65+ White,81,19
-19.2.24,18-24 Brexit Party,94,6
-19.2.24,18-24 Conservatives,71,29
-19.2.24,18-24 Greens,87,13
-19.2.24,18-24 Labour,93,7
-19.2.24,18-24 Liberal Democrats,100,0
-19.2.24,18-24 Other,100,0
-19.2.24,18-24 SNP,100,0
-19.2.24,25-49 Brexit Party,84,16
-19.2.24,25-49 Conservatives,76,24
-19.2.24,25-49 Greens,90,10
-19.2.24,25-49 Labour,94,6
-19.2.24,25-49 Liberal Democrats,88,12
-19.2.24,25-49 Other,90,10
-19.2.24,25-49 SNP,92,8
-19.2.24,50-64 Brexit Party,94,6
-19.2.24,50-64 Conservatives,77,23
-19.2.24,50-64 Greens,90,10
-19.2.24,50-64 Labour,98,2
-19.2.24,50-64 Liberal Democrats,93,7
-19.2.24,50-64 Other,95,5
-19.2.24,50-64 SNP,90,10
-19.2.24,65+ Brexit Party,92,8
-19.2.24,65+ Conservatives,72,28
-19.2.24,65+ Greens,87,13
-19.2.24,65+ Labour,98,2
-19.2.24,65+ Liberal Democrats,88,12
-19.2.24,65+ Other,84,16
-19.2.24,65+ SNP,100,0
-19.2.24,Asian Brexit Party,45,55
-19.2.24,Asian Conservatives,65,35
-19.2.24,Asian Greens,39,61
-19.2.24,Asian Labour,92,8
-19.2.24,Asian Liberal Democrats,85,15
-19.2.24,Asian Other,100,0
-19.2.24,Asian SNP,100,0
-19.2.24,Black Brexit Party,0,100
-19.2.24,Black Conservatives,25,75
-19.2.24,Black Greens,0,100
-19.2.24,Black Labour,81,19
-19.2.24,Black Liberal Democrats,24,76
-19.2.24,Black Other,100,0
-19.2.24,Black SNP,100,0
-19.2.24,Mixed Brexit Party,100,0
-19.2.24,Mixed Conservatives,100,0
-19.2.24,Mixed Greens,100,0
-19.2.24,Mixed Labour,100,0
-19.2.24,Mixed Liberal Democrats,100,0
-19.2.24,Mixed Other,100,0
-19.2.24,Mixed SNP,100,0
-19.2.24,Other Brexit Party,94,6
-19.2.24,Other Conservatives,100,0
-19.2.24,Other Greens,100,0
-19.2.24,Other Labour,89,11
-19.2.24,Other Liberal Democrats,100,0
-19.2.24,Other Ethnicity Other Party,100,0
-19.2.24,Other SNP,100,0
-19.2.24,White Brexit Party,100,0
-19.2.24,White Conservatives,76,24
-19.2.24,White Greens,99,1
-19.2.24,White Labour,97,3
-19.2.24,White Liberal Democrats,94,6
-19.2.24,White Other,88,12
-19.2.24,White SNP,93,7
-22.1.24,National,84,16
-22.1.24,Female,83,17
-22.1.24,Male,85,15
-22.1.24,18-24,87,13
-22.1.24,25-49,86,14
-22.1.24,50-64,79,21
-22.1.24,65+,84,16
-22.1.24,Asian,85,15
-22.1.24,Black,59,41
-22.1.24,Mixed,89,11
-22.1.24,Other Ethnicity,100,0
-22.1.24,White,85,15
-22.1.24,Brexit Party,91,9
-22.1.24,Conservatives,73,27
-22.1.24,Greens,92,8
-22.1.24,Labour,95,5
-22.1.24,Liberal Democrats,90,10
-22.1.24,Other Party,83,17
-22.1.24,SNP,90,10
-22.1.24,Female 18-24,86,14
-22.1.24,Female 25-49,85,15
-22.1.24,Female 50-64,77,23
-22.1.24,Female 65+,84,16
-22.1.24,Male 18-24,88,12
-22.1.24,Male 25-49,87,13
-22.1.24,Male 50-64,82,18
-22.1.24,Male 65+,84,16
-22.1.24,Female Asian,82,18
-22.1.24,Female Black,54,46
-22.1.24,Female Mixed,91,9
-22.1.24,Female Other,100,0
-22.1.24,Female White,83,17
-22.1.24,Male Asian,88,12
-22.1.24,Male Black,63,37
-22.1.24,Male Mixed,88,12
-22.1.24,Male Other,100,0
-22.1.24,Male White,86,14
-22.1.24,Female Brexit Party,83,17
-22.1.24,Female Conservatives,70,30
-22.1.24,Female Greens,95,5
-22.1.24,Female Labour,95,5
-22.1.24,Female Liberal Democrats,87,13
-22.1.24,Female Other,94,6
-22.1.24,Female SNP,87,13
-22.1.24,Male Brexit Party,95,5
-22.1.24,Male Conservatives,75,25
-22.1.24,Male Greens,88,12
-22.1.24,Male Labour,96,4
-22.1.24,Male Liberal Democrats,93,7
-22.1.24,Male Other,77,23
-22.1.24,Male SNP,93,7
-22.1.24,18-24 Asian,94,6
-22.1.24,18-24 Black,21,79
-22.1.24,18-24 Mixed,87,13
-22.1.24,18-24 Other,100,0
-22.1.24,18-24 White,91,9
-22.1.24,25-49 Asian,86,14
-22.1.24,25-49 Black,47,53
-22.1.24,25-49 Mixed,76,24
-22.1.24,25-49 Other,100,0
-22.1.24,25-49 White,88,12
-22.1.24,50-64 Asian,83,17
-22.1.24,50-64 Black,18,82
-22.1.24,50-64 Mixed,93,7
-22.1.24,50-64 Other,100,0
-22.1.24,50-64 White,81,19
-22.1.24,65+ Asian,68,32
-22.1.24,65+ Black,100,0
-22.1.24,65+ Mixed,96,4
-22.1.24,65+ Other,100,0
-22.1.24,65+ White,81,19
-22.1.24,18-24 Brexit Party,88,12
-22.1.24,18-24 Conservatives,82,18
-22.1.24,18-24 Greens,89,11
-22.1.24,18-24 Labour,92,8
-22.1.24,18-24 Liberal Democrats,81,19
-22.1.24,18-24 Other,19,81
-22.1.24,18-24 SNP,89,11
-22.1.24,25-49 Brexit Party,80,20
-22.1.24,25-49 Conservatives,71,29
-22.1.24,25-49 Greens,95,5
-22.1.24,25-49 Labour,95,5
-22.1.24,25-49 Liberal Democrats,93,7
-22.1.24,25-49 Other,92,8
-22.1.24,25-49 SNP,87,13
-22.1.24,50-64 Brexit Party,98,2
-22.1.24,50-64 Conservatives,66,34
-22.1.24,50-64 Greens,86,14
-22.1.24,50-64 Labour,96,4
-22.1.24,50-64 Liberal Democrats,89,11
-22.1.24,50-64 Other,95,5
-22.1.24,50-64 SNP,88,12
-22.1.24,65+ Brexit Party,93,7
-22.1.24,65+ Conservatives,77,23
-22.1.24,65+ Greens,93,7
-22.1.24,65+ Labour,100,0
-22.1.24,65+ Liberal Democrats,91,9
-22.1.24,65+ Other,82,18
-22.1.24,65+ SNP,100,0
-22.1.24,Asian Brexit Party,85,15
-22.1.24,Asian Conservatives,70,30
-22.1.24,Asian Greens,91,9
-22.1.24,Asian Labour,93,7
-22.1.24,Asian Liberal Democrats,100,0
-22.1.24,Asian Other,100,0
-22.1.24,Asian SNP,100,0
-22.1.24,Black Brexit Party,63,37
-22.1.24,Black Conservatives,63,37
-22.1.24,Black Greens,40,60
-22.1.24,Black Labour,66,34
-22.1.24,Black Liberal Democrats,35,65
-22.1.24,Black Other,93,7
-22.1.24,Black SNP,27,73
-22.1.24,Mixed Brexit Party,8,92
-22.1.24,Mixed Conservatives,93,7
-22.1.24,Mixed Greens,0,100
-22.1.24,Mixed Labour,100,0
-22.1.24,Mixed Liberal Democrats,100,0
-22.1.24,Mixed Other,84,16
-22.1.24,Mixed SNP,34,66
-22.1.24,Other Brexit Party,99,1
-22.1.24,Other Conservatives,100,0
-22.1.24,Other Greens,100,0
-22.1.24,Other Labour,100,0
-22.1.24,Other Liberal Democrats,100,0
-22.1.24,Other Ethnicity Other Party,100,0
-22.1.24,Other SNP,100,0
-22.1.24,White Brexit Party,97,3
-22.1.24,White Conservatives,71,29
-22.1.24,White Greens,98,2
-22.1.24,White Labour,97,3
-22.1.24,White Liberal Democrats,92,8
-22.1.24,White Other,80,20
-22.1.24,White SNP,95,5
-4.3.24,National,85,15
-4.3.24,Female,84,16
-4.3.24,Male,87,13
-4.3.24,18-24,90,10
-4.3.24,25-49,89,11
-4.3.24,50-64,85,15
-4.3.24,65+,79,21
-4.3.24,Asian,79,21
-4.3.24,Black,87,13
-4.3.24,Mixed,74,26
-4.3.24,Other Ethnicity,100,0
-4.3.24,White,86,14
-4.3.24,Brexit Party,81,19
-4.3.24,Conservatives,74,26
-4.3.24,Greens,89,11
-4.3.24,Labour,97,3
-4.3.24,Liberal Democrats,97,3
-4.3.24,Other Party,85,15
-4.3.24,SNP,83,17
-4.3.24,Female 18-24,88,12
-4.3.24,Female 25-49,90,10
-4.3.24,Female 50-64,82,18
-4.3.24,Female 65+,75,25
-4.3.24,Male 18-24,91,9
-4.3.24,Male 25-49,89,11
-4.3.24,Male 50-64,88,12
-4.3.24,Male 65+,83,17
-4.3.24,Female Asian,80,20
-4.3.24,Female Black,87,13
-4.3.24,Female Mixed,66,34
-4.3.24,Female Other,100,0
-4.3.24,Female White,84,16
-4.3.24,Male Asian,78,22
-4.3.24,Male Black,87,13
-4.3.24,Male Mixed,83,17
-4.3.24,Male Other,99,1
-4.3.24,Male White,88,12
-4.3.24,Female Brexit Party,95,5
-4.3.24,Female Conservatives,69,31
-4.3.24,Female Greens,100,0
-4.3.24,Female Labour,96,4
-4.3.24,Female Liberal Democrats,96,4
-4.3.24,Female Other,82,18
-4.3.24,Female SNP,75,25
-4.3.24,Male Brexit Party,74,26
-4.3.24,Male Conservatives,79,21
-4.3.24,Male Greens,77,23
-4.3.24,Male Labour,97,3
-4.3.24,Male Liberal Democrats,97,3
-4.3.24,Male Other,87,13
-4.3.24,Male SNP,89,11
-4.3.24,18-24 Asian,81,19
-4.3.24,18-24 Black,82,18
-4.3.24,18-24 Mixed,86,14
-4.3.24,18-24 Other,100,0
-4.3.24,18-24 White,91,9
-4.3.24,25-49 Asian,81,19
-4.3.24,25-49 Black,83,17
-4.3.24,25-49 Mixed,90,10
-4.3.24,25-49 Other,100,0
-4.3.24,25-49 White,91,9
-4.3.24,50-64 Asian,76,24
-4.3.24,50-64 Black,83,17
-4.3.24,50-64 Mixed,40,60
-4.3.24,50-64 Other,96,4
-4.3.24,50-64 White,86,14
-4.3.24,65+ Asian,73,27
-4.3.24,65+ Black,95,5
-4.3.24,65+ Mixed,69,31
-4.3.24,65+ Other,100,0
-4.3.24,65+ White,77,23
-4.3.24,18-24 Brexit Party,76,24
-4.3.24,18-24 Conservatives,75,25
-4.3.24,18-24 Greens,100,0
-4.3.24,18-24 Labour,97,3
-4.3.24,18-24 Liberal Democrats,100,0
-4.3.24,18-24 Other,100,0
-4.3.24,18-24 SNP,51,49
-4.3.24,25-49 Brexit Party,73,27
-4.3.24,25-49 Conservatives,80,20
-4.3.24,25-49 Greens,86,14
-4.3.24,25-49 Labour,96,4
-4.3.24,25-49 Liberal Democrats,98,2
-4.3.24,25-49 Other,85,15
-4.3.24,25-49 SNP,84,16
-4.3.24,50-64 Brexit Party,91,9
-4.3.24,50-64 Conservatives,75,25
-4.3.24,50-64 Greens,90,10
-4.3.24,50-64 Labour,97,3
-4.3.24,50-64 Liberal Democrats,96,4
-4.3.24,50-64 Other,81,19
-4.3.24,50-64 SNP,89,11
-4.3.24,65+ Brexit Party,79,21
-4.3.24,65+ Conservatives,70,30
-4.3.24,65+ Greens,88,12
-4.3.24,65+ Labour,98,2
-4.3.24,65+ Liberal Democrats,93,7
-4.3.24,65+ Other,84,16
-4.3.24,65+ SNP,100,0
-4.3.24,Asian Brexit Party,15,85
-4.3.24,Asian Conservatives,64,36
-4.3.24,Asian Greens,63,37
-4.3.24,Asian Labour,95,5
-4.3.24,Asian Liberal Democrats,100,0
-4.3.24,Asian Other,58,42
-4.3.24,Asian SNP,60,40
-4.3.24,Black Brexit Party,18,82
-4.3.24,Black Conservatives,93,7
-4.3.24,Black Greens,60,40
-4.3.24,Black Labour,92,8
-4.3.24,Black Liberal Democrats,100,0
-4.3.24,Black Other,11,89
-4.3.24,Black SNP,26,74
-4.3.24,Mixed Brexit Party,37,63
-4.3.24,Mixed Conservatives,56,44
-4.3.24,Mixed Greens,69,31
-4.3.24,Mixed Labour,94,6
-4.3.24,Mixed Liberal Democrats,100,0
-4.3.24,Mixed Other,100,0
-4.3.24,Mixed SNP,100,0
-4.3.24,Other Brexit Party,90,10
-4.3.24,Other Conservatives,100,0
-4.3.24,Other Greens,92,8
-4.3.24,Other Labour,100,0
-4.3.24,Other Liberal Democrats,100,0
-4.3.24,Other Ethnicity Other Party,100,0
-4.3.24,Other SNP,100,0
-4.3.24,White Brexit Party,93,7
-4.3.24,White Conservatives,74,26
-4.3.24,White Greens,95,5
-4.3.24,White Labour,97,3
-4.3.24,White Liberal Democrats,96,4
-4.3.24,White Other,91,9
-4.3.24,White SNP,87,13
-5.2.24,National,82,18
-5.2.24,Female,79,21
-5.2.24,Male,86,14
-5.2.24,18-24,83,17
-5.2.24,25-49,86,14
-5.2.24,50-64,80,20
-5.2.24,65+,79,21
-5.2.24,Asian,81,19
-5.2.24,Black,57,43
-5.2.24,Mixed,77,23
-5.2.24,Other Ethnicity,98,2
-5.2.24,White,84,16
-5.2.24,Brexit Party,97,3
-5.2.24,Conservatives,69,31
-5.2.24,Greens,95,5
-5.2.24,Labour,94,6
-5.2.24,Liberal Democrats,93,7
-5.2.24,Other Party,93,7
-5.2.24,SNP,88,12
-5.2.24,Female 18-24,82,18
-5.2.24,Female 25-49,85,15
-5.2.24,Female 50-64,78,22
-5.2.24,Female 65+,72,28
-5.2.24,Male 18-24,83,17
-5.2.24,Male 25-49,87,13
-5.2.24,Male 50-64,83,17
-5.2.24,Male 65+,87,13
-5.2.24,Female Asian,80,20
-5.2.24,Female Black,52,48
-5.2.24,Female Mixed,58,42
-5.2.24,Female Other,96,4
-5.2.24,Female White,81,19
-5.2.24,Male Asian,82,18
-5.2.24,Male Black,61,39
-5.2.24,Male Mixed,96,4
-5.2.24,Male Other,100,0
-5.2.24,Male White,87,13
-5.2.24,Female Brexit Party,97,3
-5.2.24,Female Conservatives,62,38
-5.2.24,Female Greens,95,5
-5.2.24,Female Labour,94,6
-5.2.24,Female Liberal Democrats,92,8
-5.2.24,Female Other,91,9
-5.2.24,Female SNP,84,16
-5.2.24,Male Brexit Party,97,3
-5.2.24,Male Conservatives,75,25
-5.2.24,Male Greens,95,5
-5.2.24,Male Labour,95,5
-5.2.24,Male Liberal Democrats,93,7
-5.2.24,Male Other,95,5
-5.2.24,Male SNP,92,8
-5.2.24,18-24 Asian,89,11
-5.2.24,18-24 Black,21,79
-5.2.24,18-24 Mixed,93,7
-5.2.24,18-24 Other,100,0
-5.2.24,18-24 White,85,15
-5.2.24,25-49 Asian,83,17
-5.2.24,25-49 Black,37,63
-5.2.24,25-49 Mixed,100,0
-5.2.24,25-49 Other,94,6
-5.2.24,25-49 White,89,11
-5.2.24,50-64 Asian,79,21
-5.2.24,50-64 Black,28,72
-5.2.24,50-64 Mixed,35,65
-5.2.24,50-64 Other,100,0
-5.2.24,50-64 White,83,17
-5.2.24,65+ Asian,64,36
-5.2.24,65+ Black,100,0
-5.2.24,65+ Mixed,67,33
-5.2.24,65+ Other,100,0
-5.2.24,65+ White,77,23
-5.2.24,18-24 Brexit Party,94,6
-5.2.24,18-24 Conservatives,59,41
-5.2.24,18-24 Greens,100,0
-5.2.24,18-24 Labour,92,8
-5.2.24,18-24 Liberal Democrats,85,15
-5.2.24,18-24 Other,100,0
-5.2.24,18-24 SNP,60,40
-5.2.24,25-49 Brexit Party,96,4
-5.2.24,25-49 Conservatives,70,30
-5.2.24,25-49 Greens,93,7
-5.2.24,25-49 Labour,94,6
-5.2.24,25-49 Liberal Democrats,97,3
-5.2.24,25-49 Other,94,6
-5.2.24,25-49 SNP,92,8
-5.2.24,50-64 Brexit Party,96,4
-5.2.24,50-64 Conservatives,68,32
-5.2.24,50-64 Greens,93,7
-5.2.24,50-64 Labour,95,5
-5.2.24,50-64 Liberal Democrats,89,11
-5.2.24,50-64 Other,92,8
-5.2.24,50-64 SNP,90,10
-5.2.24,65+ Brexit Party,100,0
-5.2.24,65+ Conservatives,70,30
-5.2.24,65+ Greens,100,0
-5.2.24,65+ Labour,98,2
-5.2.24,65+ Liberal Democrats,93,7
-5.2.24,65+ Other,92,8
-5.2.24,65+ SNP,100,0
-5.2.24,Asian Brexit Party,100,0
-5.2.24,Asian Conservatives,58,42
-5.2.24,Asian Greens,100,0
-5.2.24,Asian Labour,92,8
-5.2.24,Asian Liberal Democrats,100,0
-5.2.24,Asian Other,100,0
-5.2.24,Asian SNP,100,0
-5.2.24,Black Brexit Party,49,51
-5.2.24,Black Conservatives,60,40
-5.2.24,Black Greens,40,60
-5.2.24,Black Labour,48,52
-5.2.24,Black Liberal Democrats,81,19
-5.2.24,Black Other,100,0
-5.2.24,Black SNP,26,74
-5.2.24,Mixed Brexit Party,100,0
-5.2.24,Mixed Conservatives,56,44
-5.2.24,Mixed Greens,100,0
-5.2.24,Mixed Labour,96,4
-5.2.24,Mixed Liberal Democrats,100,0
-5.2.24,Mixed Other,98,2
-5.2.24,Mixed SNP,99,1
-5.2.24,Other Brexit Party,100,0
-5.2.24,Other Conservatives,100,0
-5.2.24,Other Greens,100,0
-5.2.24,Other Labour,94,6
-5.2.24,Other Liberal Democrats,100,0
-5.2.24,Other Ethnicity Other Party,100,0
-5.2.24,Other SNP,100,0
-5.2.24,White Brexit Party,100,0
-5.2.24,White Conservatives,69,31
-5.2.24,White Greens,97,3
-5.2.24,White Labour,97,3
-5.2.24,White Liberal Democrats,92,8
-5.2.24,White Other,92,8
-5.2.24,White SNP,90,10
-2.4.24,National,83,17
-2.4.24,Female,83,17
-2.4.24,Male,84,16
-2.4.24,18-24,82,18
-2.4.24,25-49,86,14
-2.4.24,50-64,83,17
-2.4.24,65+,81,19
-2.4.24,Asian,73,27
-2.4.24,Black,79,21
-2.4.24,Mixed,71,29
-2.4.24,Other,94,6
-2.4.24,White,85,15
-2.4.24,Brexit Party,82,18
-2.4.24,Conservatives,71,29
-2.4.24,Greens,96,4
-2.4.24,Labour,94,6
-2.4.24,Liberal Democrats,93,7
-2.4.24,Other,89,11
-2.4.24,SNP,98,2
-2.4.24,Female 18-24,86,14
-2.4.24,Female 25-49,85,15
-2.4.24,Female 50-64,80,20
-2.4.24,Female 65+,81,19
-2.4.24,Male 18-24,77,23
-2.4.24,Male 25-49,87,13
-2.4.24,Male 50-64,86,14
-2.4.24,Male 65+,80,20
-2.4.24,Female Asian,72,28
-2.4.24,Female Black,78,22
-2.4.24,Female Mixed,71,29
-2.4.24,Female Other,90,10
-2.4.24,Female White,85,15
-2.4.24,Male Asian,73,27
-2.4.24,Male Black,80,20
-2.4.24,Male Mixed,72,28
-2.4.24,Male Other,97,3
-2.4.24,Male White,85,15
-2.4.24,Female Brexit Party,56,44
-2.4.24,Female Conservatives,71,29
-2.4.24,Female Greens,97,3
-2.4.24,Female Labour,93,7
-2.4.24,Female Liberal Democrats,92,8
-2.4.24,Female Other,92,8
-2.4.24,Female SNP,98,2
-2.4.24,Male Brexit Party,96,4
-2.4.24,Male Conservatives,71,29
-2.4.24,Male Greens,96,4
-2.4.24,Male Labour,94,6
-2.4.24,Male Liberal Democrats,93,7
-2.4.24,Male Other,87,13
-2.4.24,Male SNP,98,2
-2.4.24,18-24 Asian,65,35
-2.4.24,18-24 Black,59,41
-2.4.24,18-24 Mixed,55,45
-2.4.24,18-24 Other,100,0
-2.4.24,18-24 White,87,13
-2.4.24,25-49 Asian,73,27
-2.4.24,25-49 Black,73,27
-2.4.24,25-49 Mixed,90,10
-2.4.24,25-49 Other,85,15
-2.4.24,25-49 White,88,12
-2.4.24,50-64 Asian,79,21
-2.4.24,50-64 Black,61,39
-2.4.24,50-64 Mixed,71,29
-2.4.24,50-64 Other,86,14
-2.4.24,50-64 White,84,16
-2.4.24,65+ Asian,72,28
-2.4.24,65+ Black,100,0
-2.4.24,65+ Mixed,65,35
-2.4.24,65+ Other,100,0
-2.4.24,65+ White,79,21
-2.4.24,18-24 Brexit Party,100,0
-2.4.24,18-24 Conservatives,61,39
-2.4.24,18-24 Greens,76,24
-2.4.24,18-24 Labour,88,12
-2.4.24,18-24 Liberal Democrats,79,21
-2.4.24,18-24 Other,100,0
-2.4.24,18-24 SNP,100,0
-2.4.24,25-49 Brexit Party,57,43
-2.4.24,25-49 Conservatives,70,30
-2.4.24,25-49 Greens,100,0
-2.4.24,25-49 Labour,94,6
-2.4.24,25-49 Liberal Democrats,96,4
-2.4.24,25-49 Other,88,12
-2.4.24,25-49 SNP,96,4
-2.4.24,50-64 Brexit Party,100,0
-2.4.24,50-64 Conservatives,71,29
-2.4.24,50-64 Greens,100,0
-2.4.24,50-64 Labour,96,4
-2.4.24,50-64 Liberal Democrats,89,11
-2.4.24,50-64 Other,93,7
-2.4.24,50-64 SNP,100,0
-2.4.24,65+ Brexit Party,83,17
-2.4.24,65+ Conservatives,73,27
-2.4.24,65+ Greens,100,0
-2.4.24,65+ Labour,97,3
-2.4.24,65+ Liberal Democrats,94,6
-2.4.24,65+ Other,83,17
-2.4.24,65+ SNP,100,0
-2.4.24,Asian Brexit Party,84,16
-2.4.24,Asian Conservatives,51,49
-2.4.24,Asian Greens,100,0
-2.4.24,Asian Labour,89,11
-2.4.24,Asian Liberal Democrats,71,29
-2.4.24,Asian Other,90,10
-2.4.24,Asian SNP,100,0
-2.4.24,Black Brexit Party,92,8
-2.4.24,Black Conservatives,79,21
-2.4.24,Black Greens,100,0
-2.4.24,Black Labour,66,34
-2.4.24,Black Liberal Democrats,100,0
-2.4.24,Black Other,100,0
-2.4.24,Black SNP,100,0
-2.4.24,Mixed Brexit Party,93,7
-2.4.24,Mixed Conservatives,53,47
-2.4.24,Mixed Greens,100,0
-2.4.24,Mixed Labour,80,20
-2.4.24,Mixed Liberal Democrats,100,0
-2.4.24,Mixed Other,100,0
-2.4.24,Mixed SNP,100,0
-2.4.24,Other Brexit Party,94,6
-2.4.24,Other Conservatives,91,9
-2.4.24,Other Greens,100,0
-2.4.24,Other Labour,96,4
-2.4.24,Other Liberal Democrats,100,0
-2.4.24,Other Other,100,0
-2.4.24,Other SNP,100,0
-2.4.24,White Brexit Party,81,19
-2.4.24,White Conservatives,72,28
-2.4.24,White Greens,95,5
-2.4.24,White Labour,96,4
-2.4.24,White Liberal Democrats,94,6
-2.4.24,White Other,87,13
-2.4.24,White SNP,98,2
-15.4.24,National,84,16
-15.4.24,Female,84,16
-15.4.24,Male,84,16
-15.4.24,18-24,86,14
-15.4.24,25-49,86,14
-15.4.24,50-64,83,17
-15.4.24,65+,81,19
-15.4.24,Asian,77,23
-15.4.24,Black,64,36
-15.4.24,Mixed,89,11
-15.4.24,Other,100,0
-15.4.24,White,85,15
-15.4.24,Brexit Party,80,20
-15.4.24,Conservatives,73,27
-15.4.24,Greens,96,4
-15.4.24,Labour,95,5
-15.4.24,Liberal Democrats,92,8
-15.4.24,Other,81,19
-15.4.24,SNP,96,4
-15.4.24,Female 18-24,86,14
-15.4.24,Female 25-49,86,14
-15.4.24,Female 50-64,84,16
-15.4.24,Female 65+,82,18
-15.4.24,Male 18-24,87,13
-15.4.24,Male 25-49,86,14
-15.4.24,Male 50-64,82,18
-15.4.24,Male 65+,81,19
-15.4.24,Female Asian,75,25
-15.4.24,Female Black,73,27
-15.4.24,Female Mixed,89,11
-15.4.24,Female Other,100,0
-15.4.24,Female White,85,15
-15.4.24,Male Asian,80,20
-15.4.24,Male Black,56,44
-15.4.24,Male Mixed,89,11
-15.4.24,Male Other,100,0
-15.4.24,Male White,85,15
-15.4.24,Female Brexit Party,100,0
-15.4.24,Female Conservatives,73,27
-15.4.24,Female Greens,100,0
-15.4.24,Female Labour,95,5
-15.4.24,Female Liberal Democrats,89,11
-15.4.24,Female Other,86,14
-15.4.24,Female SNP,91,9
-15.4.24,Male Brexit Party,70,30
-15.4.24,Male Conservatives,72,28
-15.4.24,Male Greens,93,7
-15.4.24,Male Labour,95,5
-15.4.24,Male Liberal Democrats,96,4
-15.4.24,Male Other,77,23
-15.4.24,Male SNP,100,0
-15.4.24,18-24 Asian,80,20
-15.4.24,18-24 Black,50,50
-15.4.24,18-24 Mixed,100,0
-15.4.24,18-24 Other,100,0
-15.4.24,18-24 White,89,11
-15.4.24,25-49 Asian,82,18
-15.4.24,25-49 Black,76,24
-15.4.24,25-49 Mixed,58,42
-15.4.24,25-49 Other,99,1
-15.4.24,25-49 White,88,12
-15.4.24,50-64 Asian,70,30
-15.4.24,50-64 Black,56,44
-15.4.24,50-64 Mixed,100,0
-15.4.24,50-64 Other,100,0
-15.4.24,50-64 White,85,15
-15.4.24,65+ Asian,66,34
-15.4.24,65+ Black,61,39
-15.4.24,65+ Mixed,100,0
-15.4.24,65+ Other,100,0
-15.4.24,65+ White,80,20
-15.4.24,18-24 Brexit Party,93,7
-15.4.24,18-24 Conservatives,76,24
-15.4.24,18-24 Greens,100,0
-15.4.24,18-24 Labour,88,12
-15.4.24,18-24 Liberal Democrats,83,17
-15.4.24,18-24 Other,97,3
-15.4.24,18-24 SNP,100,0
-15.4.24,25-49 Brexit Party,100,0
-15.4.24,25-49 Conservatives,69,31
-15.4.24,25-49 Greens,96,4
-15.4.24,25-49 Labour,96,4
-15.4.24,25-49 Liberal Democrats,95,5
-15.4.24,25-49 Other,80,20
-15.4.24,25-49 SNP,94,6
-15.4.24,50-64 Brexit Party,79,21
-15.4.24,50-64 Conservatives,73,27
-15.4.24,50-64 Greens,93,7
-15.4.24,50-64 Labour,98,2
-15.4.24,50-64 Liberal Democrats,88,12
-15.4.24,50-64 Other,82,18
-15.4.24,50-64 SNP,94,6
-15.4.24,65+ Brexit Party,64,36
-15.4.24,65+ Conservatives,74,26
-15.4.24,65+ Greens,100,0
-15.4.24,65+ Labour,97,3
-15.4.24,65+ Liberal Democrats,95,5
-15.4.24,65+ Other,76,24
-15.4.24,65+ SNP,100,0
-15.4.24,Asian Brexit Party,71,29
-15.4.24,Asian Conservatives,53,47
-15.4.24,Asian Greens,100,0
-15.4.24,Asian Labour,95,5
-15.4.24,Asian Liberal Democrats,89,11
-15.4.24,Asian Other,56,44
-15.4.24,Asian SNP,100,0
-15.4.24,Black Brexit Party,40,60
-15.4.24,Black Conservatives,54,46
-15.4.24,Black Greens,100,0
-15.4.24,Black Labour,66,34
-15.4.24,Black Liberal Democrats,86,14
-15.4.24,Black Other,6,94
-15.4.24,Black SNP,100,0
-15.4.24,Mixed Brexit Party,100,0
-15.4.24,Mixed Conservatives,88,12
-15.4.24,Mixed Greens,100,0
-15.4.24,Mixed Labour,93,7
-15.4.24,Mixed Liberal Democrats,78,22
-15.4.24,Mixed Other,79,21
-15.4.24,Mixed SNP,100,0
-15.4.24,Other Brexit Party,100,0
-15.4.24,Other Conservatives,100,0
-15.4.24,Other Greens,100,0
-15.4.24,Other Labour,100,0
-15.4.24,Other Liberal Democrats,98,2
-15.4.24,Other Other,100,0
-15.4.24,Other SNP,100,0
-15.4.24,White Brexit Party,82,18
-15.4.24,White Conservatives,73,27
-15.4.24,White Greens,96,4
-15.4.24,White Labour,97,3
-15.4.24,White Liberal Democrats,93,7
-15.4.24,White Other,87,13
-15.4.24,White SNP,95,5
-15.4.24,National,84,16
-15.4.24,Female,84,16
-15.4.24,Male,84,16
-15.4.24,18-24,86,14
-15.4.24,25-49,86,14
-15.4.24,50-64,83,17
-15.4.24,65+,81,19
-15.4.24,Asian,77,23
-15.4.24,Black,64,36
-15.4.24,Mixed,89,11
-15.4.24,Other,100,0
-15.4.24,White,85,15
-15.4.24,Brexit Party,80,20
-15.4.24,Conservatives,73,27
-15.4.24,Greens,96,4
-15.4.24,Labour,95,5
-15.4.24,Liberal Democrats,92,8
-15.4.24,Other,81,19
-15.4.24,SNP,96,4
-15.4.24,Female 18-24,86,14
-15.4.24,Female 25-49,86,14
-15.4.24,Female 50-64,84,16
-15.4.24,Female 65+,82,18
-15.4.24,Male 18-24,87,13
-15.4.24,Male 25-49,86,14
-15.4.24,Male 50-64,82,18
-15.4.24,Male 65+,81,19
-15.4.24,Female Asian,75,25
-15.4.24,Female Black,73,27
-15.4.24,Female Mixed,89,11
-15.4.24,Female Other,100,0
-15.4.24,Female White,85,15
-15.4.24,Male Asian,80,20
-15.4.24,Male Black,56,44
-15.4.24,Male Mixed,89,11
-15.4.24,Male Other,100,0
-15.4.24,Male White,85,15
-15.4.24,Female Brexit Party,100,0
-15.4.24,Female Conservatives,73,27
-15.4.24,Female Greens,100,0
-15.4.24,Female Labour,95,5
-15.4.24,Female Liberal Democrats,89,11
-15.4.24,Female Other,86,14
-15.4.24,Female SNP,91,9
-15.4.24,Male Brexit Party,70,30
-15.4.24,Male Conservatives,72,28
-15.4.24,Male Greens,93,7
-15.4.24,Male Labour,95,5
-15.4.24,Male Liberal Democrats,96,4
-15.4.24,Male Other,77,23
-15.4.24,Male SNP,100,0
-15.4.24,18-24 Asian,80,20
-15.4.24,18-24 Black,50,50
-15.4.24,18-24 Mixed,100,0
-15.4.24,18-24 Other,100,0
-15.4.24,18-24 White,89,11
-15.4.24,25-49 Asian,82,18
-15.4.24,25-49 Black,76,24
-15.4.24,25-49 Mixed,58,42
-15.4.24,25-49 Other,99,1
-15.4.24,25-49 White,88,12
-15.4.24,50-64 Asian,70,30
-15.4.24,50-64 Black,56,44
-15.4.24,50-64 Mixed,100,0
-15.4.24,50-64 Other,100,0
-15.4.24,50-64 White,85,15
-15.4.24,65+ Asian,66,34
-15.4.24,65+ Black,61,39
-15.4.24,65+ Mixed,100,0
-15.4.24,65+ Other,100,0
-15.4.24,65+ White,80,20
-15.4.24,18-24 Brexit Party,93,7
-15.4.24,18-24 Conservatives,76,24
-15.4.24,18-24 Greens,100,0
-15.4.24,18-24 Labour,88,12
-15.4.24,18-24 Liberal Democrats,83,17
-15.4.24,18-24 Other,97,3
-15.4.24,18-24 SNP,100,0
-15.4.24,25-49 Brexit Party,100,0
-15.4.24,25-49 Conservatives,69,31
-15.4.24,25-49 Greens,96,4
-15.4.24,25-49 Labour,96,4
-15.4.24,25-49 Liberal Democrats,95,5
-15.4.24,25-49 Other,80,20
-15.4.24,25-49 SNP,94,6
-15.4.24,50-64 Brexit Party,79,21
-15.4.24,50-64 Conservatives,73,27
-15.4.24,50-64 Greens,93,7
-15.4.24,50-64 Labour,98,2
-15.4.24,50-64 Liberal Democrats,88,12
-15.4.24,50-64 Other,82,18
-15.4.24,50-64 SNP,94,6
-15.4.24,65+ Brexit Party,64,36
-15.4.24,65+ Conservatives,74,26
-15.4.24,65+ Greens,100,0
-15.4.24,65+ Labour,97,3
-15.4.24,65+ Liberal Democrats,95,5
-15.4.24,65+ Other,76,24
-15.4.24,65+ SNP,100,0
-15.4.24,Asian Brexit Party,71,29
-15.4.24,Asian Conservatives,53,47
-15.4.24,Asian Greens,100,0
-15.4.24,Asian Labour,95,5
-15.4.24,Asian Liberal Democrats,89,11
-15.4.24,Asian Other,56,44
-15.4.24,Asian SNP,100,0
-15.4.24,Black Brexit Party,40,60
-15.4.24,Black Conservatives,54,46
-15.4.24,Black Greens,100,0
-15.4.24,Black Labour,66,34
-15.4.24,Black Liberal Democrats,86,14
-15.4.24,Black Other,6,94
-15.4.24,Black SNP,100,0
-15.4.24,Mixed Brexit Party,100,0
-15.4.24,Mixed Conservatives,88,12
-15.4.24,Mixed Greens,100,0
-15.4.24,Mixed Labour,93,7
-15.4.24,Mixed Liberal Democrats,78,22
-15.4.24,Mixed Other,79,21
-15.4.24,Mixed SNP,100,0
-15.4.24,Other Brexit Party,100,0
-15.4.24,Other Conservatives,100,0
-15.4.24,Other Greens,100,0
-15.4.24,Other Labour,100,0
-15.4.24,Other Liberal Democrats,98,2
-15.4.24,Other Other,100,0
-15.4.24,Other SNP,100,0
-15.4.24,White Brexit Party,82,18
-15.4.24,White Conservatives,73,27
-15.4.24,White Greens,96,4
-15.4.24,White Labour,97,3
-15.4.24,White Liberal Democrats,93,7
-15.4.24,White Other,87,13
-15.4.24,White SNP,95,5
-29.4.24,National,84,16
-29.4.24,Female,84,16
-29.4.24,Male,83,17
-29.4.24,18-24,89,11
-29.4.24,25-49,88,12
-29.4.24,50-64,87,13
-29.4.24,65+,73,27
-29.4.24,Asian,75,25
-29.4.24,Black,47,53
-29.4.24,Mixed,99,1
-29.4.24,Other,56,44
-29.4.24,White,87,13
-29.4.24,Brexit Party,97,3
-29.4.24,Conservatives,71,29
-29.4.24,Greens,99,1
-29.4.24,Labour,95,5
-29.4.24,Liberal Democrats,91,9
-29.4.24,Other,85,15
-29.4.24,SNP,94,6
-29.4.24,Female 18-24,92,8
-29.4.24,Female 25-49,89,11
-29.4.24,Female 50-64,88,12
-29.4.24,Female 65+,72,28
-29.4.24,Male 18-24,87,13
-29.4.24,Male 25-49,88,12
-29.4.24,Male 50-64,86,14
-29.4.24,Male 65+,74,26
-29.4.24,Female Asian,74,26
-29.4.24,Female Black,63,37
-29.4.24,Female Mixed,100,0
-29.4.24,Female Other,64,36
-29.4.24,Female White,86,14
-29.4.24,Male Asian,76,24
-29.4.24,Male Black,35,65
-29.4.24,Male Mixed,99,1
-29.4.24,Male Other,51,49
-29.4.24,Male White,89,11
-29.4.24,Female Brexit Party,99,1
-29.4.24,Female Conservatives,71,29
-29.4.24,Female Greens,99,1
-29.4.24,Female Labour,95,5
-29.4.24,Female Liberal Democrats,91,9
-29.4.24,Female Other,95,5
-29.4.24,Female SNP,96,4
-29.4.24,Male Brexit Party,97,3
-29.4.24,Male Conservatives,71,29
-29.4.24,Male Greens,99,1
-29.4.24,Male Labour,94,6
-29.4.24,Male Liberal Democrats,92,8
-29.4.24,Male Other,79,21
-29.4.24,Male SNP,93,7
-29.4.24,18-24 Asian,86,14
-29.4.24,18-24 Black,46,54
-29.4.24,18-24 Mixed,100,0
-29.4.24,18-24 Other,79,21
-29.4.24,18-24 White,93,7
-29.4.24,25-49 Asian,71,29
-29.4.24,25-49 Black,80,20
-29.4.24,25-49 Mixed,100,0
-29.4.24,25-49 Other,66,34
-29.4.24,25-49 White,91,9
-29.4.24,50-64 Asian,88,12
-29.4.24,50-64 Black,77,23
-29.4.24,50-64 Mixed,99,1
-29.4.24,50-64 Other,100,0
-29.4.24,50-64 White,87,13
-29.4.24,65+ Asian,59,41
-29.4.24,65+ Black,6,94
-29.4.24,65+ Mixed,99,1
-29.4.24,65+ Other,35,65
-29.4.24,65+ White,81,19
-29.4.24,18-24 Brexit Party,100,0
-29.4.24,18-24 Conservatives,82,18
-29.4.24,18-24 Greens,100,0
-29.4.24,18-24 Labour,90,10
-29.4.24,18-24 Liberal Democrats,100,0
-29.4.24,18-24 Other,100,0
-29.4.24,18-24 SNP,80,20
-29.4.24,25-49 Brexit Party,100,0
-29.4.24,25-49 Conservatives,75,25
-29.4.24,25-49 Greens,100,0
-29.4.24,25-49 Labour,96,4
-29.4.24,25-49 Liberal Democrats,89,11
-29.4.24,25-49 Other,93,7
-29.4.24,25-49 SNP,96,4
-29.4.24,50-64 Brexit Party,100,0
-29.4.24,50-64 Conservatives,77,23
-29.4.24,50-64 Greens,100,0
-29.4.24,50-64 Labour,98,2
-29.4.24,50-64 Liberal Democrats,93,7
-29.4.24,50-64 Other,84,16
-29.4.24,50-64 SNP,97,3
-29.4.24,65+ Brexit Party,92,8
-29.4.24,65+ Conservatives,63,37
-29.4.24,65+ Greens,94,6
-29.4.24,65+ Labour,91,9
-29.4.24,65+ Liberal Democrats,90,10
-29.4.24,65+ Other,75,25
-29.4.24,65+ SNP,100,0
-29.4.24,Asian Brexit Party,100,0
-29.4.24,Asian Conservatives,56,44
-29.4.24,Asian Greens,100,0
-29.4.24,Asian Labour,93,7
-29.4.24,Asian Liberal Democrats,62,38
-29.4.24,Asian Other,32,68
-29.4.24,Asian SNP,100,0
-29.4.24,Black Brexit Party,51,49
-29.4.24,Black Conservatives,30,70
-29.4.24,Black Greens,80,20
-29.4.24,Black Labour,53,47
-29.4.24,Black Liberal Democrats,75,25
-29.4.24,Black Other,43,57
-29.4.24,Black SNP,100,0
-29.4.24,Mixed Brexit Party,100,0
-29.4.24,Mixed Conservatives,100,0
-29.4.24,Mixed Greens,100,0
-29.4.24,Mixed Labour,100,0
-29.4.24,Mixed Liberal Democrats,100,0
-29.4.24,Mixed Other,60,40
-29.4.24,Mixed SNP,100,0
-29.4.24,Other Brexit Party,100,0
-29.4.24,Other Conservatives,11,89
-29.4.24,Other Greens,100,0
-29.4.24,Other Labour,100,0
-29.4.24,Other Liberal Democrats,100,0
-29.4.24,Other Other,77,23
-29.4.24,Other SNP,100,0
-29.4.24,White Brexit Party,100,0
-29.4.24,White Conservatives,77,23
-29.4.24,White Greens,100,0
-29.4.24,White Labour,97,3
-29.4.24,White Liberal Democrats,95,5
-29.4.24,White Other,95,5
-29.4.24,White SNP,93,7
-13.5.24,National,82,18
-13.5.24,Female,82,18
-13.5.24,Male,81,19
-13.5.24,18-24,88,12
-13.5.24,25-49,83,17
-13.5.24,50-64,82,18
-13.5.24,65+,77,23
-13.5.24,Asian,78,22
-13.5.24,Black,52,48
-13.5.24,Mixed,41,59
-13.5.24,Other,94,6
-13.5.24,White,85,15
-13.5.24,Brexit Party,96,4
-13.5.24,Conservatives,67,33
-13.5.24,Greens,94,6
-13.5.24,Labour,95,5
-13.5.24,Liberal Democrats,89,11
-13.5.24,Other,81,19
-13.5.24,SNP,92,8
-13.5.24,Female 18-24,89,11
-13.5.24,Female 25-49,84,16
-13.5.24,Female 50-64,80,20
-13.5.24,Female 65+,78,22
-13.5.24,Male 18-24,86,14
-13.5.24,Male 25-49,82,18
-13.5.24,Male 50-64,85,15
-13.5.24,Male 65+,75,25
-13.5.24,Female Asian,78,22
-13.5.24,Female Black,58,42
-13.5.24,Female Mixed,32,68
-13.5.24,Female Other,91,9
-13.5.24,Female White,86,14
-13.5.24,Male Asian,78,22
-13.5.24,Male Black,48,52
-13.5.24,Male Mixed,50,50
-13.5.24,Male Other,96,4
-13.5.24,Male White,85,15
-13.5.24,Female Brexit Party,88,12
-13.5.24,Female Conservatives,68,32
-13.5.24,Female Greens,94,6
-13.5.24,Female Labour,95,5
-13.5.24,Female Liberal Democrats,89,11
-13.5.24,Female Other,86,14
-13.5.24,Female SNP,90,10
-13.5.24,Male Brexit Party,100,0
-13.5.24,Male Conservatives,67,33
-13.5.24,Male Greens,94,6
-13.5.24,Male Labour,96,4
-13.5.24,Male Liberal Democrats,89,11
-13.5.24,Male Other,78,22
-13.5.24,Male SNP,94,6
-13.5.24,18-24 Asian,86,14
-13.5.24,18-24 Black,80,20
-13.5.24,18-24 Mixed,67,33
-13.5.24,18-24 Other,100,0
-13.5.24,18-24 White,90,10
-13.5.24,25-49 Asian,80,20
-13.5.24,25-49 Black,43,57
-13.5.24,25-49 Mixed,66,34
-13.5.24,25-49 Other,91,9
-13.5.24,25-49 White,86,14
-13.5.24,50-64 Asian,69,31
-13.5.24,50-64 Black,59,41
-13.5.24,50-64 Mixed,100,0
-13.5.24,50-64 Other,71,29
-13.5.24,50-64 White,84,16
-13.5.24,65+ Asian,76,24
-13.5.24,65+ Black,48,52
-13.5.24,65+ Mixed,11,89
-13.5.24,65+ Other,100,0
-13.5.24,65+ White,83,17
-13.5.24,18-24 Brexit Party,100,0
-13.5.24,18-24 Conservatives,56,44
-13.5.24,18-24 Greens,80,20
-13.5.24,18-24 Labour,99,1
-13.5.24,18-24 Liberal Democrats,100,0
-13.5.24,18-24 Other,95,5
-13.5.24,18-24 SNP,74,26
-13.5.24,25-49 Brexit Party,100,0
-13.5.24,25-49 Conservatives,65,35
-13.5.24,25-49 Greens,93,7
-13.5.24,25-49 Labour,94,6
-13.5.24,25-49 Liberal Democrats,89,11
-13.5.24,25-49 Other,68,32
-13.5.24,25-49 SNP,93,7
-13.5.24,50-64 Brexit Party,91,9
-13.5.24,50-64 Conservatives,71,29
-13.5.24,50-64 Greens,100,0
-13.5.24,50-64 Labour,96,4
-13.5.24,50-64 Liberal Democrats,89,11
-13.5.24,50-64 Other,79,21
-13.5.24,50-64 SNP,96,4
-13.5.24,65+ Brexit Party,97,3
-13.5.24,65+ Conservatives,68,32
-13.5.24,65+ Greens,100,0
-13.5.24,65+ Labour,96,4
-13.5.24,65+ Liberal Democrats,86,14
-13.5.24,65+ Other,93,7
-13.5.24,65+ SNP,100,0
-13.5.24,Asian Brexit Party,98,2
-13.5.24,Asian Conservatives,54,46
-13.5.24,Asian Greens,100,0
-13.5.24,Asian Labour,95,5
-13.5.24,Asian Liberal Democrats,92,8
-13.5.24,Asian Other,29,71
-13.5.24,Asian SNP,100,0
-13.5.24,Black Brexit Party,99,1
-13.5.24,Black Conservatives,26,74
-13.5.24,Black Greens,100,0
-13.5.24,Black Labour,75,25
-13.5.24,Black Liberal Democrats,59,41
-13.5.24,Black Other,54,46
-13.5.24,Black SNP,100,0
-13.5.24,Mixed Brexit Party,75,25
-13.5.24,Mixed Conservatives,13,87
-13.5.24,Mixed Greens,89,11
-13.5.24,Mixed Labour,71,29
-13.5.24,Mixed Liberal Democrats,53,47
-13.5.24,Mixed Other,16,84
-13.5.24,Mixed SNP,98,2
-13.5.24,Other Brexit Party,95,5
-13.5.24,Other Conservatives,100,0
-13.5.24,Other Greens,100,0
-13.5.24,Other Labour,81,19
-13.5.24,Other Liberal Democrats,100,0
-13.5.24,Other Other,88,12
-13.5.24,Other SNP,100,0
-13.5.24,White Brexit Party,97,3
-13.5.24,White Conservatives,72,28
-13.5.24,White Greens,93,7
-13.5.24,White Labour,98,2
-13.5.24,White Liberal Democrats,92,8
-13.5.24,White Other,91,9
-13.5.24,White SNP,90,10
-27.5.24,National,83,17
-27.5.24,Female,82,18
-27.5.24,Male,84,16
-27.5.24,18-24,86,14
-27.5.24,25-49,89,11
-27.5.24,50-64,81,19
-27.5.24,65+,75,25
-27.5.24,Asian,81,19
-27.5.24,Black,62,38
-27.5.24,Mixed,71,29
-27.5.24,Other,99,1
-27.5.24,White,84,16
-27.5.24,Brexit Party,95,5
-27.5.24,Conservatives,67,33
-27.5.24,Greens,89,11
-27.5.24,Labour,96,4
-27.5.24,Liberal Democrats,93,7
-27.5.24,Other,93,7
-27.5.24,SNP,98,2
-27.5.24,Female 18-24,87,13
-27.5.24,Female 25-49,89,11
-27.5.24,Female 50-64,81,19
-27.5.24,Female 65+,71,29
-27.5.24,Male 18-24,85,15
-27.5.24,Male 25-49,88,12
-27.5.24,Male 50-64,81,19
-27.5.24,Male 65+,79,21
-27.5.24,Female Asian,79,21
-27.5.24,Female Black,66,34
-27.5.24,Female Mixed,59,41
-27.5.24,Female Other,98,2
-27.5.24,Female White,84,16
-27.5.24,Male Asian,82,18
-27.5.24,Male Black,59,41
-27.5.24,Male Mixed,84,16
-27.5.24,Male Other,99,1
-27.5.24,Male White,85,15
-27.5.24,Female Brexit Party,85,15
-27.5.24,Female Conservatives,65,35
-27.5.24,Female Greens,98,2
-27.5.24,Female Labour,95,5
-27.5.24,Female Liberal Democrats,92,8
-27.5.24,Female Other,100,0
-27.5.24,Female SNP,96,4
-27.5.24,Male Brexit Party,100,0
-27.5.24,Male Conservatives,69,31
-27.5.24,Male Greens,79,21
-27.5.24,Male Labour,97,3
-27.5.24,Male Liberal Democrats,93,7
-27.5.24,Male Other,90,10
-27.5.24,Male SNP,100,0
-27.5.24,18-24 Asian,73,27
-27.5.24,18-24 Black,61,39
-27.5.24,18-24 Mixed,81,19
-27.5.24,18-24 Other,100,0
-27.5.24,18-24 White,90,10
-27.5.24,25-49 Asian,89,11
-27.5.24,25-49 Black,68,32
-27.5.24,25-49 Mixed,90,10
-27.5.24,25-49 Other,100,0
-27.5.24,25-49 White,89,11
-27.5.24,50-64 Asian,71,29
-27.5.24,50-64 Black,68,32
-27.5.24,50-64 Mixed,88,12
-27.5.24,50-64 Other,87,13
-27.5.24,50-64 White,82,18
-27.5.24,65+ Asian,65,35
-27.5.24,65+ Black,55,45
-27.5.24,65+ Mixed,56,44
-27.5.24,65+ Other,100,0
-27.5.24,65+ White,76,24
-27.5.24,18-24 Brexit Party,100,0
-27.5.24,18-24 Conservatives,74,26
-27.5.24,18-24 Greens,48,52
-27.5.24,18-24 Labour,93,7
-27.5.24,18-24 Liberal Democrats,80,20
-27.5.24,18-24 Other,83,17
-27.5.24,18-24 SNP,100,0
-27.5.24,25-49 Brexit Party,91,9
-27.5.24,25-49 Conservatives,73,27
-27.5.24,25-49 Greens,95,5
-27.5.24,25-49 Labour,96,4
-27.5.24,25-49 Liberal Democrats,100,0
-27.5.24,25-49 Other,94,6
-27.5.24,25-49 SNP,97,3
-27.5.24,50-64 Brexit Party,100,0
-27.5.24,50-64 Conservatives,68,32
-27.5.24,50-64 Greens,96,4
-27.5.24,50-64 Labour,98,2
-27.5.24,50-64 Liberal Democrats,87,13
-27.5.24,50-64 Other,88,12
-27.5.24,50-64 SNP,95,5
-27.5.24,65+ Brexit Party,92,8
-27.5.24,65+ Conservatives,63,37
-27.5.24,65+ Greens,100,0
-27.5.24,65+ Labour,100,0
-27.5.24,65+ Liberal Democrats,91,9
-27.5.24,65+ Other,100,0
-27.5.24,65+ SNP,100,0
-27.5.24,Asian Brexit Party,100,0
-27.5.24,Asian Conservatives,63,37
-27.5.24,Asian Greens,89,11
-27.5.24,Asian Labour,93,7
-27.5.24,Asian Liberal Democrats,82,18
-27.5.24,Asian Other,99,1
-27.5.24,Asian SNP,100,0
-27.5.24,Black Brexit Party,100,0
-27.5.24,Black Conservatives,35,65
-27.5.24,Black Greens,100,0
-27.5.24,Black Labour,76,24
-27.5.24,Black Liberal Democrats,100,0
-27.5.24,Black Other,100,0
-27.5.24,Black SNP,100,0
-27.5.24,Mixed Brexit Party,100,0
-27.5.24,Mixed Conservatives,50,50
-27.5.24,Mixed Greens,95,5
-27.5.24,Mixed Labour,100,0
-27.5.24,Mixed Liberal Democrats,62,38
-27.5.24,Mixed Other,100,0
-27.5.24,Mixed SNP,100,0
-27.5.24,Other Brexit Party,100,0
-27.5.24,Other Conservatives,100,0
-27.5.24,Other Greens,100,0
-27.5.24,Other Labour,100,0
-27.5.24,Other Liberal Democrats,89,11
-27.5.24,Other Other,92,8
-27.5.24,Other SNP,100,0
-27.5.24,White Brexit Party,93,7
-27.5.24,White Conservatives,69,31
-27.5.24,White Greens,88,12
-27.5.24,White Labour,98,2
-27.5.24,White Liberal Democrats,95,5
-27.5.24,White Other,92,8
-27.5.24,White SNP,97,3
-10.6.24,National,83,17
-10.6.24,Female,82,18
-10.6.24,Male,85,15
-10.6.24,18-24,85,15
-10.6.24,25-49,85,15
-10.6.24,50-64,84,16
-10.6.24,65+,80,20
-10.6.24,Asian,77,23
-10.6.24,Black,66,34
-10.6.24,Mixed,68,32
-10.6.24,Other,100,0
-10.6.24,White,85,15
-10.6.24,Brexit Party,93,7
-10.6.24,Conservatives,70,30
-10.6.24,Greens,85,15
-10.6.24,Labour,96,4
-10.6.24,Liberal Democrats,93,7
-10.6.24,Other,89,11
-10.6.24,SNP,98,2
-10.6.24,Female 18-24,87,13
-10.6.24,Female 25-49,84,16
-10.6.24,Female 50-64,82,18
-10.6.24,Female 65+,76,24
-10.6.24,Male 18-24,83,17
-10.6.24,Male 25-49,87,13
-10.6.24,Male 50-64,85,15
-10.6.24,Male 65+,83,17
-10.6.24,Female Asian,72,28
-10.6.24,Female Black,59,41
-10.6.24,Female Mixed,88,12
-10.6.24,Female Other,100,0
-10.6.24,Female White,83,17
-10.6.24,Male Asian,83,17
-10.6.24,Male Black,71,29
-10.6.24,Male Mixed,48,52
-10.6.24,Male Other,100,0
-10.6.24,Male White,87,13
-10.6.24,Female Brexit Party,90,10
-10.6.24,Female Conservatives,67,33
-10.6.24,Female Greens,81,19
-10.6.24,Female Labour,95,5
-10.6.24,Female Liberal Democrats,90,10
-10.6.24,Female Other,90,10
-10.6.24,Female SNP,97,3
-10.6.24,Male Brexit Party,95,5
-10.6.24,Male Conservatives,72,28
-10.6.24,Male Greens,90,10
-10.6.24,Male Labour,96,4
-10.6.24,Male Liberal Democrats,97,3
-10.6.24,Male Other,89,11
-10.6.24,Male SNP,99,1
-10.6.24,18-24 Asian,80,20
-10.6.24,18-24 Black,57,43
-10.6.24,18-24 Mixed,70,30
-10.6.24,18-24 Other,99,1
-10.6.24,18-24 White,89,11
-10.6.24,25-49 Asian,76,24
-10.6.24,25-49 Black,56,44
-10.6.24,25-49 Mixed,69,31
-10.6.24,25-49 Other,100,0
-10.6.24,25-49 White,89,11
-10.6.24,50-64 Asian,73,27
-10.6.24,50-64 Black,62,38
-10.6.24,50-64 Mixed,100,0
-10.6.24,50-64 Other,99,1
-10.6.24,50-64 White,85,15
-10.6.24,65+ Asian,87,13
-10.6.24,65+ Black,80,20
-10.6.24,65+ Mixed,62,38
-10.6.24,65+ Other,100,0
-10.6.24,65+ White,79,21
-10.6.24,18-24 Brexit Party,96,4
-10.6.24,18-24 Conservatives,64,36
-10.6.24,18-24 Greens,22,78
-10.6.24,18-24 Labour,93,7
-10.6.24,18-24 Liberal Democrats,100,0
-10.6.24,18-24 Other,82,18
-10.6.24,18-24 SNP,100,0
-10.6.24,25-49 Brexit Party,84,16
-10.6.24,25-49 Conservatives,68,32
-10.6.24,25-49 Greens,94,6
-10.6.24,25-49 Labour,95,5
-10.6.24,25-49 Liberal Democrats,90,10
-10.6.24,25-49 Other,95,5
-10.6.24,25-49 SNP,97,3
-10.6.24,50-64 Brexit Party,94,6
-10.6.24,50-64 Conservatives,73,27
-10.6.24,50-64 Greens,100,0
-10.6.24,50-64 Labour,98,2
-10.6.24,50-64 Liberal Democrats,89,11
-10.6.24,50-64 Other,80,20
-10.6.24,50-64 SNP,96,4
-10.6.24,65+ Brexit Party,100,0
-10.6.24,65+ Conservatives,69,31
-10.6.24,65+ Greens,100,0
-10.6.24,65+ Labour,98,2
-10.6.24,65+ Liberal Democrats,100,0
-10.6.24,65+ Other,92,8
-10.6.24,65+ SNP,100,0
-10.6.24,Asian Brexit Party,72,28
-10.6.24,Asian Conservatives,62,38
-10.6.24,Asian Greens,66,34
-10.6.24,Asian Labour,93,7
-10.6.24,Asian Liberal Democrats,72,28
-10.6.24,Asian Other,55,45
-10.6.24,Asian SNP,100,0
-10.6.24,Black Brexit Party,87,13
-10.6.24,Black Conservatives,57,43
-10.6.24,Black Greens,73,27
-10.6.24,Black Labour,72,28
-10.6.24,Black Liberal Democrats,79,21
-10.6.24,Black Other,0,100
-10.6.24,Black SNP,100,0
-10.6.24,Mixed Brexit Party,94,6
-10.6.24,Mixed Conservatives,42,58
-10.6.24,Mixed Greens,77,23
-10.6.24,Mixed Labour,92,8
-10.6.24,Mixed Liberal Democrats,97,3
-10.6.24,Mixed Other,100,0
-10.6.24,Mixed SNP,100,0
-10.6.24,Other Brexit Party,100,0
-10.6.24,Other Conservatives,100,0
-10.6.24,Other Greens,95,5
-10.6.24,Other Labour,100,0
-10.6.24,Other Liberal Democrats,100,0
-10.6.24,Other Other,92,8
-10.6.24,Other SNP,100,0
-10.6.24,White Brexit Party,95,5
-10.6.24,White Conservatives,71,29
-10.6.24,White Greens,88,12
-10.6.24,White Labour,98,2
-10.6.24,White Liberal Democrats,96,4
-10.6.24,White Other,97,3
-10.6.24,White SNP,97,3
-24.6.24,National,85,15
-24.6.24,Female,86,14
-24.6.24,Male,84,16
-24.6.24,18-24,91,9
-24.6.24,25-49,86,14
-24.6.24,50-64,83,17
-24.6.24,65+,83,17
-24.6.24,Asian,85,15
-24.6.24,Black,71,29
-24.6.24,Mixed,69,31
-24.6.24,Other,89,11
-24.6.24,White,86,14
-24.6.24,Brexit Party,95,5
-24.6.24,Conservatives,72,28
-24.6.24,Greens,98,2
-24.6.24,Labour,96,4
-24.6.24,Liberal Democrats,95,5
-24.6.24,Other,85,15
-24.6.24,SNP,96,4
-24.6.24,Female 18-24,93,7
-24.6.24,Female 25-49,87,13
-24.6.24,Female 50-64,81,19
-24.6.24,Female 65+,85,15
-24.6.24,Male 18-24,89,11
-24.6.24,Male 25-49,84,16
-24.6.24,Male 50-64,86,14
-24.6.24,Male 65+,80,20
-24.6.24,Female Asian,83,17
-24.6.24,Female Black,69,31
-24.6.24,Female Mixed,91,9
-24.6.24,Female Other,71,29
-24.6.24,Female White,87,13
-24.6.24,Male Asian,88,12
-24.6.24,Male Black,73,27
-24.6.24,Male Mixed,47,53
-24.6.24,Male Other,100,0
-24.6.24,Male White,85,15
-24.6.24,Female Brexit Party,100,0
-24.6.24,Female Conservatives,73,27
-24.6.24,Female Greens,96,4
-24.6.24,Female Labour,97,3
-24.6.24,Female Liberal Democrats,94,6
-24.6.24,Female Other,83,17
-24.6.24,Female SNP,94,6
-24.6.24,Male Brexit Party,92,8
-24.6.24,Male Conservatives,71,29
-24.6.24,Male Greens,100,0
-24.6.24,Male Labour,95,5
-24.6.24,Male Liberal Democrats,97,3
-24.6.24,Male Other,87,13
-24.6.24,Male SNP,98,2
-24.6.24,18-24 Asian,92,8
-24.6.24,18-24 Black,39,61
-24.6.24,18-24 Mixed,84,16
-24.6.24,18-24 Other,94,6
-24.6.24,18-24 White,95,5
-24.6.24,25-49 Asian,87,13
-24.6.24,25-49 Black,52,48
-24.6.24,25-49 Mixed,70,30
-24.6.24,25-49 Other,83,17
-24.6.24,25-49 White,88,12
-24.6.24,50-64 Asian,75,25
-24.6.24,50-64 Black,68,32
-24.6.24,50-64 Mixed,49,51
-24.6.24,50-64 Other,100,0
-24.6.24,50-64 White,85,15
-24.6.24,65+ Asian,84,16
-24.6.24,65+ Black,100,0
-24.6.24,65+ Mixed,68,32
-24.6.24,65+ Other,90,10
-24.6.24,65+ White,82,18
-24.6.24,18-24 Brexit Party,100,0
-24.6.24,18-24 Conservatives,76,24
-24.6.24,18-24 Greens,100,0
-24.6.24,18-24 Labour,93,7
-24.6.24,18-24 Liberal Democrats,100,0
-24.6.24,18-24 Other,100,0
-24.6.24,18-24 SNP,100,0
-24.6.24,25-49 Brexit Party,98,2
-24.6.24,25-49 Conservatives,68,32
-24.6.24,25-49 Greens,95,5
-24.6.24,25-49 Labour,95,5
-24.6.24,25-49 Liberal Democrats,95,5
-24.6.24,25-49 Other,79,21
-24.6.24,25-49 SNP,96,4
-24.6.24,50-64 Brexit Party,99,1
-24.6.24,50-64 Conservatives,70,30
-24.6.24,50-64 Greens,100,0
-24.6.24,50-64 Labour,99,1
-24.6.24,50-64 Liberal Democrats,92,8
-24.6.24,50-64 Other,88,12
-24.6.24,50-64 SNP,94,6
-24.6.24,65+ Brexit Party,88,12
-24.6.24,65+ Conservatives,75,25
-24.6.24,65+ Greens,100,0
-24.6.24,65+ Labour,97,3
-24.6.24,65+ Liberal Democrats,97,3
-24.6.24,65+ Other,86,14
-24.6.24,65+ SNP,92,8
-24.6.24,Asian Brexit Party,91,9
-24.6.24,Asian Conservatives,72,28
-24.6.24,Asian Greens,100,0
-24.6.24,Asian Labour,96,4
-24.6.24,Asian Liberal Democrats,87,13
-24.6.24,Asian Other,61,39
-24.6.24,Asian SNP,100,0
-24.6.24,Black Brexit Party,100,0
-24.6.24,Black Conservatives,69,31
-24.6.24,Black Greens,100,0
-24.6.24,Black Labour,56,44
-24.6.24,Black Liberal Democrats,100,0
-24.6.24,Black Other,54,46
-24.6.24,Black SNP,100,0
-24.6.24,Mixed Brexit Party,80,20
-24.6.24,Mixed Conservatives,40,60
-24.6.24,Mixed Greens,100,0
-24.6.24,Mixed Labour,97,3
-24.6.24,Mixed Liberal Democrats,100,0
-24.6.24,Mixed Other,100,0
-24.6.24,Mixed SNP,98,2
-24.6.24,Other Brexit Party,100,0
-24.6.24,Other Conservatives,79,21
-24.6.24,Other Greens,100,0
-24.6.24,Other Labour,100,0
-24.6.24,Other Liberal Democrats,97,3
-24.6.24,Other Other,93,7
-24.6.24,Other SNP,100,0
-24.6.24,White Brexit Party,95,5
-24.6.24,White Conservatives,73,27
-24.6.24,White Greens,97,3
-24.6.24,White Labour,98,2
-24.6.24,White Liberal Democrats,95,5
-24.6.24,White Other,88,12
-24.6.24,White SNP,95,5
-30.7.24,National,48,52
-30.7.24,Female,51,49
-30.7.24,Male,45,55
-30.7.24,18-24,55,45
-30.7.24,25-49,42,58
-30.7.24,50-64,49,51
-30.7.24,65+,53,47
-30.7.24,Asian,49,51
-30.7.24,Black,7,93
-30.7.24,Mixed,21,79
-30.7.24,Other,63,37
-30.7.24,White,51,49
-30.7.24,Brexit Party,74,26
-30.7.24,Conservatives,64,36
-30.7.24,Greens,42,58
-30.7.24,Labour,33,67
-30.7.24,Liberal Democrats,28,72
-30.7.24,Other,34,66
-30.7.24,SNP,45,55
-30.7.24,Female 18-24,61,39
-30.7.24,Female 25-49,46,54
-30.7.24,Female 50-64,51,49
-30.7.24,Female 65+,54,46
-30.7.24,Male 18-24,48,52
-30.7.24,Male 25-49,38,62
-30.7.24,Male 50-64,48,52
-30.7.24,Male 65+,52,48
-30.7.24,Female Asian,54,46
-30.7.24,Female Black,10,90
-30.7.24,Female Mixed,26,74
-30.7.24,Female Other,62,38
-30.7.24,Female White,53,47
-30.7.24,Male Asian,44,56
-30.7.24,Male Black,4,96
-30.7.24,Male Mixed,17,83
-30.7.24,Male Other,64,36
-30.7.24,Male White,49,51
-30.7.24,Female Brexit Party,75,25
-30.7.24,Female Conservatives,64,36
-30.7.24,Female Greens,51,49
-30.7.24,Female Labour,38,62
-30.7.24,Female Liberal Democrats,40,60
-30.7.24,Female Other,35,65
-30.7.24,Female SNP,51,49
-30.7.24,Male Brexit Party,73,27
-30.7.24,Male Conservatives,65,35
-30.7.24,Male Greens,32,68
-30.7.24,Male Labour,27,73
-30.7.24,Male Liberal Democrats,18,82
-30.7.24,Male Other,34,66
-30.7.24,Male SNP,39,61
-30.7.24,18-24 Asian,62,38
-30.7.24,18-24 Black,30,70
-30.7.24,18-24 Mixed,17,83
-30.7.24,18-24 Other,52,48
-30.7.24,18-24 White,58,42
-30.7.24,25-49 Asian,47,53
-30.7.24,25-49 Black,5,95
-30.7.24,25-49 Mixed,48,52
-30.7.24,25-49 Other,57,43
-30.7.24,25-49 White,43,57
-30.7.24,50-64 Asian,49,51
-30.7.24,50-64 Black,8,92
-30.7.24,50-64 Mixed,18,82
-30.7.24,50-64 Other,85,15
-30.7.24,50-64 White,51,49
-30.7.24,65+ Asian,45,55
-30.7.24,65+ Black,0,100
-30.7.24,65+ Mixed,9,91
-30.7.24,65+ Other,64,36
-30.7.24,65+ White,61,39
-30.7.24,18-24 Brexit Party,100,0
-30.7.24,18-24 Conservatives,59,41
-30.7.24,18-24 Greens,28,72
-30.7.24,18-24 Labour,58,42
-30.7.24,18-24 Liberal Democrats,38,62
-30.7.24,18-24 Other,0,100
-30.7.24,18-24 SNP,62,38
-30.7.24,25-49 Brexit Party,83,17
-30.7.24,25-49 Conservatives,60,40
-30.7.24,25-49 Greens,39,61
-30.7.24,25-49 Labour,31,69
-30.7.24,25-49 Liberal Democrats,24,76
-30.7.24,25-49 Other,64,36
-30.7.24,25-49 SNP,39,61
-30.7.24,50-64 Brexit Party,82,18
-30.7.24,50-64 Conservatives,67,33
-30.7.24,50-64 Greens,48,52
-30.7.24,50-64 Labour,26,74
-30.7.24,50-64 Liberal Democrats,20,80
-30.7.24,50-64 Other,50,50
-30.7.24,50-64 SNP,50,50
-30.7.24,65+ Brexit Party,55,45
-30.7.24,65+ Conservatives,66,34
-30.7.24,65+ Greens,52,48
-30.7.24,65+ Labour,18,82
-30.7.24,65+ Liberal Democrats,40,60
-30.7.24,65+ Other,0,100
-30.7.24,65+ SNP,38,62
-30.7.24,Asian Brexit Party,100,0
-30.7.24,Asian Conservatives,58,42
-30.7.24,Asian Greens,0,100
-30.7.24,Asian Labour,63,37
-30.7.24,Asian Liberal Democrats,0,100
-30.7.24,Asian Other,39,61
-30.7.24,Asian SNP,0,100
-30.7.24,Black Brexit Party,5,95
-30.7.24,Black Conservatives,0,100
-30.7.24,Black Greens,0,100
-30.7.24,Black Labour,21,79
-30.7.24,Black Liberal Democrats,0,100
-30.7.24,Black Other,0,100
-30.7.24,Black SNP,0,100
-30.7.24,Mixed Brexit Party,100,0
-30.7.24,Mixed Conservatives,13,87
-30.7.24,Mixed Greens,47,53
-30.7.24,Mixed Labour,16,84
-30.7.24,Mixed Liberal Democrats,23,77
-30.7.24,Mixed Other,32,68
-30.7.24,Mixed SNP,100,0
-30.7.24,Other Brexit Party,39,61
-30.7.24,Other Conservatives,100,0
-30.7.24,Other Greens,0,100
-30.7.24,Other Labour,41,59
-30.7.24,Other Liberal Democrats,0,100
-30.7.24,Other Other,36,64
-30.7.24,Other SNP,10,90
-30.7.24,White Brexit Party,77,23
-30.7.24,White Conservatives,70,30
-30.7.24,White Greens,50,50
-30.7.24,White Labour,31,69
-30.7.24,White Liberal Democrats,35,65
-30.7.24,White Other,36,64
-30.7.24,White SNP,52,48
+"Date","Demographic.Level","Disapprove","Approve"
+"18.3.24","National",85,15
+"18.3.24","Female",85,15
+"18.3.24","Male",85,15
+"18.3.24","18-24",89,11
+"18.3.24","25-49",88,12
+"18.3.24","50-64",84,16
+"18.3.24","65+",80,20
+"18.3.24","Asian",77,23
+"18.3.24","Black",79,21
+"18.3.24","Mixed",74,26
+"18.3.24","Other Ethnicity",93,7
+"18.3.24","White",86,14
+"18.3.24","Brexit Party",82,18
+"18.3.24","Conservatives",71,29
+"18.3.24","Greens",99,1
+"18.3.24","Labour",97,3
+"18.3.24","Liberal Democrats",94,6
+"18.3.24","Other Party",96,4
+"18.3.24","SNP",98,2
+"18.3.24","Female 18-24",92,8
+"18.3.24","Female 25-49",88,12
+"18.3.24","Female 50-64",82,18
+"18.3.24","Female 65+",82,18
+"18.3.24","Male 18-24",87,13
+"18.3.24","Male 25-49",88,12
+"18.3.24","Male 50-64",86,14
+"18.3.24","Male 65+",78,22
+"18.3.24","Female Asian",76,24
+"18.3.24","Female Black",70,30
+"18.3.24","Female Mixed",100,0
+"18.3.24","Female Other",90,10
+"18.3.24","Female White",86,14
+"18.3.24","Male Asian",77,23
+"18.3.24","Male Black",85,15
+"18.3.24","Male Mixed",48,52
+"18.3.24","Male Other",95,5
+"18.3.24","Male White",87,13
+"18.3.24","Female Brexit Party",100,0
+"18.3.24","Female Conservatives",70,30
+"18.3.24","Female Greens",98,2
+"18.3.24","Female Labour",97,3
+"18.3.24","Female Liberal Democrats",95,5
+"18.3.24","Female Other",94,6
+"18.3.24","Female SNP",97,3
+"18.3.24","Male Brexit Party",73,27
+"18.3.24","Male Conservatives",72,28
+"18.3.24","Male Greens",100,0
+"18.3.24","Male Labour",98,2
+"18.3.24","Male Liberal Democrats",93,7
+"18.3.24","Male Other",97,3
+"18.3.24","Male SNP",100,0
+"18.3.24","18-24 Asian",77,23
+"18.3.24","18-24 Black",47,53
+"18.3.24","18-24 Mixed",83,17
+"18.3.24","18-24 Other",100,0
+"18.3.24","18-24 White",95,5
+"18.3.24","25-49 Asian",78,22
+"18.3.24","25-49 Black",72,28
+"18.3.24","25-49 Mixed",84,16
+"18.3.24","25-49 Other",84,16
+"18.3.24","25-49 White",91,9
+"18.3.24","50-64 Asian",79,21
+"18.3.24","50-64 Black",68,32
+"18.3.24","50-64 Mixed",75,25
+"18.3.24","50-64 Other",81,19
+"18.3.24","50-64 White",85,15
+"18.3.24","65+ Asian",68,32
+"18.3.24","65+ Black",100,0
+"18.3.24","65+ Mixed",67,33
+"18.3.24","65+ Other",100,0
+"18.3.24","65+ White",78,22
+"18.3.24","18-24 Brexit Party",70,30
+"18.3.24","18-24 Conservatives",67,33
+"18.3.24","18-24 Greens",100,0
+"18.3.24","18-24 Labour",94,6
+"18.3.24","18-24 Liberal Democrats",100,0
+"18.3.24","18-24 Other",100,0
+"18.3.24","18-24 SNP",100,0
+"18.3.24","25-49 Brexit Party",100,0
+"18.3.24","25-49 Conservatives",71,29
+"18.3.24","25-49 Greens",98,2
+"18.3.24","25-49 Labour",98,2
+"18.3.24","25-49 Liberal Democrats",90,10
+"18.3.24","25-49 Other",100,0
+"18.3.24","25-49 SNP",97,3
+"18.3.24","50-64 Brexit Party",100,0
+"18.3.24","50-64 Conservatives",71,29
+"18.3.24","50-64 Greens",100,0
+"18.3.24","50-64 Labour",97,3
+"18.3.24","50-64 Liberal Democrats",95,5
+"18.3.24","50-64 Other",83,17
+"18.3.24","50-64 SNP",100,0
+"18.3.24","65+ Brexit Party",52,48
+"18.3.24","65+ Conservatives",71,29
+"18.3.24","65+ Greens",100,0
+"18.3.24","65+ Labour",100,0
+"18.3.24","65+ Liberal Democrats",98,2
+"18.3.24","65+ Other",100,0
+"18.3.24","65+ SNP",100,0
+"18.3.24","Asian Brexit Party",82,18
+"18.3.24","Asian Conservatives",51,49
+"18.3.24","Asian Greens",100,0
+"18.3.24","Asian Labour",94,6
+"18.3.24","Asian Liberal Democrats",83,17
+"18.3.24","Asian Other",100,0
+"18.3.24","Asian SNP",100,0
+"18.3.24","Black Brexit Party",95,5
+"18.3.24","Black Conservatives",72,28
+"18.3.24","Black Greens",100,0
+"18.3.24","Black Labour",73,27
+"18.3.24","Black Liberal Democrats",100,0
+"18.3.24","Black Other",100,0
+"18.3.24","Black SNP",100,0
+"18.3.24","Mixed Brexit Party",56,44
+"18.3.24","Mixed Conservatives",49,51
+"18.3.24","Mixed Greens",100,0
+"18.3.24","Mixed Labour",100,0
+"18.3.24","Mixed Liberal Democrats",100,0
+"18.3.24","Mixed Other",100,0
+"18.3.24","Mixed SNP",100,0
+"18.3.24","Other Brexit Party",100,0
+"18.3.24","Other Conservatives",89,11
+"18.3.24","Other Greens",100,0
+"18.3.24","Other Labour",96,4
+"18.3.24","Other Liberal Democrats",100,0
+"18.3.24","Other Ethnicity Other Party",100,0
+"18.3.24","Other SNP",100,0
+"18.3.24","White Brexit Party",82,18
+"18.3.24","White Conservatives",73,27
+"18.3.24","White Greens",99,1
+"18.3.24","White Labour",99,1
+"18.3.24","White Liberal Democrats",95,5
+"18.3.24","White Other",94,6
+"18.3.24","White SNP",98,2
+"19.2.24","National",85,15
+"19.2.24","Female",85,15
+"19.2.24","Male",85,15
+"19.2.24","18-24",90,10
+"19.2.24","25-49",87,13
+"19.2.24","50-64",86,14
+"19.2.24","65+",80,20
+"19.2.24","Asian",79,21
+"19.2.24","Black",46,54
+"19.2.24","Mixed",100,0
+"19.2.24","Other Ethnicity",97,3
+"19.2.24","White",87,13
+"19.2.24","Brexit Party",91,9
+"19.2.24","Conservatives",74,26
+"19.2.24","Greens",89,11
+"19.2.24","Labour",95,5
+"19.2.24","Liberal Democrats",90,10
+"19.2.24","Other Party",90,10
+"19.2.24","SNP",94,6
+"19.2.24","Female 18-24",90,10
+"19.2.24","Female 25-49",87,13
+"19.2.24","Female 50-64",84,16
+"19.2.24","Female 65+",80,20
+"19.2.24","Male 18-24",89,11
+"19.2.24","Male 25-49",87,13
+"19.2.24","Male 50-64",88,12
+"19.2.24","Male 65+",79,21
+"19.2.24","Female Asian",81,19
+"19.2.24","Female Black",57,43
+"19.2.24","Female Mixed",100,0
+"19.2.24","Female Other",91,9
+"19.2.24","Female White",86,14
+"19.2.24","Male Asian",77,23
+"19.2.24","Male Black",37,63
+"19.2.24","Male Mixed",100,0
+"19.2.24","Male Other",100,0
+"19.2.24","Male White",88,12
+"19.2.24","Female Brexit Party",90,10
+"19.2.24","Female Conservatives",74,26
+"19.2.24","Female Greens",93,7
+"19.2.24","Female Labour",95,5
+"19.2.24","Female Liberal Democrats",89,11
+"19.2.24","Female Other",94,6
+"19.2.24","Female SNP",91,9
+"19.2.24","Male Brexit Party",91,9
+"19.2.24","Male Conservatives",75,25
+"19.2.24","Male Greens",85,15
+"19.2.24","Male Labour",96,4
+"19.2.24","Male Liberal Democrats",91,9
+"19.2.24","Male Other",88,12
+"19.2.24","Male SNP",97,3
+"19.2.24","18-24 Asian",80,20
+"19.2.24","18-24 Black",63,37
+"19.2.24","18-24 Mixed",100,0
+"19.2.24","18-24 Other",100,0
+"19.2.24","18-24 White",92,8
+"19.2.24","25-49 Asian",82,18
+"19.2.24","25-49 Black",47,53
+"19.2.24","25-49 Mixed",100,0
+"19.2.24","25-49 Other",88,12
+"19.2.24","25-49 White",89,11
+"19.2.24","50-64 Asian",76,24
+"19.2.24","50-64 Black",58,42
+"19.2.24","50-64 Mixed",100,0
+"19.2.24","50-64 Other",100,0
+"19.2.24","50-64 White",87,13
+"19.2.24","65+ Asian",71,29
+"19.2.24","65+ Black",33,67
+"19.2.24","65+ Mixed",100,0
+"19.2.24","65+ Other",100,0
+"19.2.24","65+ White",81,19
+"19.2.24","18-24 Brexit Party",94,6
+"19.2.24","18-24 Conservatives",71,29
+"19.2.24","18-24 Greens",87,13
+"19.2.24","18-24 Labour",93,7
+"19.2.24","18-24 Liberal Democrats",100,0
+"19.2.24","18-24 Other",100,0
+"19.2.24","18-24 SNP",100,0
+"19.2.24","25-49 Brexit Party",84,16
+"19.2.24","25-49 Conservatives",76,24
+"19.2.24","25-49 Greens",90,10
+"19.2.24","25-49 Labour",94,6
+"19.2.24","25-49 Liberal Democrats",88,12
+"19.2.24","25-49 Other",90,10
+"19.2.24","25-49 SNP",92,8
+"19.2.24","50-64 Brexit Party",94,6
+"19.2.24","50-64 Conservatives",77,23
+"19.2.24","50-64 Greens",90,10
+"19.2.24","50-64 Labour",98,2
+"19.2.24","50-64 Liberal Democrats",93,7
+"19.2.24","50-64 Other",95,5
+"19.2.24","50-64 SNP",90,10
+"19.2.24","65+ Brexit Party",92,8
+"19.2.24","65+ Conservatives",72,28
+"19.2.24","65+ Greens",87,13
+"19.2.24","65+ Labour",98,2
+"19.2.24","65+ Liberal Democrats",88,12
+"19.2.24","65+ Other",84,16
+"19.2.24","65+ SNP",100,0
+"19.2.24","Asian Brexit Party",45,55
+"19.2.24","Asian Conservatives",65,35
+"19.2.24","Asian Greens",39,61
+"19.2.24","Asian Labour",92,8
+"19.2.24","Asian Liberal Democrats",85,15
+"19.2.24","Asian Other",100,0
+"19.2.24","Asian SNP",100,0
+"19.2.24","Black Brexit Party",0,100
+"19.2.24","Black Conservatives",25,75
+"19.2.24","Black Greens",0,100
+"19.2.24","Black Labour",81,19
+"19.2.24","Black Liberal Democrats",24,76
+"19.2.24","Black Other",100,0
+"19.2.24","Black SNP",100,0
+"19.2.24","Mixed Brexit Party",100,0
+"19.2.24","Mixed Conservatives",100,0
+"19.2.24","Mixed Greens",100,0
+"19.2.24","Mixed Labour",100,0
+"19.2.24","Mixed Liberal Democrats",100,0
+"19.2.24","Mixed Other",100,0
+"19.2.24","Mixed SNP",100,0
+"19.2.24","Other Brexit Party",94,6
+"19.2.24","Other Conservatives",100,0
+"19.2.24","Other Greens",100,0
+"19.2.24","Other Labour",89,11
+"19.2.24","Other Liberal Democrats",100,0
+"19.2.24","Other Ethnicity Other Party",100,0
+"19.2.24","Other SNP",100,0
+"19.2.24","White Brexit Party",100,0
+"19.2.24","White Conservatives",76,24
+"19.2.24","White Greens",99,1
+"19.2.24","White Labour",97,3
+"19.2.24","White Liberal Democrats",94,6
+"19.2.24","White Other",88,12
+"19.2.24","White SNP",93,7
+"22.1.24","National",84,16
+"22.1.24","Female",83,17
+"22.1.24","Male",85,15
+"22.1.24","18-24",87,13
+"22.1.24","25-49",86,14
+"22.1.24","50-64",79,21
+"22.1.24","65+",84,16
+"22.1.24","Asian",85,15
+"22.1.24","Black",59,41
+"22.1.24","Mixed",89,11
+"22.1.24","Other Ethnicity",100,0
+"22.1.24","White",85,15
+"22.1.24","Brexit Party",91,9
+"22.1.24","Conservatives",73,27
+"22.1.24","Greens",92,8
+"22.1.24","Labour",95,5
+"22.1.24","Liberal Democrats",90,10
+"22.1.24","Other Party",83,17
+"22.1.24","SNP",90,10
+"22.1.24","Female 18-24",86,14
+"22.1.24","Female 25-49",85,15
+"22.1.24","Female 50-64",77,23
+"22.1.24","Female 65+",84,16
+"22.1.24","Male 18-24",88,12
+"22.1.24","Male 25-49",87,13
+"22.1.24","Male 50-64",82,18
+"22.1.24","Male 65+",84,16
+"22.1.24","Female Asian",82,18
+"22.1.24","Female Black",54,46
+"22.1.24","Female Mixed",91,9
+"22.1.24","Female Other",100,0
+"22.1.24","Female White",83,17
+"22.1.24","Male Asian",88,12
+"22.1.24","Male Black",63,37
+"22.1.24","Male Mixed",88,12
+"22.1.24","Male Other",100,0
+"22.1.24","Male White",86,14
+"22.1.24","Female Brexit Party",83,17
+"22.1.24","Female Conservatives",70,30
+"22.1.24","Female Greens",95,5
+"22.1.24","Female Labour",95,5
+"22.1.24","Female Liberal Democrats",87,13
+"22.1.24","Female Other",94,6
+"22.1.24","Female SNP",87,13
+"22.1.24","Male Brexit Party",95,5
+"22.1.24","Male Conservatives",75,25
+"22.1.24","Male Greens",88,12
+"22.1.24","Male Labour",96,4
+"22.1.24","Male Liberal Democrats",93,7
+"22.1.24","Male Other",77,23
+"22.1.24","Male SNP",93,7
+"22.1.24","18-24 Asian",94,6
+"22.1.24","18-24 Black",21,79
+"22.1.24","18-24 Mixed",87,13
+"22.1.24","18-24 Other",100,0
+"22.1.24","18-24 White",91,9
+"22.1.24","25-49 Asian",86,14
+"22.1.24","25-49 Black",47,53
+"22.1.24","25-49 Mixed",76,24
+"22.1.24","25-49 Other",100,0
+"22.1.24","25-49 White",88,12
+"22.1.24","50-64 Asian",83,17
+"22.1.24","50-64 Black",18,82
+"22.1.24","50-64 Mixed",93,7
+"22.1.24","50-64 Other",100,0
+"22.1.24","50-64 White",81,19
+"22.1.24","65+ Asian",68,32
+"22.1.24","65+ Black",100,0
+"22.1.24","65+ Mixed",96,4
+"22.1.24","65+ Other",100,0
+"22.1.24","65+ White",81,19
+"22.1.24","18-24 Brexit Party",88,12
+"22.1.24","18-24 Conservatives",82,18
+"22.1.24","18-24 Greens",89,11
+"22.1.24","18-24 Labour",92,8
+"22.1.24","18-24 Liberal Democrats",81,19
+"22.1.24","18-24 Other",19,81
+"22.1.24","18-24 SNP",89,11
+"22.1.24","25-49 Brexit Party",80,20
+"22.1.24","25-49 Conservatives",71,29
+"22.1.24","25-49 Greens",95,5
+"22.1.24","25-49 Labour",95,5
+"22.1.24","25-49 Liberal Democrats",93,7
+"22.1.24","25-49 Other",92,8
+"22.1.24","25-49 SNP",87,13
+"22.1.24","50-64 Brexit Party",98,2
+"22.1.24","50-64 Conservatives",66,34
+"22.1.24","50-64 Greens",86,14
+"22.1.24","50-64 Labour",96,4
+"22.1.24","50-64 Liberal Democrats",89,11
+"22.1.24","50-64 Other",95,5
+"22.1.24","50-64 SNP",88,12
+"22.1.24","65+ Brexit Party",93,7
+"22.1.24","65+ Conservatives",77,23
+"22.1.24","65+ Greens",93,7
+"22.1.24","65+ Labour",100,0
+"22.1.24","65+ Liberal Democrats",91,9
+"22.1.24","65+ Other",82,18
+"22.1.24","65+ SNP",100,0
+"22.1.24","Asian Brexit Party",85,15
+"22.1.24","Asian Conservatives",70,30
+"22.1.24","Asian Greens",91,9
+"22.1.24","Asian Labour",93,7
+"22.1.24","Asian Liberal Democrats",100,0
+"22.1.24","Asian Other",100,0
+"22.1.24","Asian SNP",100,0
+"22.1.24","Black Brexit Party",63,37
+"22.1.24","Black Conservatives",63,37
+"22.1.24","Black Greens",40,60
+"22.1.24","Black Labour",66,34
+"22.1.24","Black Liberal Democrats",35,65
+"22.1.24","Black Other",93,7
+"22.1.24","Black SNP",27,73
+"22.1.24","Mixed Brexit Party",8,92
+"22.1.24","Mixed Conservatives",93,7
+"22.1.24","Mixed Greens",0,100
+"22.1.24","Mixed Labour",100,0
+"22.1.24","Mixed Liberal Democrats",100,0
+"22.1.24","Mixed Other",84,16
+"22.1.24","Mixed SNP",34,66
+"22.1.24","Other Brexit Party",99,1
+"22.1.24","Other Conservatives",100,0
+"22.1.24","Other Greens",100,0
+"22.1.24","Other Labour",100,0
+"22.1.24","Other Liberal Democrats",100,0
+"22.1.24","Other Ethnicity Other Party",100,0
+"22.1.24","Other SNP",100,0
+"22.1.24","White Brexit Party",97,3
+"22.1.24","White Conservatives",71,29
+"22.1.24","White Greens",98,2
+"22.1.24","White Labour",97,3
+"22.1.24","White Liberal Democrats",92,8
+"22.1.24","White Other",80,20
+"22.1.24","White SNP",95,5
+"4.3.24","National",85,15
+"4.3.24","Female",84,16
+"4.3.24","Male",87,13
+"4.3.24","18-24",90,10
+"4.3.24","25-49",89,11
+"4.3.24","50-64",85,15
+"4.3.24","65+",79,21
+"4.3.24","Asian",79,21
+"4.3.24","Black",87,13
+"4.3.24","Mixed",74,26
+"4.3.24","Other Ethnicity",100,0
+"4.3.24","White",86,14
+"4.3.24","Brexit Party",81,19
+"4.3.24","Conservatives",74,26
+"4.3.24","Greens",89,11
+"4.3.24","Labour",97,3
+"4.3.24","Liberal Democrats",97,3
+"4.3.24","Other Party",85,15
+"4.3.24","SNP",83,17
+"4.3.24","Female 18-24",88,12
+"4.3.24","Female 25-49",90,10
+"4.3.24","Female 50-64",82,18
+"4.3.24","Female 65+",75,25
+"4.3.24","Male 18-24",91,9
+"4.3.24","Male 25-49",89,11
+"4.3.24","Male 50-64",88,12
+"4.3.24","Male 65+",83,17
+"4.3.24","Female Asian",80,20
+"4.3.24","Female Black",87,13
+"4.3.24","Female Mixed",66,34
+"4.3.24","Female Other",100,0
+"4.3.24","Female White",84,16
+"4.3.24","Male Asian",78,22
+"4.3.24","Male Black",87,13
+"4.3.24","Male Mixed",83,17
+"4.3.24","Male Other",99,1
+"4.3.24","Male White",88,12
+"4.3.24","Female Brexit Party",95,5
+"4.3.24","Female Conservatives",69,31
+"4.3.24","Female Greens",100,0
+"4.3.24","Female Labour",96,4
+"4.3.24","Female Liberal Democrats",96,4
+"4.3.24","Female Other",82,18
+"4.3.24","Female SNP",75,25
+"4.3.24","Male Brexit Party",74,26
+"4.3.24","Male Conservatives",79,21
+"4.3.24","Male Greens",77,23
+"4.3.24","Male Labour",97,3
+"4.3.24","Male Liberal Democrats",97,3
+"4.3.24","Male Other",87,13
+"4.3.24","Male SNP",89,11
+"4.3.24","18-24 Asian",81,19
+"4.3.24","18-24 Black",82,18
+"4.3.24","18-24 Mixed",86,14
+"4.3.24","18-24 Other",100,0
+"4.3.24","18-24 White",91,9
+"4.3.24","25-49 Asian",81,19
+"4.3.24","25-49 Black",83,17
+"4.3.24","25-49 Mixed",90,10
+"4.3.24","25-49 Other",100,0
+"4.3.24","25-49 White",91,9
+"4.3.24","50-64 Asian",76,24
+"4.3.24","50-64 Black",83,17
+"4.3.24","50-64 Mixed",40,60
+"4.3.24","50-64 Other",96,4
+"4.3.24","50-64 White",86,14
+"4.3.24","65+ Asian",73,27
+"4.3.24","65+ Black",95,5
+"4.3.24","65+ Mixed",69,31
+"4.3.24","65+ Other",100,0
+"4.3.24","65+ White",77,23
+"4.3.24","18-24 Brexit Party",76,24
+"4.3.24","18-24 Conservatives",75,25
+"4.3.24","18-24 Greens",100,0
+"4.3.24","18-24 Labour",97,3
+"4.3.24","18-24 Liberal Democrats",100,0
+"4.3.24","18-24 Other",100,0
+"4.3.24","18-24 SNP",51,49
+"4.3.24","25-49 Brexit Party",73,27
+"4.3.24","25-49 Conservatives",80,20
+"4.3.24","25-49 Greens",86,14
+"4.3.24","25-49 Labour",96,4
+"4.3.24","25-49 Liberal Democrats",98,2
+"4.3.24","25-49 Other",85,15
+"4.3.24","25-49 SNP",84,16
+"4.3.24","50-64 Brexit Party",91,9
+"4.3.24","50-64 Conservatives",75,25
+"4.3.24","50-64 Greens",90,10
+"4.3.24","50-64 Labour",97,3
+"4.3.24","50-64 Liberal Democrats",96,4
+"4.3.24","50-64 Other",81,19
+"4.3.24","50-64 SNP",89,11
+"4.3.24","65+ Brexit Party",79,21
+"4.3.24","65+ Conservatives",70,30
+"4.3.24","65+ Greens",88,12
+"4.3.24","65+ Labour",98,2
+"4.3.24","65+ Liberal Democrats",93,7
+"4.3.24","65+ Other",84,16
+"4.3.24","65+ SNP",100,0
+"4.3.24","Asian Brexit Party",15,85
+"4.3.24","Asian Conservatives",64,36
+"4.3.24","Asian Greens",63,37
+"4.3.24","Asian Labour",95,5
+"4.3.24","Asian Liberal Democrats",100,0
+"4.3.24","Asian Other",58,42
+"4.3.24","Asian SNP",60,40
+"4.3.24","Black Brexit Party",18,82
+"4.3.24","Black Conservatives",93,7
+"4.3.24","Black Greens",60,40
+"4.3.24","Black Labour",92,8
+"4.3.24","Black Liberal Democrats",100,0
+"4.3.24","Black Other",11,89
+"4.3.24","Black SNP",26,74
+"4.3.24","Mixed Brexit Party",37,63
+"4.3.24","Mixed Conservatives",56,44
+"4.3.24","Mixed Greens",69,31
+"4.3.24","Mixed Labour",94,6
+"4.3.24","Mixed Liberal Democrats",100,0
+"4.3.24","Mixed Other",100,0
+"4.3.24","Mixed SNP",100,0
+"4.3.24","Other Brexit Party",90,10
+"4.3.24","Other Conservatives",100,0
+"4.3.24","Other Greens",92,8
+"4.3.24","Other Labour",100,0
+"4.3.24","Other Liberal Democrats",100,0
+"4.3.24","Other Ethnicity Other Party",100,0
+"4.3.24","Other SNP",100,0
+"4.3.24","White Brexit Party",93,7
+"4.3.24","White Conservatives",74,26
+"4.3.24","White Greens",95,5
+"4.3.24","White Labour",97,3
+"4.3.24","White Liberal Democrats",96,4
+"4.3.24","White Other",91,9
+"4.3.24","White SNP",87,13
+"5.2.24","National",82,18
+"5.2.24","Female",79,21
+"5.2.24","Male",86,14
+"5.2.24","18-24",83,17
+"5.2.24","25-49",86,14
+"5.2.24","50-64",80,20
+"5.2.24","65+",79,21
+"5.2.24","Asian",81,19
+"5.2.24","Black",57,43
+"5.2.24","Mixed",77,23
+"5.2.24","Other Ethnicity",98,2
+"5.2.24","White",84,16
+"5.2.24","Brexit Party",97,3
+"5.2.24","Conservatives",69,31
+"5.2.24","Greens",95,5
+"5.2.24","Labour",94,6
+"5.2.24","Liberal Democrats",93,7
+"5.2.24","Other Party",93,7
+"5.2.24","SNP",88,12
+"5.2.24","Female 18-24",82,18
+"5.2.24","Female 25-49",85,15
+"5.2.24","Female 50-64",78,22
+"5.2.24","Female 65+",72,28
+"5.2.24","Male 18-24",83,17
+"5.2.24","Male 25-49",87,13
+"5.2.24","Male 50-64",83,17
+"5.2.24","Male 65+",87,13
+"5.2.24","Female Asian",80,20
+"5.2.24","Female Black",52,48
+"5.2.24","Female Mixed",58,42
+"5.2.24","Female Other",96,4
+"5.2.24","Female White",81,19
+"5.2.24","Male Asian",82,18
+"5.2.24","Male Black",61,39
+"5.2.24","Male Mixed",96,4
+"5.2.24","Male Other",100,0
+"5.2.24","Male White",87,13
+"5.2.24","Female Brexit Party",97,3
+"5.2.24","Female Conservatives",62,38
+"5.2.24","Female Greens",95,5
+"5.2.24","Female Labour",94,6
+"5.2.24","Female Liberal Democrats",92,8
+"5.2.24","Female Other",91,9
+"5.2.24","Female SNP",84,16
+"5.2.24","Male Brexit Party",97,3
+"5.2.24","Male Conservatives",75,25
+"5.2.24","Male Greens",95,5
+"5.2.24","Male Labour",95,5
+"5.2.24","Male Liberal Democrats",93,7
+"5.2.24","Male Other",95,5
+"5.2.24","Male SNP",92,8
+"5.2.24","18-24 Asian",89,11
+"5.2.24","18-24 Black",21,79
+"5.2.24","18-24 Mixed",93,7
+"5.2.24","18-24 Other",100,0
+"5.2.24","18-24 White",85,15
+"5.2.24","25-49 Asian",83,17
+"5.2.24","25-49 Black",37,63
+"5.2.24","25-49 Mixed",100,0
+"5.2.24","25-49 Other",94,6
+"5.2.24","25-49 White",89,11
+"5.2.24","50-64 Asian",79,21
+"5.2.24","50-64 Black",28,72
+"5.2.24","50-64 Mixed",35,65
+"5.2.24","50-64 Other",100,0
+"5.2.24","50-64 White",83,17
+"5.2.24","65+ Asian",64,36
+"5.2.24","65+ Black",100,0
+"5.2.24","65+ Mixed",67,33
+"5.2.24","65+ Other",100,0
+"5.2.24","65+ White",77,23
+"5.2.24","18-24 Brexit Party",94,6
+"5.2.24","18-24 Conservatives",59,41
+"5.2.24","18-24 Greens",100,0
+"5.2.24","18-24 Labour",92,8
+"5.2.24","18-24 Liberal Democrats",85,15
+"5.2.24","18-24 Other",100,0
+"5.2.24","18-24 SNP",60,40
+"5.2.24","25-49 Brexit Party",96,4
+"5.2.24","25-49 Conservatives",70,30
+"5.2.24","25-49 Greens",93,7
+"5.2.24","25-49 Labour",94,6
+"5.2.24","25-49 Liberal Democrats",97,3
+"5.2.24","25-49 Other",94,6
+"5.2.24","25-49 SNP",92,8
+"5.2.24","50-64 Brexit Party",96,4
+"5.2.24","50-64 Conservatives",68,32
+"5.2.24","50-64 Greens",93,7
+"5.2.24","50-64 Labour",95,5
+"5.2.24","50-64 Liberal Democrats",89,11
+"5.2.24","50-64 Other",92,8
+"5.2.24","50-64 SNP",90,10
+"5.2.24","65+ Brexit Party",100,0
+"5.2.24","65+ Conservatives",70,30
+"5.2.24","65+ Greens",100,0
+"5.2.24","65+ Labour",98,2
+"5.2.24","65+ Liberal Democrats",93,7
+"5.2.24","65+ Other",92,8
+"5.2.24","65+ SNP",100,0
+"5.2.24","Asian Brexit Party",100,0
+"5.2.24","Asian Conservatives",58,42
+"5.2.24","Asian Greens",100,0
+"5.2.24","Asian Labour",92,8
+"5.2.24","Asian Liberal Democrats",100,0
+"5.2.24","Asian Other",100,0
+"5.2.24","Asian SNP",100,0
+"5.2.24","Black Brexit Party",49,51
+"5.2.24","Black Conservatives",60,40
+"5.2.24","Black Greens",40,60
+"5.2.24","Black Labour",48,52
+"5.2.24","Black Liberal Democrats",81,19
+"5.2.24","Black Other",100,0
+"5.2.24","Black SNP",26,74
+"5.2.24","Mixed Brexit Party",100,0
+"5.2.24","Mixed Conservatives",56,44
+"5.2.24","Mixed Greens",100,0
+"5.2.24","Mixed Labour",96,4
+"5.2.24","Mixed Liberal Democrats",100,0
+"5.2.24","Mixed Other",98,2
+"5.2.24","Mixed SNP",99,1
+"5.2.24","Other Brexit Party",100,0
+"5.2.24","Other Conservatives",100,0
+"5.2.24","Other Greens",100,0
+"5.2.24","Other Labour",94,6
+"5.2.24","Other Liberal Democrats",100,0
+"5.2.24","Other Ethnicity Other Party",100,0
+"5.2.24","Other SNP",100,0
+"5.2.24","White Brexit Party",100,0
+"5.2.24","White Conservatives",69,31
+"5.2.24","White Greens",97,3
+"5.2.24","White Labour",97,3
+"5.2.24","White Liberal Democrats",92,8
+"5.2.24","White Other",92,8
+"5.2.24","White SNP",90,10
+"2.4.24","National",83,17
+"2.4.24","Female",83,17
+"2.4.24","Male",84,16
+"2.4.24","18-24",82,18
+"2.4.24","25-49",86,14
+"2.4.24","50-64",83,17
+"2.4.24","65+",81,19
+"2.4.24","Asian",73,27
+"2.4.24","Black",79,21
+"2.4.24","Mixed",71,29
+"2.4.24","Other",94,6
+"2.4.24","White",85,15
+"2.4.24","Brexit Party",82,18
+"2.4.24","Conservatives",71,29
+"2.4.24","Greens",96,4
+"2.4.24","Labour",94,6
+"2.4.24","Liberal Democrats",93,7
+"2.4.24","Other",89,11
+"2.4.24","SNP",98,2
+"2.4.24","Female 18-24",86,14
+"2.4.24","Female 25-49",85,15
+"2.4.24","Female 50-64",80,20
+"2.4.24","Female 65+",81,19
+"2.4.24","Male 18-24",77,23
+"2.4.24","Male 25-49",87,13
+"2.4.24","Male 50-64",86,14
+"2.4.24","Male 65+",80,20
+"2.4.24","Female Asian",72,28
+"2.4.24","Female Black",78,22
+"2.4.24","Female Mixed",71,29
+"2.4.24","Female Other",90,10
+"2.4.24","Female White",85,15
+"2.4.24","Male Asian",73,27
+"2.4.24","Male Black",80,20
+"2.4.24","Male Mixed",72,28
+"2.4.24","Male Other",97,3
+"2.4.24","Male White",85,15
+"2.4.24","Female Brexit Party",56,44
+"2.4.24","Female Conservatives",71,29
+"2.4.24","Female Greens",97,3
+"2.4.24","Female Labour",93,7
+"2.4.24","Female Liberal Democrats",92,8
+"2.4.24","Female Other",92,8
+"2.4.24","Female SNP",98,2
+"2.4.24","Male Brexit Party",96,4
+"2.4.24","Male Conservatives",71,29
+"2.4.24","Male Greens",96,4
+"2.4.24","Male Labour",94,6
+"2.4.24","Male Liberal Democrats",93,7
+"2.4.24","Male Other",87,13
+"2.4.24","Male SNP",98,2
+"2.4.24","18-24 Asian",65,35
+"2.4.24","18-24 Black",59,41
+"2.4.24","18-24 Mixed",55,45
+"2.4.24","18-24 Other",100,0
+"2.4.24","18-24 White",87,13
+"2.4.24","25-49 Asian",73,27
+"2.4.24","25-49 Black",73,27
+"2.4.24","25-49 Mixed",90,10
+"2.4.24","25-49 Other",85,15
+"2.4.24","25-49 White",88,12
+"2.4.24","50-64 Asian",79,21
+"2.4.24","50-64 Black",61,39
+"2.4.24","50-64 Mixed",71,29
+"2.4.24","50-64 Other",86,14
+"2.4.24","50-64 White",84,16
+"2.4.24","65+ Asian",72,28
+"2.4.24","65+ Black",100,0
+"2.4.24","65+ Mixed",65,35
+"2.4.24","65+ Other",100,0
+"2.4.24","65+ White",79,21
+"2.4.24","18-24 Brexit Party",100,0
+"2.4.24","18-24 Conservatives",61,39
+"2.4.24","18-24 Greens",76,24
+"2.4.24","18-24 Labour",88,12
+"2.4.24","18-24 Liberal Democrats",79,21
+"2.4.24","18-24 Other",100,0
+"2.4.24","18-24 SNP",100,0
+"2.4.24","25-49 Brexit Party",57,43
+"2.4.24","25-49 Conservatives",70,30
+"2.4.24","25-49 Greens",100,0
+"2.4.24","25-49 Labour",94,6
+"2.4.24","25-49 Liberal Democrats",96,4
+"2.4.24","25-49 Other",88,12
+"2.4.24","25-49 SNP",96,4
+"2.4.24","50-64 Brexit Party",100,0
+"2.4.24","50-64 Conservatives",71,29
+"2.4.24","50-64 Greens",100,0
+"2.4.24","50-64 Labour",96,4
+"2.4.24","50-64 Liberal Democrats",89,11
+"2.4.24","50-64 Other",93,7
+"2.4.24","50-64 SNP",100,0
+"2.4.24","65+ Brexit Party",83,17
+"2.4.24","65+ Conservatives",73,27
+"2.4.24","65+ Greens",100,0
+"2.4.24","65+ Labour",97,3
+"2.4.24","65+ Liberal Democrats",94,6
+"2.4.24","65+ Other",83,17
+"2.4.24","65+ SNP",100,0
+"2.4.24","Asian Brexit Party",84,16
+"2.4.24","Asian Conservatives",51,49
+"2.4.24","Asian Greens",100,0
+"2.4.24","Asian Labour",89,11
+"2.4.24","Asian Liberal Democrats",71,29
+"2.4.24","Asian Other",90,10
+"2.4.24","Asian SNP",100,0
+"2.4.24","Black Brexit Party",92,8
+"2.4.24","Black Conservatives",79,21
+"2.4.24","Black Greens",100,0
+"2.4.24","Black Labour",66,34
+"2.4.24","Black Liberal Democrats",100,0
+"2.4.24","Black Other",100,0
+"2.4.24","Black SNP",100,0
+"2.4.24","Mixed Brexit Party",93,7
+"2.4.24","Mixed Conservatives",53,47
+"2.4.24","Mixed Greens",100,0
+"2.4.24","Mixed Labour",80,20
+"2.4.24","Mixed Liberal Democrats",100,0
+"2.4.24","Mixed Other",100,0
+"2.4.24","Mixed SNP",100,0
+"2.4.24","Other Brexit Party",94,6
+"2.4.24","Other Conservatives",91,9
+"2.4.24","Other Greens",100,0
+"2.4.24","Other Labour",96,4
+"2.4.24","Other Liberal Democrats",100,0
+"2.4.24","Other Other",100,0
+"2.4.24","Other SNP",100,0
+"2.4.24","White Brexit Party",81,19
+"2.4.24","White Conservatives",72,28
+"2.4.24","White Greens",95,5
+"2.4.24","White Labour",96,4
+"2.4.24","White Liberal Democrats",94,6
+"2.4.24","White Other",87,13
+"2.4.24","White SNP",98,2
+"15.4.24","National",84,16
+"15.4.24","Female",84,16
+"15.4.24","Male",84,16
+"15.4.24","18-24",86,14
+"15.4.24","25-49",86,14
+"15.4.24","50-64",83,17
+"15.4.24","65+",81,19
+"15.4.24","Asian",77,23
+"15.4.24","Black",64,36
+"15.4.24","Mixed",89,11
+"15.4.24","Other",100,0
+"15.4.24","White",85,15
+"15.4.24","Brexit Party",80,20
+"15.4.24","Conservatives",73,27
+"15.4.24","Greens",96,4
+"15.4.24","Labour",95,5
+"15.4.24","Liberal Democrats",92,8
+"15.4.24","Other",81,19
+"15.4.24","SNP",96,4
+"15.4.24","Female 18-24",86,14
+"15.4.24","Female 25-49",86,14
+"15.4.24","Female 50-64",84,16
+"15.4.24","Female 65+",82,18
+"15.4.24","Male 18-24",87,13
+"15.4.24","Male 25-49",86,14
+"15.4.24","Male 50-64",82,18
+"15.4.24","Male 65+",81,19
+"15.4.24","Female Asian",75,25
+"15.4.24","Female Black",73,27
+"15.4.24","Female Mixed",89,11
+"15.4.24","Female Other",100,0
+"15.4.24","Female White",85,15
+"15.4.24","Male Asian",80,20
+"15.4.24","Male Black",56,44
+"15.4.24","Male Mixed",89,11
+"15.4.24","Male Other",100,0
+"15.4.24","Male White",85,15
+"15.4.24","Female Brexit Party",100,0
+"15.4.24","Female Conservatives",73,27
+"15.4.24","Female Greens",100,0
+"15.4.24","Female Labour",95,5
+"15.4.24","Female Liberal Democrats",89,11
+"15.4.24","Female Other",86,14
+"15.4.24","Female SNP",91,9
+"15.4.24","Male Brexit Party",70,30
+"15.4.24","Male Conservatives",72,28
+"15.4.24","Male Greens",93,7
+"15.4.24","Male Labour",95,5
+"15.4.24","Male Liberal Democrats",96,4
+"15.4.24","Male Other",77,23
+"15.4.24","Male SNP",100,0
+"15.4.24","18-24 Asian",80,20
+"15.4.24","18-24 Black",50,50
+"15.4.24","18-24 Mixed",100,0
+"15.4.24","18-24 Other",100,0
+"15.4.24","18-24 White",89,11
+"15.4.24","25-49 Asian",82,18
+"15.4.24","25-49 Black",76,24
+"15.4.24","25-49 Mixed",58,42
+"15.4.24","25-49 Other",99,1
+"15.4.24","25-49 White",88,12
+"15.4.24","50-64 Asian",70,30
+"15.4.24","50-64 Black",56,44
+"15.4.24","50-64 Mixed",100,0
+"15.4.24","50-64 Other",100,0
+"15.4.24","50-64 White",85,15
+"15.4.24","65+ Asian",66,34
+"15.4.24","65+ Black",61,39
+"15.4.24","65+ Mixed",100,0
+"15.4.24","65+ Other",100,0
+"15.4.24","65+ White",80,20
+"15.4.24","18-24 Brexit Party",93,7
+"15.4.24","18-24 Conservatives",76,24
+"15.4.24","18-24 Greens",100,0
+"15.4.24","18-24 Labour",88,12
+"15.4.24","18-24 Liberal Democrats",83,17
+"15.4.24","18-24 Other",97,3
+"15.4.24","18-24 SNP",100,0
+"15.4.24","25-49 Brexit Party",100,0
+"15.4.24","25-49 Conservatives",69,31
+"15.4.24","25-49 Greens",96,4
+"15.4.24","25-49 Labour",96,4
+"15.4.24","25-49 Liberal Democrats",95,5
+"15.4.24","25-49 Other",80,20
+"15.4.24","25-49 SNP",94,6
+"15.4.24","50-64 Brexit Party",79,21
+"15.4.24","50-64 Conservatives",73,27
+"15.4.24","50-64 Greens",93,7
+"15.4.24","50-64 Labour",98,2
+"15.4.24","50-64 Liberal Democrats",88,12
+"15.4.24","50-64 Other",82,18
+"15.4.24","50-64 SNP",94,6
+"15.4.24","65+ Brexit Party",64,36
+"15.4.24","65+ Conservatives",74,26
+"15.4.24","65+ Greens",100,0
+"15.4.24","65+ Labour",97,3
+"15.4.24","65+ Liberal Democrats",95,5
+"15.4.24","65+ Other",76,24
+"15.4.24","65+ SNP",100,0
+"15.4.24","Asian Brexit Party",71,29
+"15.4.24","Asian Conservatives",53,47
+"15.4.24","Asian Greens",100,0
+"15.4.24","Asian Labour",95,5
+"15.4.24","Asian Liberal Democrats",89,11
+"15.4.24","Asian Other",56,44
+"15.4.24","Asian SNP",100,0
+"15.4.24","Black Brexit Party",40,60
+"15.4.24","Black Conservatives",54,46
+"15.4.24","Black Greens",100,0
+"15.4.24","Black Labour",66,34
+"15.4.24","Black Liberal Democrats",86,14
+"15.4.24","Black Other",6,94
+"15.4.24","Black SNP",100,0
+"15.4.24","Mixed Brexit Party",100,0
+"15.4.24","Mixed Conservatives",88,12
+"15.4.24","Mixed Greens",100,0
+"15.4.24","Mixed Labour",93,7
+"15.4.24","Mixed Liberal Democrats",78,22
+"15.4.24","Mixed Other",79,21
+"15.4.24","Mixed SNP",100,0
+"15.4.24","Other Brexit Party",100,0
+"15.4.24","Other Conservatives",100,0
+"15.4.24","Other Greens",100,0
+"15.4.24","Other Labour",100,0
+"15.4.24","Other Liberal Democrats",98,2
+"15.4.24","Other Other",100,0
+"15.4.24","Other SNP",100,0
+"15.4.24","White Brexit Party",82,18
+"15.4.24","White Conservatives",73,27
+"15.4.24","White Greens",96,4
+"15.4.24","White Labour",97,3
+"15.4.24","White Liberal Democrats",93,7
+"15.4.24","White Other",87,13
+"15.4.24","White SNP",95,5
+"15.4.24","National",84,16
+"15.4.24","Female",84,16
+"15.4.24","Male",84,16
+"15.4.24","18-24",86,14
+"15.4.24","25-49",86,14
+"15.4.24","50-64",83,17
+"15.4.24","65+",81,19
+"15.4.24","Asian",77,23
+"15.4.24","Black",64,36
+"15.4.24","Mixed",89,11
+"15.4.24","Other",100,0
+"15.4.24","White",85,15
+"15.4.24","Brexit Party",80,20
+"15.4.24","Conservatives",73,27
+"15.4.24","Greens",96,4
+"15.4.24","Labour",95,5
+"15.4.24","Liberal Democrats",92,8
+"15.4.24","Other",81,19
+"15.4.24","SNP",96,4
+"15.4.24","Female 18-24",86,14
+"15.4.24","Female 25-49",86,14
+"15.4.24","Female 50-64",84,16
+"15.4.24","Female 65+",82,18
+"15.4.24","Male 18-24",87,13
+"15.4.24","Male 25-49",86,14
+"15.4.24","Male 50-64",82,18
+"15.4.24","Male 65+",81,19
+"15.4.24","Female Asian",75,25
+"15.4.24","Female Black",73,27
+"15.4.24","Female Mixed",89,11
+"15.4.24","Female Other",100,0
+"15.4.24","Female White",85,15
+"15.4.24","Male Asian",80,20
+"15.4.24","Male Black",56,44
+"15.4.24","Male Mixed",89,11
+"15.4.24","Male Other",100,0
+"15.4.24","Male White",85,15
+"15.4.24","Female Brexit Party",100,0
+"15.4.24","Female Conservatives",73,27
+"15.4.24","Female Greens",100,0
+"15.4.24","Female Labour",95,5
+"15.4.24","Female Liberal Democrats",89,11
+"15.4.24","Female Other",86,14
+"15.4.24","Female SNP",91,9
+"15.4.24","Male Brexit Party",70,30
+"15.4.24","Male Conservatives",72,28
+"15.4.24","Male Greens",93,7
+"15.4.24","Male Labour",95,5
+"15.4.24","Male Liberal Democrats",96,4
+"15.4.24","Male Other",77,23
+"15.4.24","Male SNP",100,0
+"15.4.24","18-24 Asian",80,20
+"15.4.24","18-24 Black",50,50
+"15.4.24","18-24 Mixed",100,0
+"15.4.24","18-24 Other",100,0
+"15.4.24","18-24 White",89,11
+"15.4.24","25-49 Asian",82,18
+"15.4.24","25-49 Black",76,24
+"15.4.24","25-49 Mixed",58,42
+"15.4.24","25-49 Other",99,1
+"15.4.24","25-49 White",88,12
+"15.4.24","50-64 Asian",70,30
+"15.4.24","50-64 Black",56,44
+"15.4.24","50-64 Mixed",100,0
+"15.4.24","50-64 Other",100,0
+"15.4.24","50-64 White",85,15
+"15.4.24","65+ Asian",66,34
+"15.4.24","65+ Black",61,39
+"15.4.24","65+ Mixed",100,0
+"15.4.24","65+ Other",100,0
+"15.4.24","65+ White",80,20
+"15.4.24","18-24 Brexit Party",93,7
+"15.4.24","18-24 Conservatives",76,24
+"15.4.24","18-24 Greens",100,0
+"15.4.24","18-24 Labour",88,12
+"15.4.24","18-24 Liberal Democrats",83,17
+"15.4.24","18-24 Other",97,3
+"15.4.24","18-24 SNP",100,0
+"15.4.24","25-49 Brexit Party",100,0
+"15.4.24","25-49 Conservatives",69,31
+"15.4.24","25-49 Greens",96,4
+"15.4.24","25-49 Labour",96,4
+"15.4.24","25-49 Liberal Democrats",95,5
+"15.4.24","25-49 Other",80,20
+"15.4.24","25-49 SNP",94,6
+"15.4.24","50-64 Brexit Party",79,21
+"15.4.24","50-64 Conservatives",73,27
+"15.4.24","50-64 Greens",93,7
+"15.4.24","50-64 Labour",98,2
+"15.4.24","50-64 Liberal Democrats",88,12
+"15.4.24","50-64 Other",82,18
+"15.4.24","50-64 SNP",94,6
+"15.4.24","65+ Brexit Party",64,36
+"15.4.24","65+ Conservatives",74,26
+"15.4.24","65+ Greens",100,0
+"15.4.24","65+ Labour",97,3
+"15.4.24","65+ Liberal Democrats",95,5
+"15.4.24","65+ Other",76,24
+"15.4.24","65+ SNP",100,0
+"15.4.24","Asian Brexit Party",71,29
+"15.4.24","Asian Conservatives",53,47
+"15.4.24","Asian Greens",100,0
+"15.4.24","Asian Labour",95,5
+"15.4.24","Asian Liberal Democrats",89,11
+"15.4.24","Asian Other",56,44
+"15.4.24","Asian SNP",100,0
+"15.4.24","Black Brexit Party",40,60
+"15.4.24","Black Conservatives",54,46
+"15.4.24","Black Greens",100,0
+"15.4.24","Black Labour",66,34
+"15.4.24","Black Liberal Democrats",86,14
+"15.4.24","Black Other",6,94
+"15.4.24","Black SNP",100,0
+"15.4.24","Mixed Brexit Party",100,0
+"15.4.24","Mixed Conservatives",88,12
+"15.4.24","Mixed Greens",100,0
+"15.4.24","Mixed Labour",93,7
+"15.4.24","Mixed Liberal Democrats",78,22
+"15.4.24","Mixed Other",79,21
+"15.4.24","Mixed SNP",100,0
+"15.4.24","Other Brexit Party",100,0
+"15.4.24","Other Conservatives",100,0
+"15.4.24","Other Greens",100,0
+"15.4.24","Other Labour",100,0
+"15.4.24","Other Liberal Democrats",98,2
+"15.4.24","Other Other",100,0
+"15.4.24","Other SNP",100,0
+"15.4.24","White Brexit Party",82,18
+"15.4.24","White Conservatives",73,27
+"15.4.24","White Greens",96,4
+"15.4.24","White Labour",97,3
+"15.4.24","White Liberal Democrats",93,7
+"15.4.24","White Other",87,13
+"15.4.24","White SNP",95,5
+"29.4.24","National",84,16
+"29.4.24","Female",84,16
+"29.4.24","Male",83,17
+"29.4.24","18-24",89,11
+"29.4.24","25-49",88,12
+"29.4.24","50-64",87,13
+"29.4.24","65+",73,27
+"29.4.24","Asian",75,25
+"29.4.24","Black",47,53
+"29.4.24","Mixed",99,1
+"29.4.24","Other",56,44
+"29.4.24","White",87,13
+"29.4.24","Brexit Party",97,3
+"29.4.24","Conservatives",71,29
+"29.4.24","Greens",99,1
+"29.4.24","Labour",95,5
+"29.4.24","Liberal Democrats",91,9
+"29.4.24","Other",85,15
+"29.4.24","SNP",94,6
+"29.4.24","Female 18-24",92,8
+"29.4.24","Female 25-49",89,11
+"29.4.24","Female 50-64",88,12
+"29.4.24","Female 65+",72,28
+"29.4.24","Male 18-24",87,13
+"29.4.24","Male 25-49",88,12
+"29.4.24","Male 50-64",86,14
+"29.4.24","Male 65+",74,26
+"29.4.24","Female Asian",74,26
+"29.4.24","Female Black",63,37
+"29.4.24","Female Mixed",100,0
+"29.4.24","Female Other",64,36
+"29.4.24","Female White",86,14
+"29.4.24","Male Asian",76,24
+"29.4.24","Male Black",35,65
+"29.4.24","Male Mixed",99,1
+"29.4.24","Male Other",51,49
+"29.4.24","Male White",89,11
+"29.4.24","Female Brexit Party",99,1
+"29.4.24","Female Conservatives",71,29
+"29.4.24","Female Greens",99,1
+"29.4.24","Female Labour",95,5
+"29.4.24","Female Liberal Democrats",91,9
+"29.4.24","Female Other",95,5
+"29.4.24","Female SNP",96,4
+"29.4.24","Male Brexit Party",97,3
+"29.4.24","Male Conservatives",71,29
+"29.4.24","Male Greens",99,1
+"29.4.24","Male Labour",94,6
+"29.4.24","Male Liberal Democrats",92,8
+"29.4.24","Male Other",79,21
+"29.4.24","Male SNP",93,7
+"29.4.24","18-24 Asian",86,14
+"29.4.24","18-24 Black",46,54
+"29.4.24","18-24 Mixed",100,0
+"29.4.24","18-24 Other",79,21
+"29.4.24","18-24 White",93,7
+"29.4.24","25-49 Asian",71,29
+"29.4.24","25-49 Black",80,20
+"29.4.24","25-49 Mixed",100,0
+"29.4.24","25-49 Other",66,34
+"29.4.24","25-49 White",91,9
+"29.4.24","50-64 Asian",88,12
+"29.4.24","50-64 Black",77,23
+"29.4.24","50-64 Mixed",99,1
+"29.4.24","50-64 Other",100,0
+"29.4.24","50-64 White",87,13
+"29.4.24","65+ Asian",59,41
+"29.4.24","65+ Black",6,94
+"29.4.24","65+ Mixed",99,1
+"29.4.24","65+ Other",35,65
+"29.4.24","65+ White",81,19
+"29.4.24","18-24 Brexit Party",100,0
+"29.4.24","18-24 Conservatives",82,18
+"29.4.24","18-24 Greens",100,0
+"29.4.24","18-24 Labour",90,10
+"29.4.24","18-24 Liberal Democrats",100,0
+"29.4.24","18-24 Other",100,0
+"29.4.24","18-24 SNP",80,20
+"29.4.24","25-49 Brexit Party",100,0
+"29.4.24","25-49 Conservatives",75,25
+"29.4.24","25-49 Greens",100,0
+"29.4.24","25-49 Labour",96,4
+"29.4.24","25-49 Liberal Democrats",89,11
+"29.4.24","25-49 Other",93,7
+"29.4.24","25-49 SNP",96,4
+"29.4.24","50-64 Brexit Party",100,0
+"29.4.24","50-64 Conservatives",77,23
+"29.4.24","50-64 Greens",100,0
+"29.4.24","50-64 Labour",98,2
+"29.4.24","50-64 Liberal Democrats",93,7
+"29.4.24","50-64 Other",84,16
+"29.4.24","50-64 SNP",97,3
+"29.4.24","65+ Brexit Party",92,8
+"29.4.24","65+ Conservatives",63,37
+"29.4.24","65+ Greens",94,6
+"29.4.24","65+ Labour",91,9
+"29.4.24","65+ Liberal Democrats",90,10
+"29.4.24","65+ Other",75,25
+"29.4.24","65+ SNP",100,0
+"29.4.24","Asian Brexit Party",100,0
+"29.4.24","Asian Conservatives",56,44
+"29.4.24","Asian Greens",100,0
+"29.4.24","Asian Labour",93,7
+"29.4.24","Asian Liberal Democrats",62,38
+"29.4.24","Asian Other",32,68
+"29.4.24","Asian SNP",100,0
+"29.4.24","Black Brexit Party",51,49
+"29.4.24","Black Conservatives",30,70
+"29.4.24","Black Greens",80,20
+"29.4.24","Black Labour",53,47
+"29.4.24","Black Liberal Democrats",75,25
+"29.4.24","Black Other",43,57
+"29.4.24","Black SNP",100,0
+"29.4.24","Mixed Brexit Party",100,0
+"29.4.24","Mixed Conservatives",100,0
+"29.4.24","Mixed Greens",100,0
+"29.4.24","Mixed Labour",100,0
+"29.4.24","Mixed Liberal Democrats",100,0
+"29.4.24","Mixed Other",60,40
+"29.4.24","Mixed SNP",100,0
+"29.4.24","Other Brexit Party",100,0
+"29.4.24","Other Conservatives",11,89
+"29.4.24","Other Greens",100,0
+"29.4.24","Other Labour",100,0
+"29.4.24","Other Liberal Democrats",100,0
+"29.4.24","Other Other",77,23
+"29.4.24","Other SNP",100,0
+"29.4.24","White Brexit Party",100,0
+"29.4.24","White Conservatives",77,23
+"29.4.24","White Greens",100,0
+"29.4.24","White Labour",97,3
+"29.4.24","White Liberal Democrats",95,5
+"29.4.24","White Other",95,5
+"29.4.24","White SNP",93,7
+"13.5.24","National",82,18
+"13.5.24","Female",82,18
+"13.5.24","Male",81,19
+"13.5.24","18-24",88,12
+"13.5.24","25-49",83,17
+"13.5.24","50-64",82,18
+"13.5.24","65+",77,23
+"13.5.24","Asian",78,22
+"13.5.24","Black",52,48
+"13.5.24","Mixed",41,59
+"13.5.24","Other",94,6
+"13.5.24","White",85,15
+"13.5.24","Brexit Party",96,4
+"13.5.24","Conservatives",67,33
+"13.5.24","Greens",94,6
+"13.5.24","Labour",95,5
+"13.5.24","Liberal Democrats",89,11
+"13.5.24","Other",81,19
+"13.5.24","SNP",92,8
+"13.5.24","Female 18-24",89,11
+"13.5.24","Female 25-49",84,16
+"13.5.24","Female 50-64",80,20
+"13.5.24","Female 65+",78,22
+"13.5.24","Male 18-24",86,14
+"13.5.24","Male 25-49",82,18
+"13.5.24","Male 50-64",85,15
+"13.5.24","Male 65+",75,25
+"13.5.24","Female Asian",78,22
+"13.5.24","Female Black",58,42
+"13.5.24","Female Mixed",32,68
+"13.5.24","Female Other",91,9
+"13.5.24","Female White",86,14
+"13.5.24","Male Asian",78,22
+"13.5.24","Male Black",48,52
+"13.5.24","Male Mixed",50,50
+"13.5.24","Male Other",96,4
+"13.5.24","Male White",85,15
+"13.5.24","Female Brexit Party",88,12
+"13.5.24","Female Conservatives",68,32
+"13.5.24","Female Greens",94,6
+"13.5.24","Female Labour",95,5
+"13.5.24","Female Liberal Democrats",89,11
+"13.5.24","Female Other",86,14
+"13.5.24","Female SNP",90,10
+"13.5.24","Male Brexit Party",100,0
+"13.5.24","Male Conservatives",67,33
+"13.5.24","Male Greens",94,6
+"13.5.24","Male Labour",96,4
+"13.5.24","Male Liberal Democrats",89,11
+"13.5.24","Male Other",78,22
+"13.5.24","Male SNP",94,6
+"13.5.24","18-24 Asian",86,14
+"13.5.24","18-24 Black",80,20
+"13.5.24","18-24 Mixed",67,33
+"13.5.24","18-24 Other",100,0
+"13.5.24","18-24 White",90,10
+"13.5.24","25-49 Asian",80,20
+"13.5.24","25-49 Black",43,57
+"13.5.24","25-49 Mixed",66,34
+"13.5.24","25-49 Other",91,9
+"13.5.24","25-49 White",86,14
+"13.5.24","50-64 Asian",69,31
+"13.5.24","50-64 Black",59,41
+"13.5.24","50-64 Mixed",100,0
+"13.5.24","50-64 Other",71,29
+"13.5.24","50-64 White",84,16
+"13.5.24","65+ Asian",76,24
+"13.5.24","65+ Black",48,52
+"13.5.24","65+ Mixed",11,89
+"13.5.24","65+ Other",100,0
+"13.5.24","65+ White",83,17
+"13.5.24","18-24 Brexit Party",100,0
+"13.5.24","18-24 Conservatives",56,44
+"13.5.24","18-24 Greens",80,20
+"13.5.24","18-24 Labour",99,1
+"13.5.24","18-24 Liberal Democrats",100,0
+"13.5.24","18-24 Other",95,5
+"13.5.24","18-24 SNP",74,26
+"13.5.24","25-49 Brexit Party",100,0
+"13.5.24","25-49 Conservatives",65,35
+"13.5.24","25-49 Greens",93,7
+"13.5.24","25-49 Labour",94,6
+"13.5.24","25-49 Liberal Democrats",89,11
+"13.5.24","25-49 Other",68,32
+"13.5.24","25-49 SNP",93,7
+"13.5.24","50-64 Brexit Party",91,9
+"13.5.24","50-64 Conservatives",71,29
+"13.5.24","50-64 Greens",100,0
+"13.5.24","50-64 Labour",96,4
+"13.5.24","50-64 Liberal Democrats",89,11
+"13.5.24","50-64 Other",79,21
+"13.5.24","50-64 SNP",96,4
+"13.5.24","65+ Brexit Party",97,3
+"13.5.24","65+ Conservatives",68,32
+"13.5.24","65+ Greens",100,0
+"13.5.24","65+ Labour",96,4
+"13.5.24","65+ Liberal Democrats",86,14
+"13.5.24","65+ Other",93,7
+"13.5.24","65+ SNP",100,0
+"13.5.24","Asian Brexit Party",98,2
+"13.5.24","Asian Conservatives",54,46
+"13.5.24","Asian Greens",100,0
+"13.5.24","Asian Labour",95,5
+"13.5.24","Asian Liberal Democrats",92,8
+"13.5.24","Asian Other",29,71
+"13.5.24","Asian SNP",100,0
+"13.5.24","Black Brexit Party",99,1
+"13.5.24","Black Conservatives",26,74
+"13.5.24","Black Greens",100,0
+"13.5.24","Black Labour",75,25
+"13.5.24","Black Liberal Democrats",59,41
+"13.5.24","Black Other",54,46
+"13.5.24","Black SNP",100,0
+"13.5.24","Mixed Brexit Party",75,25
+"13.5.24","Mixed Conservatives",13,87
+"13.5.24","Mixed Greens",89,11
+"13.5.24","Mixed Labour",71,29
+"13.5.24","Mixed Liberal Democrats",53,47
+"13.5.24","Mixed Other",16,84
+"13.5.24","Mixed SNP",98,2
+"13.5.24","Other Brexit Party",95,5
+"13.5.24","Other Conservatives",100,0
+"13.5.24","Other Greens",100,0
+"13.5.24","Other Labour",81,19
+"13.5.24","Other Liberal Democrats",100,0
+"13.5.24","Other Other",88,12
+"13.5.24","Other SNP",100,0
+"13.5.24","White Brexit Party",97,3
+"13.5.24","White Conservatives",72,28
+"13.5.24","White Greens",93,7
+"13.5.24","White Labour",98,2
+"13.5.24","White Liberal Democrats",92,8
+"13.5.24","White Other",91,9
+"13.5.24","White SNP",90,10
+"27.5.24","National",83,17
+"27.5.24","Female",82,18
+"27.5.24","Male",84,16
+"27.5.24","18-24",86,14
+"27.5.24","25-49",89,11
+"27.5.24","50-64",81,19
+"27.5.24","65+",75,25
+"27.5.24","Asian",81,19
+"27.5.24","Black",62,38
+"27.5.24","Mixed",71,29
+"27.5.24","Other",99,1
+"27.5.24","White",84,16
+"27.5.24","Brexit Party",95,5
+"27.5.24","Conservatives",67,33
+"27.5.24","Greens",89,11
+"27.5.24","Labour",96,4
+"27.5.24","Liberal Democrats",93,7
+"27.5.24","Other",93,7
+"27.5.24","SNP",98,2
+"27.5.24","Female 18-24",87,13
+"27.5.24","Female 25-49",89,11
+"27.5.24","Female 50-64",81,19
+"27.5.24","Female 65+",71,29
+"27.5.24","Male 18-24",85,15
+"27.5.24","Male 25-49",88,12
+"27.5.24","Male 50-64",81,19
+"27.5.24","Male 65+",79,21
+"27.5.24","Female Asian",79,21
+"27.5.24","Female Black",66,34
+"27.5.24","Female Mixed",59,41
+"27.5.24","Female Other",98,2
+"27.5.24","Female White",84,16
+"27.5.24","Male Asian",82,18
+"27.5.24","Male Black",59,41
+"27.5.24","Male Mixed",84,16
+"27.5.24","Male Other",99,1
+"27.5.24","Male White",85,15
+"27.5.24","Female Brexit Party",85,15
+"27.5.24","Female Conservatives",65,35
+"27.5.24","Female Greens",98,2
+"27.5.24","Female Labour",95,5
+"27.5.24","Female Liberal Democrats",92,8
+"27.5.24","Female Other",100,0
+"27.5.24","Female SNP",96,4
+"27.5.24","Male Brexit Party",100,0
+"27.5.24","Male Conservatives",69,31
+"27.5.24","Male Greens",79,21
+"27.5.24","Male Labour",97,3
+"27.5.24","Male Liberal Democrats",93,7
+"27.5.24","Male Other",90,10
+"27.5.24","Male SNP",100,0
+"27.5.24","18-24 Asian",73,27
+"27.5.24","18-24 Black",61,39
+"27.5.24","18-24 Mixed",81,19
+"27.5.24","18-24 Other",100,0
+"27.5.24","18-24 White",90,10
+"27.5.24","25-49 Asian",89,11
+"27.5.24","25-49 Black",68,32
+"27.5.24","25-49 Mixed",90,10
+"27.5.24","25-49 Other",100,0
+"27.5.24","25-49 White",89,11
+"27.5.24","50-64 Asian",71,29
+"27.5.24","50-64 Black",68,32
+"27.5.24","50-64 Mixed",88,12
+"27.5.24","50-64 Other",87,13
+"27.5.24","50-64 White",82,18
+"27.5.24","65+ Asian",65,35
+"27.5.24","65+ Black",55,45
+"27.5.24","65+ Mixed",56,44
+"27.5.24","65+ Other",100,0
+"27.5.24","65+ White",76,24
+"27.5.24","18-24 Brexit Party",100,0
+"27.5.24","18-24 Conservatives",74,26
+"27.5.24","18-24 Greens",48,52
+"27.5.24","18-24 Labour",93,7
+"27.5.24","18-24 Liberal Democrats",80,20
+"27.5.24","18-24 Other",83,17
+"27.5.24","18-24 SNP",100,0
+"27.5.24","25-49 Brexit Party",91,9
+"27.5.24","25-49 Conservatives",73,27
+"27.5.24","25-49 Greens",95,5
+"27.5.24","25-49 Labour",96,4
+"27.5.24","25-49 Liberal Democrats",100,0
+"27.5.24","25-49 Other",94,6
+"27.5.24","25-49 SNP",97,3
+"27.5.24","50-64 Brexit Party",100,0
+"27.5.24","50-64 Conservatives",68,32
+"27.5.24","50-64 Greens",96,4
+"27.5.24","50-64 Labour",98,2
+"27.5.24","50-64 Liberal Democrats",87,13
+"27.5.24","50-64 Other",88,12
+"27.5.24","50-64 SNP",95,5
+"27.5.24","65+ Brexit Party",92,8
+"27.5.24","65+ Conservatives",63,37
+"27.5.24","65+ Greens",100,0
+"27.5.24","65+ Labour",100,0
+"27.5.24","65+ Liberal Democrats",91,9
+"27.5.24","65+ Other",100,0
+"27.5.24","65+ SNP",100,0
+"27.5.24","Asian Brexit Party",100,0
+"27.5.24","Asian Conservatives",63,37
+"27.5.24","Asian Greens",89,11
+"27.5.24","Asian Labour",93,7
+"27.5.24","Asian Liberal Democrats",82,18
+"27.5.24","Asian Other",99,1
+"27.5.24","Asian SNP",100,0
+"27.5.24","Black Brexit Party",100,0
+"27.5.24","Black Conservatives",35,65
+"27.5.24","Black Greens",100,0
+"27.5.24","Black Labour",76,24
+"27.5.24","Black Liberal Democrats",100,0
+"27.5.24","Black Other",100,0
+"27.5.24","Black SNP",100,0
+"27.5.24","Mixed Brexit Party",100,0
+"27.5.24","Mixed Conservatives",50,50
+"27.5.24","Mixed Greens",95,5
+"27.5.24","Mixed Labour",100,0
+"27.5.24","Mixed Liberal Democrats",62,38
+"27.5.24","Mixed Other",100,0
+"27.5.24","Mixed SNP",100,0
+"27.5.24","Other Brexit Party",100,0
+"27.5.24","Other Conservatives",100,0
+"27.5.24","Other Greens",100,0
+"27.5.24","Other Labour",100,0
+"27.5.24","Other Liberal Democrats",89,11
+"27.5.24","Other Other",92,8
+"27.5.24","Other SNP",100,0
+"27.5.24","White Brexit Party",93,7
+"27.5.24","White Conservatives",69,31
+"27.5.24","White Greens",88,12
+"27.5.24","White Labour",98,2
+"27.5.24","White Liberal Democrats",95,5
+"27.5.24","White Other",92,8
+"27.5.24","White SNP",97,3
+"10.6.24","National",83,17
+"10.6.24","Female",82,18
+"10.6.24","Male",85,15
+"10.6.24","18-24",85,15
+"10.6.24","25-49",85,15
+"10.6.24","50-64",84,16
+"10.6.24","65+",80,20
+"10.6.24","Asian",77,23
+"10.6.24","Black",66,34
+"10.6.24","Mixed",68,32
+"10.6.24","Other",100,0
+"10.6.24","White",85,15
+"10.6.24","Brexit Party",93,7
+"10.6.24","Conservatives",70,30
+"10.6.24","Greens",85,15
+"10.6.24","Labour",96,4
+"10.6.24","Liberal Democrats",93,7
+"10.6.24","Other",89,11
+"10.6.24","SNP",98,2
+"10.6.24","Female 18-24",87,13
+"10.6.24","Female 25-49",84,16
+"10.6.24","Female 50-64",82,18
+"10.6.24","Female 65+",76,24
+"10.6.24","Male 18-24",83,17
+"10.6.24","Male 25-49",87,13
+"10.6.24","Male 50-64",85,15
+"10.6.24","Male 65+",83,17
+"10.6.24","Female Asian",72,28
+"10.6.24","Female Black",59,41
+"10.6.24","Female Mixed",88,12
+"10.6.24","Female Other",100,0
+"10.6.24","Female White",83,17
+"10.6.24","Male Asian",83,17
+"10.6.24","Male Black",71,29
+"10.6.24","Male Mixed",48,52
+"10.6.24","Male Other",100,0
+"10.6.24","Male White",87,13
+"10.6.24","Female Brexit Party",90,10
+"10.6.24","Female Conservatives",67,33
+"10.6.24","Female Greens",81,19
+"10.6.24","Female Labour",95,5
+"10.6.24","Female Liberal Democrats",90,10
+"10.6.24","Female Other",90,10
+"10.6.24","Female SNP",97,3
+"10.6.24","Male Brexit Party",95,5
+"10.6.24","Male Conservatives",72,28
+"10.6.24","Male Greens",90,10
+"10.6.24","Male Labour",96,4
+"10.6.24","Male Liberal Democrats",97,3
+"10.6.24","Male Other",89,11
+"10.6.24","Male SNP",99,1
+"10.6.24","18-24 Asian",80,20
+"10.6.24","18-24 Black",57,43
+"10.6.24","18-24 Mixed",70,30
+"10.6.24","18-24 Other",99,1
+"10.6.24","18-24 White",89,11
+"10.6.24","25-49 Asian",76,24
+"10.6.24","25-49 Black",56,44
+"10.6.24","25-49 Mixed",69,31
+"10.6.24","25-49 Other",100,0
+"10.6.24","25-49 White",89,11
+"10.6.24","50-64 Asian",73,27
+"10.6.24","50-64 Black",62,38
+"10.6.24","50-64 Mixed",100,0
+"10.6.24","50-64 Other",99,1
+"10.6.24","50-64 White",85,15
+"10.6.24","65+ Asian",87,13
+"10.6.24","65+ Black",80,20
+"10.6.24","65+ Mixed",62,38
+"10.6.24","65+ Other",100,0
+"10.6.24","65+ White",79,21
+"10.6.24","18-24 Brexit Party",96,4
+"10.6.24","18-24 Conservatives",64,36
+"10.6.24","18-24 Greens",22,78
+"10.6.24","18-24 Labour",93,7
+"10.6.24","18-24 Liberal Democrats",100,0
+"10.6.24","18-24 Other",82,18
+"10.6.24","18-24 SNP",100,0
+"10.6.24","25-49 Brexit Party",84,16
+"10.6.24","25-49 Conservatives",68,32
+"10.6.24","25-49 Greens",94,6
+"10.6.24","25-49 Labour",95,5
+"10.6.24","25-49 Liberal Democrats",90,10
+"10.6.24","25-49 Other",95,5
+"10.6.24","25-49 SNP",97,3
+"10.6.24","50-64 Brexit Party",94,6
+"10.6.24","50-64 Conservatives",73,27
+"10.6.24","50-64 Greens",100,0
+"10.6.24","50-64 Labour",98,2
+"10.6.24","50-64 Liberal Democrats",89,11
+"10.6.24","50-64 Other",80,20
+"10.6.24","50-64 SNP",96,4
+"10.6.24","65+ Brexit Party",100,0
+"10.6.24","65+ Conservatives",69,31
+"10.6.24","65+ Greens",100,0
+"10.6.24","65+ Labour",98,2
+"10.6.24","65+ Liberal Democrats",100,0
+"10.6.24","65+ Other",92,8
+"10.6.24","65+ SNP",100,0
+"10.6.24","Asian Brexit Party",72,28
+"10.6.24","Asian Conservatives",62,38
+"10.6.24","Asian Greens",66,34
+"10.6.24","Asian Labour",93,7
+"10.6.24","Asian Liberal Democrats",72,28
+"10.6.24","Asian Other",55,45
+"10.6.24","Asian SNP",100,0
+"10.6.24","Black Brexit Party",87,13
+"10.6.24","Black Conservatives",57,43
+"10.6.24","Black Greens",73,27
+"10.6.24","Black Labour",72,28
+"10.6.24","Black Liberal Democrats",79,21
+"10.6.24","Black Other",0,100
+"10.6.24","Black SNP",100,0
+"10.6.24","Mixed Brexit Party",94,6
+"10.6.24","Mixed Conservatives",42,58
+"10.6.24","Mixed Greens",77,23
+"10.6.24","Mixed Labour",92,8
+"10.6.24","Mixed Liberal Democrats",97,3
+"10.6.24","Mixed Other",100,0
+"10.6.24","Mixed SNP",100,0
+"10.6.24","Other Brexit Party",100,0
+"10.6.24","Other Conservatives",100,0
+"10.6.24","Other Greens",95,5
+"10.6.24","Other Labour",100,0
+"10.6.24","Other Liberal Democrats",100,0
+"10.6.24","Other Other",92,8
+"10.6.24","Other SNP",100,0
+"10.6.24","White Brexit Party",95,5
+"10.6.24","White Conservatives",71,29
+"10.6.24","White Greens",88,12
+"10.6.24","White Labour",98,2
+"10.6.24","White Liberal Democrats",96,4
+"10.6.24","White Other",97,3
+"10.6.24","White SNP",97,3
+"24.6.24","National",85,15
+"24.6.24","Female",86,14
+"24.6.24","Male",84,16
+"24.6.24","18-24",91,9
+"24.6.24","25-49",86,14
+"24.6.24","50-64",83,17
+"24.6.24","65+",83,17
+"24.6.24","Asian",85,15
+"24.6.24","Black",71,29
+"24.6.24","Mixed",69,31
+"24.6.24","Other",89,11
+"24.6.24","White",86,14
+"24.6.24","Brexit Party",95,5
+"24.6.24","Conservatives",72,28
+"24.6.24","Greens",98,2
+"24.6.24","Labour",96,4
+"24.6.24","Liberal Democrats",95,5
+"24.6.24","Other",85,15
+"24.6.24","SNP",96,4
+"24.6.24","Female 18-24",93,7
+"24.6.24","Female 25-49",87,13
+"24.6.24","Female 50-64",81,19
+"24.6.24","Female 65+",85,15
+"24.6.24","Male 18-24",89,11
+"24.6.24","Male 25-49",84,16
+"24.6.24","Male 50-64",86,14
+"24.6.24","Male 65+",80,20
+"24.6.24","Female Asian",83,17
+"24.6.24","Female Black",69,31
+"24.6.24","Female Mixed",91,9
+"24.6.24","Female Other",71,29
+"24.6.24","Female White",87,13
+"24.6.24","Male Asian",88,12
+"24.6.24","Male Black",73,27
+"24.6.24","Male Mixed",47,53
+"24.6.24","Male Other",100,0
+"24.6.24","Male White",85,15
+"24.6.24","Female Brexit Party",100,0
+"24.6.24","Female Conservatives",73,27
+"24.6.24","Female Greens",96,4
+"24.6.24","Female Labour",97,3
+"24.6.24","Female Liberal Democrats",94,6
+"24.6.24","Female Other",83,17
+"24.6.24","Female SNP",94,6
+"24.6.24","Male Brexit Party",92,8
+"24.6.24","Male Conservatives",71,29
+"24.6.24","Male Greens",100,0
+"24.6.24","Male Labour",95,5
+"24.6.24","Male Liberal Democrats",97,3
+"24.6.24","Male Other",87,13
+"24.6.24","Male SNP",98,2
+"24.6.24","18-24 Asian",92,8
+"24.6.24","18-24 Black",39,61
+"24.6.24","18-24 Mixed",84,16
+"24.6.24","18-24 Other",94,6
+"24.6.24","18-24 White",95,5
+"24.6.24","25-49 Asian",87,13
+"24.6.24","25-49 Black",52,48
+"24.6.24","25-49 Mixed",70,30
+"24.6.24","25-49 Other",83,17
+"24.6.24","25-49 White",88,12
+"24.6.24","50-64 Asian",75,25
+"24.6.24","50-64 Black",68,32
+"24.6.24","50-64 Mixed",49,51
+"24.6.24","50-64 Other",100,0
+"24.6.24","50-64 White",85,15
+"24.6.24","65+ Asian",84,16
+"24.6.24","65+ Black",100,0
+"24.6.24","65+ Mixed",68,32
+"24.6.24","65+ Other",90,10
+"24.6.24","65+ White",82,18
+"24.6.24","18-24 Brexit Party",100,0
+"24.6.24","18-24 Conservatives",76,24
+"24.6.24","18-24 Greens",100,0
+"24.6.24","18-24 Labour",93,7
+"24.6.24","18-24 Liberal Democrats",100,0
+"24.6.24","18-24 Other",100,0
+"24.6.24","18-24 SNP",100,0
+"24.6.24","25-49 Brexit Party",98,2
+"24.6.24","25-49 Conservatives",68,32
+"24.6.24","25-49 Greens",95,5
+"24.6.24","25-49 Labour",95,5
+"24.6.24","25-49 Liberal Democrats",95,5
+"24.6.24","25-49 Other",79,21
+"24.6.24","25-49 SNP",96,4
+"24.6.24","50-64 Brexit Party",99,1
+"24.6.24","50-64 Conservatives",70,30
+"24.6.24","50-64 Greens",100,0
+"24.6.24","50-64 Labour",99,1
+"24.6.24","50-64 Liberal Democrats",92,8
+"24.6.24","50-64 Other",88,12
+"24.6.24","50-64 SNP",94,6
+"24.6.24","65+ Brexit Party",88,12
+"24.6.24","65+ Conservatives",75,25
+"24.6.24","65+ Greens",100,0
+"24.6.24","65+ Labour",97,3
+"24.6.24","65+ Liberal Democrats",97,3
+"24.6.24","65+ Other",86,14
+"24.6.24","65+ SNP",92,8
+"24.6.24","Asian Brexit Party",91,9
+"24.6.24","Asian Conservatives",72,28
+"24.6.24","Asian Greens",100,0
+"24.6.24","Asian Labour",96,4
+"24.6.24","Asian Liberal Democrats",87,13
+"24.6.24","Asian Other",61,39
+"24.6.24","Asian SNP",100,0
+"24.6.24","Black Brexit Party",100,0
+"24.6.24","Black Conservatives",69,31
+"24.6.24","Black Greens",100,0
+"24.6.24","Black Labour",56,44
+"24.6.24","Black Liberal Democrats",100,0
+"24.6.24","Black Other",54,46
+"24.6.24","Black SNP",100,0
+"24.6.24","Mixed Brexit Party",80,20
+"24.6.24","Mixed Conservatives",40,60
+"24.6.24","Mixed Greens",100,0
+"24.6.24","Mixed Labour",97,3
+"24.6.24","Mixed Liberal Democrats",100,0
+"24.6.24","Mixed Other",100,0
+"24.6.24","Mixed SNP",98,2
+"24.6.24","Other Brexit Party",100,0
+"24.6.24","Other Conservatives",79,21
+"24.6.24","Other Greens",100,0
+"24.6.24","Other Labour",100,0
+"24.6.24","Other Liberal Democrats",97,3
+"24.6.24","Other Other",93,7
+"24.6.24","Other SNP",100,0
+"24.6.24","White Brexit Party",95,5
+"24.6.24","White Conservatives",73,27
+"24.6.24","White Greens",97,3
+"24.6.24","White Labour",98,2
+"24.6.24","White Liberal Democrats",95,5
+"24.6.24","White Other",88,12
+"24.6.24","White SNP",95,5
+"30.7.24","National",49,51
+"30.7.24","Female",53,47
+"30.7.24","Male",45,55
+"30.7.24","18-24",54,46
+"30.7.24","25-34",44,56
+"30.7.24","35-54",45,55
+"30.7.24","55+",53,47
+"30.7.24","Asian",52,48
+"30.7.24","Black",26,74
+"30.7.24","Mixed",35,65
+"30.7.24","Other",58,42
+"30.7.24","White",50,50
+"30.7.24","Conservatives",69,31
+"30.7.24","Greens",57,43
+"30.7.24","Labour",25,75
+"30.7.24","Liberal Democrats",39,61
+"30.7.24","Other",65,35
+"30.7.24","Reform UK",88,12
+"30.7.24","SNP/Plaid",70,30
+"30.7.24","Female 18-24",59,41
+"30.7.24","Female 25-34",48,52
+"30.7.24","Female 35-54",50,50
+"30.7.24","Female 55+",56,44
+"30.7.24","Male 18-24",48,52
+"30.7.24","Male 25-34",40,60
+"30.7.24","Male 35-54",41,59
+"30.7.24","Male 55+",51,49
+"30.7.24","Female Asian",56,44
+"30.7.24","Female Black",29,71
+"30.7.24","Female Mixed",37,63
+"30.7.24","Female Other",64,36
+"30.7.24","Female White",54,46
+"30.7.24","Male Asian",48,52
+"30.7.24","Male Black",22,78
+"30.7.24","Male Mixed",32,68
+"30.7.24","Male Other",54,46
+"30.7.24","Male White",46,54
+"30.7.24","Female Conservatives",73,27
+"30.7.24","Female Greens",58,42
+"30.7.24","Female Labour",33,67
+"30.7.24","Female Liberal Democrats",46,54
+"30.7.24","Female Other",82,18
+"30.7.24","Female Reform UK",86,14
+"30.7.24","Female SNP/Plaid",66,34
+"30.7.24","Male Conservatives",65,35
+"30.7.24","Male Greens",56,44
+"30.7.24","Male Labour",17,83
+"30.7.24","Male Liberal Democrats",31,69
+"30.7.24","Male Other",48,52
+"30.7.24","Male Reform UK",90,10
+"30.7.24","Male SNP/Plaid",73,27
+"30.7.24","18-24 Asian",57,43
+"30.7.24","18-24 Black",18,82
+"30.7.24","18-24 Mixed",6,94
+"30.7.24","18-24 Other",21,79
+"30.7.24","18-24 White",57,43
+"30.7.24","25-34 Asian",54,46
+"30.7.24","25-34 Black",19,81
+"30.7.24","25-34 Mixed",81,19
+"30.7.24","25-34 Other",53,47
+"30.7.24","25-34 White",43,57
+"30.7.24","35-54 Asian",49,51
+"30.7.24","35-54 Black",28,72
+"30.7.24","35-54 Mixed",50,50
+"30.7.24","35-54 Other",73,27
+"30.7.24","35-54 White",45,55
+"30.7.24","55+ Asian",48,52
+"30.7.24","55+ Black",37,63
+"30.7.24","55+ Mixed",10,90
+"30.7.24","55+ Other",72,28
+"30.7.24","55+ White",55,45
+"30.7.24","18-24 Conservatives",91,9
+"30.7.24","18-24 Greens",60,40
+"30.7.24","18-24 Labour",35,65
+"30.7.24","18-24 Liberal Democrats",51,49
+"30.7.24","18-24 Other",82,18
+"30.7.24","18-24 Reform UK",83,17
+"30.7.24","18-24 SNP/Plaid",93,7
+"30.7.24","25-34 Conservatives",66,34
+"30.7.24","25-34 Greens",53,47
+"30.7.24","25-34 Labour",28,72
+"30.7.24","25-34 Liberal Democrats",31,69
+"30.7.24","25-34 Other",53,47
+"30.7.24","25-34 Reform UK",85,15
+"30.7.24","25-34 SNP/Plaid",60,40
+"30.7.24","35-54 Conservatives",62,38
+"30.7.24","35-54 Greens",56,44
+"30.7.24","35-54 Labour",20,80
+"30.7.24","35-54 Liberal Democrats",34,66
+"30.7.24","35-54 Other",53,47
+"30.7.24","35-54 Reform UK",91,9
+"30.7.24","35-54 SNP/Plaid",58,42
+"30.7.24","55+ Conservatives",71,29
+"30.7.24","55+ Greens",52,48
+"30.7.24","55+ Labour",13,87
+"30.7.24","55+ Liberal Democrats",35,65
+"30.7.24","55+ Other",60,40
+"30.7.24","55+ Reform UK",90,10
+"30.7.24","55+ SNP/Plaid",48,52
+"30.7.24","Asian Conservatives",54,46
+"30.7.24","Asian Greens",75,25
+"30.7.24","Asian Labour",37,63
+"30.7.24","Asian Liberal Democrats",23,77
+"30.7.24","Asian Other",78,22
+"30.7.24","Asian Reform UK",100,0
+"30.7.24","Asian SNP/Plaid",13,87
+"30.7.24","Black Conservatives",19,81
+"30.7.24","Black Greens",0,100
+"30.7.24","Black Labour",19,81
+"30.7.24","Black Liberal Democrats",0,100
+"30.7.24","Black Other",NA,NA
+"30.7.24","Black Reform UK",100,0
+"30.7.24","Black SNP/Plaid",NA,NA
+"30.7.24","Mixed Conservatives",16,84
+"30.7.24","Mixed Greens",1,99
+"30.7.24","Mixed Labour",32,68
+"30.7.24","Mixed Liberal Democrats",16,84
+"30.7.24","Mixed Other",NA,NA
+"30.7.24","Mixed Reform UK",87,13
+"30.7.24","Mixed SNP/Plaid",NA,NA
+"30.7.24","Other Conservatives",100,0
+"30.7.24","Other Greens",12,88
+"30.7.24","Other Labour",38,62
+"30.7.24","Other Liberal Democrats",NA,NA
+"30.7.24","Other Other",NA,NA
+"30.7.24","Other Reform UK",100,0
+"30.7.24","Other SNP/Plaid",NA,NA
+"30.7.24","White Conservatives",74,26
+"30.7.24","White Greens",60,40
+"30.7.24","White Labour",23,77
+"30.7.24","White Liberal Democrats",44,56
+"30.7.24","White Other",65,35
+"30.7.24","White Reform UK",86,14
+"30.7.24","White SNP/Plaid",72,28
+"27.8.24","National",54,46
+"27.8.24","Female",54,46
+"27.8.24","Male",53,47
+"27.8.24","18-24",47,53
+"27.8.24","25-34",49,51
+"27.8.24","35-54",54,46
+"27.8.24","55+",64,36
+"27.8.24","Asian",51,49
+"27.8.24","Black",27,73
+"27.8.24","Mixed",55,45
+"27.8.24","Other",68,32
+"27.8.24","White",55,45
+"27.8.24","Conservatives",83,17
+"27.8.24","Greens",63,37
+"27.8.24","Labour",29,71
+"27.8.24","Liberal Democrats",42,58
+"27.8.24","Other",64,36
+"27.8.24","Reform UK",84,16
+"27.8.24","SNP/Plaid",67,33
+"27.8.24","Female 18-24",43,57
+"27.8.24","Female 25-34",50,50
+"27.8.24","Female 35-54",56,44
+"27.8.24","Female 55+",65,35
+"27.8.24","Male 18-24",51,49
+"27.8.24","Male 25-34",47,53
+"27.8.24","Male 35-54",52,48
+"27.8.24","Male 55+",63,37
+"27.8.24","Female Asian",53,47
+"27.8.24","Female Black",29,71
+"27.8.24","Female Mixed",51,49
+"27.8.24","Female Other",66,34
+"27.8.24","Female White",55,45
+"27.8.24","Male Asian",48,52
+"27.8.24","Male Black",26,74
+"27.8.24","Male Mixed",59,41
+"27.8.24","Male Other",70,30
+"27.8.24","Male White",55,45
+"27.8.24","Female Conservatives",84,16
+"27.8.24","Female Greens",57,43
+"27.8.24","Female Labour",32,68
+"27.8.24","Female Liberal Democrats",50,50
+"27.8.24","Female Other",72,28
+"27.8.24","Female Reform UK",76,24
+"27.8.24","Female SNP/Plaid",60,40
+"27.8.24","Male Conservatives",82,18
+"27.8.24","Male Greens",68,32
+"27.8.24","Male Labour",26,74
+"27.8.24","Male Liberal Democrats",34,66
+"27.8.24","Male Other",56,44
+"27.8.24","Male Reform UK",89,11
+"27.8.24","Male SNP/Plaid",72,28
+"27.8.24","18-24 Asian",37,63
+"27.8.24","18-24 Black",19,81
+"27.8.24","18-24 Mixed",29,71
+"27.8.24","18-24 Other",65,35
+"27.8.24","18-24 White",50,50
+"27.8.24","25-34 Asian",45,55
+"27.8.24","25-34 Black",24,76
+"27.8.24","25-34 Mixed",38,62
+"27.8.24","25-34 Other",39,61
+"27.8.24","25-34 White",51,49
+"27.8.24","35-54 Asian",60,40
+"27.8.24","35-54 Black",17,83
+"27.8.24","35-54 Mixed",63,37
+"27.8.24","35-54 Other",70,30
+"27.8.24","35-54 White",54,46
+"27.8.24","55+ Asian",59,41
+"27.8.24","55+ Black",48,52
+"27.8.24","55+ Mixed",100,0
+"27.8.24","55+ Other",80,20
+"27.8.24","55+ White",64,36
+"27.8.24","18-24 Conservatives",54,46
+"27.8.24","18-24 Greens",54,46
+"27.8.24","18-24 Labour",33,67
+"27.8.24","18-24 Liberal Democrats",42,58
+"27.8.24","18-24 Other",73,27
+"27.8.24","18-24 Reform UK",75,25
+"27.8.24","18-24 SNP/Plaid",81,19
+"27.8.24","25-34 Conservatives",85,15
+"27.8.24","25-34 Greens",79,21
+"27.8.24","25-34 Labour",29,71
+"27.8.24","25-34 Liberal Democrats",38,62
+"27.8.24","25-34 Other",48,52
+"27.8.24","25-34 Reform UK",75,25
+"27.8.24","25-34 SNP/Plaid",75,25
+"27.8.24","35-54 Conservatives",78,22
+"27.8.24","35-54 Greens",56,44
+"27.8.24","35-54 Labour",29,71
+"27.8.24","35-54 Liberal Democrats",47,53
+"27.8.24","35-54 Other",60,40
+"27.8.24","35-54 Reform UK",88,12
+"27.8.24","35-54 SNP/Plaid",60,40
+"27.8.24","55+ Conservatives",88,12
+"27.8.24","55+ Greens",74,26
+"27.8.24","55+ Labour",25,75
+"27.8.24","55+ Liberal Democrats",42,58
+"27.8.24","55+ Other",78,22
+"27.8.24","55+ Reform UK",90,10
+"27.8.24","55+ SNP/Plaid",45,55
+"27.8.24","Asian Conservatives",69,31
+"27.8.24","Asian Greens",60,40
+"27.8.24","Asian Labour",25,75
+"27.8.24","Asian Liberal Democrats",57,43
+"27.8.24","Asian Other",61,39
+"27.8.24","Asian Reform UK",78,22
+"27.8.24","Asian SNP/Plaid",74,26
+"27.8.24","Black Conservatives",62,38
+"27.8.24","Black Greens",14,86
+"27.8.24","Black Labour",20,80
+"27.8.24","Black Liberal Democrats",35,65
+"27.8.24","Black Other",NA,NA
+"27.8.24","Black Reform UK",0,100
+"27.8.24","Black SNP/Plaid",NA,NA
+"27.8.24","Mixed Conservatives",83,17
+"27.8.24","Mixed Greens",26,74
+"27.8.24","Mixed Labour",40,60
+"27.8.24","Mixed Liberal Democrats",36,64
+"27.8.24","Mixed Other",NA,NA
+"27.8.24","Mixed Reform UK",93,7
+"27.8.24","Mixed SNP/Plaid",NA,NA
+"27.8.24","Other Conservatives",100,0
+"27.8.24","Other Greens",81,19
+"27.8.24","Other Labour",46,54
+"27.8.24","Other Liberal Democrats",NA,NA
+"27.8.24","Other Other",NA,NA
+"27.8.24","Other Reform UK",100,0
+"27.8.24","Other SNP/Plaid",NA,NA
+"27.8.24","White Conservatives",85,15
+"27.8.24","White Greens",66,34
+"27.8.24","White Labour",29,71
+"27.8.24","White Liberal Democrats",41,59
+"27.8.24","White Other",64,36
+"27.8.24","White Reform UK",88,12
+"27.8.24","White SNP/Plaid",67,33
+"30.9.24","National",68,32
+"30.9.24","Female",72,28
+"30.9.24","Male",64,36
+"30.9.24","18-24",66,34
+"30.9.24","25-34",62,38
+"30.9.24","35-54",66,34
+"30.9.24","55+",76,24
+"30.9.24","Asian",72,28
+"30.9.24","Black",44,56
+"30.9.24","Mixed",75,25
+"30.9.24","Other",55,45
+"30.9.24","White",69,31
+"30.9.24","Conservatives",87,13
+"30.9.24","Greens",81,19
+"30.9.24","Labour",50,50
+"30.9.24","Liberal Democrats",54,46
+"30.9.24","Other",70,30
+"30.9.24","Reform UK",94,6
+"30.9.24","SNP/Plaid",86,14
+"30.9.24","Female 18-24",70,30
+"30.9.24","Female 25-34",68,32
+"30.9.24","Female 35-54",69,31
+"30.9.24","Female 55+",80,20
+"30.9.24","Male 18-24",63,37
+"30.9.24","Male 25-34",57,43
+"30.9.24","Male 35-54",63,37
+"30.9.24","Male 55+",72,28
+"30.9.24","Female Asian",76,24
+"30.9.24","Female Black",55,45
+"30.9.24","Female Mixed",88,12
+"30.9.24","Female Other",39,61
+"30.9.24","Female White",72,28
+"30.9.24","Male Asian",67,33
+"30.9.24","Male Black",34,66
+"30.9.24","Male Mixed",64,36
+"30.9.24","Male Other",68,32
+"30.9.24","Male White",65,35
+"30.9.24","Female Conservatives",90,10
+"30.9.24","Female Greens",83,17
+"30.9.24","Female Labour",55,45
+"30.9.24","Female Liberal Democrats",60,40
+"30.9.24","Female Other",100,0
+"30.9.24","Female Reform UK",96,4
+"30.9.24","Female SNP/Plaid",85,15
+"30.9.24","Male Conservatives",85,15
+"30.9.24","Male Greens",79,21
+"30.9.24","Male Labour",44,56
+"30.9.24","Male Liberal Democrats",47,53
+"30.9.24","Male Other",38,62
+"30.9.24","Male Reform UK",92,8
+"30.9.24","Male SNP/Plaid",86,14
+"30.9.24","18-24 Asian",70,30
+"30.9.24","18-24 Black",60,40
+"30.9.24","18-24 Mixed",93,7
+"30.9.24","18-24 Other",71,29
+"30.9.24","18-24 White",65,35
+"30.9.24","25-34 Asian",64,36
+"30.9.24","25-34 Black",30,70
+"30.9.24","25-34 Mixed",15,85
+"30.9.24","25-34 Other",37,63
+"30.9.24","25-34 White",65,35
+"30.9.24","35-54 Asian",74,26
+"30.9.24","35-54 Black",52,48
+"30.9.24","35-54 Mixed",85,15
+"30.9.24","35-54 Other",35,65
+"30.9.24","35-54 White",66,34
+"30.9.24","55+ Asian",77,23
+"30.9.24","55+ Black",41,59
+"30.9.24","55+ Mixed",100,0
+"30.9.24","55+ Other",70,30
+"30.9.24","55+ White",78,22
+"30.9.24","18-24 Conservatives",92,8
+"30.9.24","18-24 Greens",81,19
+"30.9.24","18-24 Labour",57,43
+"30.9.24","18-24 Liberal Democrats",47,53
+"30.9.24","18-24 Other",54,46
+"30.9.24","18-24 Reform UK",96,4
+"30.9.24","18-24 SNP/Plaid",100,0
+"30.9.24","25-34 Conservatives",84,16
+"30.9.24","25-34 Greens",85,15
+"30.9.24","25-34 Labour",49,51
+"30.9.24","25-34 Liberal Democrats",43,57
+"30.9.24","25-34 Other",77,23
+"30.9.24","25-34 Reform UK",84,16
+"30.9.24","25-34 SNP/Plaid",70,30
+"30.9.24","35-54 Conservatives",79,21
+"30.9.24","35-54 Greens",72,28
+"30.9.24","35-54 Labour",46,54
+"30.9.24","35-54 Liberal Democrats",59,41
+"30.9.24","35-54 Other",79,21
+"30.9.24","35-54 Reform UK",100,0
+"30.9.24","35-54 SNP/Plaid",82,18
+"30.9.24","55+ Conservatives",92,8
+"30.9.24","55+ Greens",78,22
+"30.9.24","55+ Labour",46,54
+"30.9.24","55+ Liberal Democrats",67,33
+"30.9.24","55+ Other",91,9
+"30.9.24","55+ Reform UK",94,6
+"30.9.24","55+ SNP/Plaid",77,23
+"30.9.24","Asian Conservatives",89,11
+"30.9.24","Asian Greens",100,0
+"30.9.24","Asian Labour",53,47
+"30.9.24","Asian Liberal Democrats",55,45
+"30.9.24","Asian Other",50,50
+"30.9.24","Asian Reform UK",100,0
+"30.9.24","Asian SNP/Plaid",100,0
+"30.9.24","Black Conservatives",30,70
+"30.9.24","Black Greens",100,0
+"30.9.24","Black Labour",39,61
+"30.9.24","Black Liberal Democrats",31,69
+"30.9.24","Black Other",NA,NA
+"30.9.24","Black Reform UK",56,44
+"30.9.24","Black SNP/Plaid",NA,NA
+"30.9.24","Mixed Conservatives",100,0
+"30.9.24","Mixed Greens",100,0
+"30.9.24","Mixed Labour",59,41
+"30.9.24","Mixed Liberal Democrats",91,9
+"30.9.24","Mixed Other",NA,NA
+"30.9.24","Mixed Reform UK",76,24
+"30.9.24","Mixed SNP/Plaid",NA,NA
+"30.9.24","Other Conservatives",58,42
+"30.9.24","Other Greens",100,0
+"30.9.24","Other Labour",43,57
+"30.9.24","Other Liberal Democrats",NA,NA
+"30.9.24","Other Other",NA,NA
+"30.9.24","Other Reform UK",100,0
+"30.9.24","Other SNP/Plaid",NA,NA
+"30.9.24","White Conservatives",90,10
+"30.9.24","White Greens",77,23
+"30.9.24","White Labour",50,50
+"30.9.24","White Liberal Democrats",55,45
+"30.9.24","White Other",71,29
+"30.9.24","White Reform UK",96,4
+"30.9.24","White SNP/Plaid",85,15
