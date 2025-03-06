@@ -1,0 +1,8 @@
+question_id,question_text,response_options
+TrumpApprove,Do you approve or disapprove of the way Donald Trump is handling his job as president?,Strongly Approve:Somewhat Approve:Somewhat Disapprove:Strongly Disapprove
+DTfavour,Do you have a favorable or unfavorable opinion of Donald Trump?,Very favorable:Somewhat favorable:Somewhat unfavorable:Very unfavorable
+Polarization,Have you cut ties with a friend or family member over political differences in the last month?,Yes:No
+EconomicPolicy,How has the cost of everyday goods for you changed over the last month?,Large increase:Small increase:No change:Small decrease:Large decrease
+ImmigrationPolicy,How has the government's immigration policy impacted you over the last month?,Strongly positive impact:Somewhat positive impact:No impact:Somewhat negative impact:Strongly negative impact
+ForeignPolicy,"Has the world become more safe, less safe, or no change over the last month?",Much more safe:Somewhat more safe:No change:Somewhat less safe:Much less safe
+HealthcarePolicy,"How have your concerns about the state of healthcare in America (including access, affordability, and policy changes) changed over the last month?",Much more concerned:Somewhat more concerned:No change:Somewhat less concerned:Much less concerned
