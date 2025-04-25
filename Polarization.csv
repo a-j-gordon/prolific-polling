@@ -12,10 +12,10 @@ Date,Demographic Factors ,Demographic Level,Yes,No
 5.3.25,Sex,Female,11.7,88.3
 5.3.25,Sex,Gender Expansive,32.2,67.8
 5.3.25,Sex,Male,8.5,91.5
-5.3.25,Ethnicity,African American,12.0,88.0
+5.3.25,Ethnicity,African American,12,88
 5.3.25,Ethnicity,Asian,5.8,94.2
 5.3.25,Ethnicity,Hispanic,17.6,82.4
-5.3.25,Ethnicity,White,9.0,91.0
+5.3.25,Ethnicity,White,9,91
 5.3.25,Education,College,11.5,88.5
 5.3.25,Education,No College,9.4,90.6
 5.3.25,Urbanicity,Rural,8.1,91.9
@@ -25,14 +25,14 @@ Date,Demographic Factors ,Demographic Level,Yes,No
 3.2.25,Politics,Democrat,11.3,88.7
 3.2.25,Politics,Independent,6.5,93.5
 3.2.25,Politics,Republican,3.4,96.6
-3.2.25,Age,18-24,11.0,89.0
+3.2.25,Age,18-24,11,89
 3.2.25,Age,25-34,12.7,87.3
 3.2.25,Age,35-44,8.4,91.6
 3.2.25,Age,45-54,6.9,93.1
-3.2.25,Age,55-64,9.0,91.0
+3.2.25,Age,55-64,9,91
 3.2.25,Age,65+,4.4,95.6
 3.2.25,Sex,Female,8.4,91.6
-3.2.25,Sex,Gender Expansive,9.0,91.0
+3.2.25,Sex,Gender Expansive,9,91
 3.2.25,Sex,Male,6.3,93.7
 3.2.25,Ethnicity,African American,4.3,95.7
 3.2.25,Ethnicity,Asian,7.4,92.6
@@ -53,15 +53,15 @@ Date,Demographic Factors ,Demographic Level,Yes,No
 13.1.25,Age,45-54,5.2,94.8
 13.1.25,Age,55-64,6.1,93.9
 13.1.25,Age,65+,2.3,97.7
-13.1.25,Sex,Female,5.0,95.0
+13.1.25,Sex,Female,5,95
 13.1.25,Sex,Gender Expansive,5.6,94.4
 13.1.25,Sex,Male,4.3,95.7
 13.1.25,Ethnicity,African American,7.7,92.3
 13.1.25,Ethnicity,Asian,5.6,94.4
 13.1.25,Ethnicity,Hispanic,6.8,93.2
 13.1.25,Ethnicity,White,3.9,96.1
-13.1.25,Education,College,6.0,94.0
-13.1.25,Education,No College,4.0,96.0
+13.1.25,Education,College,6,94
+13.1.25,Education,No College,4,96
 13.1.25,Urbanicity,Rural,2.2,97.8
 13.1.25,Urbanicity,Suburban,4.8,95.2
 13.1.25,Urbanicity,Urban,6.9,93.1
@@ -73,7 +73,7 @@ Date,Demographic Factors ,Demographic Level,Yes,No
 17.12.24,Age,25-34,7.4,92.6
 17.12.24,Age,35-44,9.7,90.3
 17.12.24,Age,45-54,7.4,92.6
-17.12.24,Age,55-64,9.0,91.0
+17.12.24,Age,55-64,9,91
 17.12.24,Age,65+,5.3,94.7
 17.12.24,Sex,Female,8.6,91.4
 17.12.24,Sex,Gender Expansive,23.1,76.9
@@ -84,6 +84,50 @@ Date,Demographic Factors ,Demographic Level,Yes,No
 17.12.24,Ethnicity,White,6.5,93.5
 17.12.24,Education,College,9.9,90.1
 17.12.24,Education,No College,5.9,94.1
-17.12.24,Urbanicity,Rural,5.0,95.0
+17.12.24,Urbanicity,Rural,5,95
 17.12.24,Urbanicity,Suburban,6.6,93.4
 17.12.24,Urbanicity,Urban,10.3,89.7
+2.4.25,National,National,8.2,91.8
+2.4.25,Politics,Democrat,11.7,88.3
+2.4.25,Politics,Independent,5.6,94.4
+2.4.25,Politics,Republican,5.5,94.5
+2.4.25,Age,18-24,7.4,92.6
+2.4.25,Age,25-34,9.3,90.7
+2.4.25,Age,35-44,8.6,91.4
+2.4.25,Age,45-54,9.1,90.9
+2.4.25,Age,55-64,10.3,89.7
+2.4.25,Age,65+,6.4,93.6
+2.4.25,Sex,Female,9.5,90.5
+2.4.25,Sex,Gender Expansive,0,100
+2.4.25,Sex,Male,6.8,93.2
+2.4.25,Ethnicity,African American,12.4,87.6
+2.4.25,Ethnicity,Asian,5.2,94.8
+2.4.25,Ethnicity,Hispanic,10.7,89.3
+2.4.25,Ethnicity,White,7.5,92.5
+2.4.25,Education,College,10.5,89.5
+2.4.25,Education,No College,7.1,92.9
+2.4.25,Urbanicity,Rural,5.7,94.3
+2.4.25,Urbanicity,Suburban,7.6,92.4
+2.4.25,Urbanicity,Urban,11.5,88.5
+23.4.25,National,National,7.9,92.1
+23.4.25,Politics,Democrat,11.1,88.9
+23.4.25,Politics,Independent,3.3,96.7
+23.4.25,Politics,Republican,6.5,93.5
+23.4.25,Age,18-24,11.7,88.3
+23.4.25,Age,25-34,12.1,87.9
+23.4.25,Age,35-44,8.4,91.6
+23.4.25,Age,45-54,9.1,90.9
+23.4.25,Age,55-64,6.4,93.6
+23.4.25,Age,65+,6.2,93.8
+23.4.25,Sex,Female,9.9,90.1
+23.4.25,Sex,Gender Expansive,26.7,73.3
+23.4.25,Sex,Male,5.7,94.3
+23.4.25,Ethnicity,African American,11.7,88.3
+23.4.25,Ethnicity,Asian,1.5,98.5
+23.4.25,Ethnicity,Hispanic,9,91
+23.4.25,Ethnicity,White,7.6,92.4
+23.4.25,Education,College,9.5,90.5
+23.4.25,Education,No College,7.1,92.9
+23.4.25,Urbanicity,Rural,4.7,95.3
+23.4.25,Urbanicity,Suburban,9.1,90.9
+23.4.25,Urbanicity,Urban,9.5,90.5
