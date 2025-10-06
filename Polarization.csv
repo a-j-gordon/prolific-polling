@@ -1,4 +1,4 @@
-Date,Demographic Factors ,Demographic Level,Yes,No
+Date,Demographic.Factors,Demographic.Level,Yes,No
 5.3.25,National,National,10.1,89.9
 5.3.25,Politics,Democrat,15.7,84.3
 5.3.25,Politics,Independent,5.1,94.9
@@ -153,3 +153,91 @@ Date,Demographic Factors ,Demographic Level,Yes,No
 4.6.25,Urbanicity,Rural,3.7,96.3
 4.6.25,Urbanicity,Suburban,6.1,93.9
 4.6.25,Urbanicity,Urban,10.3,89.7
+1.7.25,National,National,7.5,92.5
+1.7.25,Politics,Democrat,11,89
+1.7.25,Politics,Independent,5.9,94.1
+1.7.25,Politics,Republican,4.3,95.7
+1.7.25,Age,18-24,7.8,92.2
+1.7.25,Age,25-34,9.5,90.5
+1.7.25,Age,35-44,9.5,90.5
+1.7.25,Age,45-54,7.5,92.5
+1.7.25,Age,55-64,7.7,92.3
+1.7.25,Age,65+,5.9,94.1
+1.7.25,Sex,Female,7.7,92.3
+1.7.25,Sex,Gender Expansive,5.6,94.4
+1.7.25,Sex,Male,7.3,92.7
+1.7.25,Ethnicity,African American,13.2,86.8
+1.7.25,Ethnicity,Asian,4.8,95.2
+1.7.25,Ethnicity,Hispanic,11.2,88.8
+1.7.25,Ethnicity,White,6.4,93.6
+1.7.25,Education,College,7.7,92.3
+1.7.25,Education,No College,7.4,92.6
+1.7.25,Urbanicity,Rural,5.7,94.3
+1.7.25,Urbanicity,Suburban,6.8,93.2
+1.7.25,Urbanicity,Urban,10.3,89.7
+5.8.25,National,National,6.7,93.3
+5.8.25,Politics,Democrat,9.7,90.3
+5.8.25,Politics,Independent,3.5,96.5
+5.8.25,Politics,Republican,4.7,95.3
+5.8.25,Age,18-24,8.9,91.1
+5.8.25,Age,25-34,9.1,90.9
+5.8.25,Age,35-44,5.9,94.1
+5.8.25,Age,45-54,7.4,92.6
+5.8.25,Age,55-64,4.3,95.7
+5.8.25,Age,65+,6.7,93.3
+5.8.25,Sex,Female,7.2,92.8
+5.8.25,Sex,Gender Expansive,7.4,92.6
+5.8.25,Sex,Male,6,94
+5.8.25,Ethnicity,African American,8.1,91.9
+5.8.25,Ethnicity,Asian,7.1,92.9
+5.8.25,Ethnicity,Hispanic,8.3,91.7
+5.8.25,Ethnicity,White,6.2,93.8
+5.8.25,Education,College,6.8,93.2
+5.8.25,Education,No College,6.6,93.4
+5.8.25,Urbanicity,Rural,5.7,94.3
+5.8.25,Urbanicity,Suburban,6,94
+5.8.25,Urbanicity,Urban,8.4,91.6
+5.9.25,National,National,5,95
+5.9.25,Politics,Democrat,7.2,92.8
+5.9.25,Politics,Independent,3.8,96.2
+5.9.25,Politics,Republican,3.1,96.9
+5.9.25,Age,18-24,5.5,94.5
+5.9.25,Age,25-34,6.4,93.6
+5.9.25,Age,35-44,7.3,92.7
+5.9.25,Age,45-54,4.5,95.5
+5.9.25,Age,55-64,4.5,95.5
+5.9.25,Age,65+,4,96
+5.9.25,Sex,Female,4.9,95.1
+5.9.25,Sex,Gender Expansive,4.2,95.8
+5.9.25,Sex,Male,5.2,94.8
+5.9.25,Ethnicity,African American,7.3,92.7
+5.9.25,Ethnicity,Asian,3.9,96.1
+5.9.25,Ethnicity,Hispanic,6.1,93.9
+5.9.25,Ethnicity,White,4.6,95.4
+5.9.25,Education,College,6.4,93.6
+5.9.25,Education,No College,4.3,95.7
+5.9.25,Urbanicity,Rural,3.7,96.3
+5.9.25,Urbanicity,Suburban,3.9,96.1
+5.9.25,Urbanicity,Urban,7.9,92.1
+1.10.25,National,National,6.2,93.8
+1.10.25,Politics,Democrat,8.5,91.5
+1.10.25,Politics,Independent,4.7,95.3
+1.10.25,Politics,Republican,4.2,95.8
+1.10.25,Age,18-24,7.4,92.6
+1.10.25,Age,25-34,6.7,93.3
+1.10.25,Age,35-44,9.4,90.6
+1.10.25,Age,45-54,8.2,91.8
+1.10.25,Age,55-64,5.5,94.5
+1.10.25,Age,65+,4,96
+1.10.25,Sex,Female,7.2,92.8
+1.10.25,Sex,Gender Expansive,6.8,93.2
+1.10.25,Sex,Male,5,95
+1.10.25,Ethnicity,African American,7.7,92.3
+1.10.25,Ethnicity,Asian,4.8,95.2
+1.10.25,Ethnicity,Hispanic,6.5,93.5
+1.10.25,Ethnicity,White,6,94
+1.10.25,Education,College,9.2,90.8
+1.10.25,Education,No College,4.6,95.4
+1.10.25,Urbanicity,Rural,4.7,95.3
+1.10.25,Urbanicity,Suburban,6.2,93.8
+1.10.25,Urbanicity,Urban,7.5,92.5
